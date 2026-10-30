@@ -1,0 +1,46 @@
+{
+  "version": "v0.3",
+  "date": "2026-10-31",
+  "tool": "image_gen.imagegen",
+  "reference": "brand/approved/v0.1/red-mushroom.png",
+  "reference_status": "approved",
+  "transparent_background": true,
+  "status": "candidate",
+  "generations": [
+    {
+      "id": "yellow-mushroom",
+      "label": "黃色蘑菇",
+      "prompt": "Edit the attached APPROVED red mushroom icon to create one consistent color variant of the SAME character. Preserve the existing exact cap silhouette, five spot positions, ivory stem/body, cocoa eyes and their tiny highlights, smiling mouth, peach cheeks, all green leaves, same composition, same generous margins, original square canvas if possible, and same diffuse upper-left lighting. Only change the cap and its shading (and spots only if explicitly instructed). Preserve the soft matte cream-gumdrop 2.5D cartoon material. No new expression, shapes, limbs, textures, background, text, border, sticker outline, or cast shadows outside the subject. Transparent RGBA background must remain transparent. Do not redraw the character as a different mushroom. Color target: warm butter-yellow / honey-yellow (#F3C957), keeping ivory spots"
+    },
+    {
+      "id": "blue-mushroom",
+      "label": "藍色蘑菇",
+      "prompt": "Edit the attached APPROVED red mushroom icon to create one consistent color variant of the SAME character. Preserve the existing exact cap silhouette, five spot positions, ivory stem/body, cocoa eyes and their tiny highlights, smiling mouth, peach cheeks, all green leaves, same composition, same generous margins, original square canvas if possible, and same diffuse upper-left lighting. Only change the cap and its shading (and spots only if explicitly instructed). Preserve the soft matte cream-gumdrop 2.5D cartoon material. No new expression, shapes, limbs, textures, background, text, border, sticker outline, or cast shadows outside the subject. Transparent RGBA background must remain transparent. Do not redraw the character as a different mushroom. Color target: clear medium cornflower blue (#659AD9), keeping ivory spots; visibly deeper and more saturated than ice-blue"
+    },
+    {
+      "id": "purple-mushroom",
+      "label": "紫色蘑菇",
+      "prompt": "Edit the attached APPROVED red mushroom icon to create one consistent color variant of the SAME character. Preserve the existing exact cap silhouette, five spot positions, ivory stem/body, cocoa eyes and their tiny highlights, smiling mouth, peach cheeks, all green leaves, same composition, same generous margins, original square canvas if possible, and same diffuse upper-left lighting. Only change the cap and its shading (and spots only if explicitly instructed). Preserve the soft matte cream-gumdrop 2.5D cartoon material. No new expression, shapes, limbs, textures, background, text, border, sticker outline, or cast shadows outside the subject. Transparent RGBA background must remain transparent. Do not redraw the character as a different mushroom. Color target: soft medium violet (#A78BCB), keeping ivory spots"
+    },
+    {
+      "id": "white-mushroom",
+      "label": "白色蘑菇",
+      "prompt": "Edit the attached APPROVED red mushroom icon to create one consistent color variant of the SAME character. Preserve the existing exact cap silhouette, five spot positions, ivory stem/body, cocoa eyes and their tiny highlights, smiling mouth, peach cheeks, all green leaves, same composition, same generous margins, original square canvas if possible, and same diffuse upper-left lighting. Only change the cap and its shading (and spots only if explicitly instructed). Preserve the soft matte cream-gumdrop 2.5D cartoon material. No new expression, shapes, limbs, textures, background, text, border, sticker outline, or cast shadows outside the subject. Transparent RGBA background must remain transparent. Do not redraw the character as a different mushroom. Color target: warm near-white cream (#FFF5E5), with softly contrasting warm beige spots (#D8C6A7) so the cap remains legible on white"
+    },
+    {
+      "id": "gray-mushroom",
+      "label": "灰色蘑菇",
+      "prompt": "Edit the attached APPROVED red mushroom icon to create one consistent color variant of the SAME character. Preserve the existing exact cap silhouette, five spot positions, ivory stem/body, cocoa eyes and their tiny highlights, smiling mouth, peach cheeks, all green leaves, same composition, same generous margins, original square canvas if possible, and same diffuse upper-left lighting. Only change the cap and its shading (and spots only if explicitly instructed). Preserve the soft matte cream-gumdrop 2.5D cartoon material. No new expression, shapes, limbs, textures, background, text, border, sticker outline, or cast shadows outside the subject. Transparent RGBA background must remain transparent. Do not redraw the character as a different mushroom. Color target: neutral warm medium gray (#A4A09C), keeping lighter ivory spots; must not look purple or white"
+    },
+    {
+      "id": "pink-mushroom",
+      "label": "粉紅蘑菇",
+      "prompt": "Edit the attached APPROVED red mushroom icon to create one consistent color variant of the SAME character. Preserve the existing exact cap silhouette, five spot positions, ivory stem/body, cocoa eyes and their tiny highlights, smiling mouth, peach cheeks, all green leaves, same composition, same generous margins, original square canvas if possible, and same diffuse upper-left lighting. Only change the cap and its shading (and spots only if explicitly instructed). Preserve the soft matte cream-gumdrop 2.5D cartoon material. No new expression, shapes, limbs, textures, background, text, border, sticker outline, or cast shadows outside the subject. Transparent RGBA background must remain transparent. Do not redraw the character as a different mushroom. Color target: soft rose pink (#EBA8BB), keeping ivory spots; recognizably pink, not coral-red"
+    },
+    {
+      "id": "ice-blue-mushroom",
+      "label": "冰藍蘑菇",
+      "prompt": "Edit the attached APPROVED red mushroom icon to create one consistent color variant of the SAME character. Preserve the existing exact cap silhouette, five spot positions, ivory stem/body, cocoa eyes and their tiny highlights, smiling mouth, peach cheeks, all green leaves, same composition, same generous margins, original square canvas if possible, and same diffuse upper-left lighting. Only change the cap and its shading (and spots only if explicitly instructed). Preserve the soft matte cream-gumdrop 2.5D cartoon material. No new expression, shapes, limbs, textures, background, text, border, sticker outline, or cast shadows outside the subject. Transparent RGBA background must remain transparent. Do not redraw the character as a different mushroom. Color target: very pale cool icy cyan (#BDE4EB), keeping ivory spots and soft slightly darker cyan edge shading; distinguish from medium blue and ivory white"
+    }
+  ]
+}

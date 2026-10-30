@@ -5,13 +5,15 @@
 ## 基準包狀態
 
 - [已核准的四個角色 v0.1](brand/approved/v0.1/)：紅蘑菇、火蘑菇、水晶蘑菇、葉芽。
-- [綠色花苞 v0.2（待確認）](brand/candidates/v0.2/flower-bud.png)：依使用者要求改為綠色。
-- [目前原檔檢閱頁](brand/reviews/v0.2/review.html)：下載或 clone 後開啟，可切換底色與 32／48／64 px。
+- [綠色花苞 v0.2（已定稿）](brand/approved/v0.2/flower-bud.png)：依使用者要求改為綠色。
+- [七種顏色候選 v0.3](brand/candidates/v0.3/)：黃、藍、紫、白、灰、粉紅、冰藍。
+- [八色比較圖板](brand/reviews/v0.3/comparison-board.png)：已核准紅菇與七張候選的風格示意。
+- [目前原檔檢閱頁](brand/reviews/v0.3/review.html)：下載或 clone 後開啟，可切換底色與 32／48／64 px。
 - [核准紀錄與雜湊](brand/approvals/2026-10-31-foundation.md)
 - [品牌規範](brand/STYLE.md)、[素材目錄](brand/catalog.json)、[圖示盤點](brand/icon-inventory.md)、[生成提示詞](brand/prompts/)
 - [歷史比較圖板 v0.1](brand/reviews/v0.1/comparison-board.png)：含已拒絕的粉色花苞，僅供追溯，不作目前花苞參考。
 
-四個角色的視覺設計已定稿，原稿副本存於 approved 並固定 hash。正式輸出仍需整理透明邊緣與尺寸；不要從圖板裁切素材。後續生成優先附上已核准角色參考，花苞必須為綠色。
+五個基準角色的視覺設計已定稿，原稿副本存於 approved 並固定 hash。正式輸出仍需整理透明邊緣與尺寸；不要從圖板裁切素材。後續生成優先附上已核准角色參考，花苞必須為綠色。七種顏色候選的生成提示詞記錄在 brand/prompts/v0.3-colors.json。
 
 ## 下一次新增圖示
 

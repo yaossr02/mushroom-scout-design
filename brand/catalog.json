@@ -154,8 +154,8 @@
       "id": "flower-bud",
       "label": "綠色花苞",
       "version": "v0.2",
-      "status": "candidate",
-      "path": "brand/candidates/v0.2/flower-bud.png",
+      "status": "approved",
+      "path": "brand/approved/v0.2/flower-bud.png",
       "sha256": "924b87b893f6bf32ff357b5457a41f7f969d8f7331b2099f45a9c71b8bf07528",
       "dimensions_px": [
         1254,
@@ -172,19 +172,230 @@
         0.500399,
         0.84051
       ],
-      "approval_record": null,
+      "approval_record": "brand/approvals/2026-10-31-green-bud.md",
       "known_limitations": [
-        "Unapproved candidate",
         "Faint low-alpha pixels outside body bounds",
         "Not normalized to target 1024 canvas; anchor is metadata estimate"
       ],
-      "revises": "flower-bud@v0.1"
+      "revises": "flower-bud@v0.1",
+      "approval_scope": "visual design; production export preparation remains pending"
+    },
+    {
+      "id": "yellow-mushroom",
+      "label": "黃色蘑菇",
+      "version": "v0.3",
+      "status": "candidate",
+      "path": "brand/candidates/v0.3/yellow-mushroom.png",
+      "sha256": "eb81c5222d82b161bc95d758a0854b0a0fc77cb44b2ccd3a744df74b1011b421",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        179,
+        240,
+        1076,
+        1059
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.844498
+      ],
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Unapproved candidate",
+        "Low-alpha fringe may require production cleanup",
+        "Not normalized to target export canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "blue-mushroom",
+      "label": "藍色蘑菇",
+      "version": "v0.3",
+      "status": "candidate",
+      "path": "brand/candidates/v0.3/blue-mushroom.png",
+      "sha256": "380b16ca731c96b7a15b4c00bb099e6b5c8af0a8ce68fb7a0d07fa8cefd86164",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        180,
+        241,
+        1075,
+        1059
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.844498
+      ],
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Unapproved candidate",
+        "Low-alpha fringe may require production cleanup",
+        "Not normalized to target export canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "purple-mushroom",
+      "label": "紫色蘑菇",
+      "version": "v0.3",
+      "status": "candidate",
+      "path": "brand/candidates/v0.3/purple-mushroom.png",
+      "sha256": "0645f2c93dfcdbc0407dbb79262a0a76a83329f77cd38397d1a5b87059f58cac",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        180,
+        240,
+        1076,
+        1059
+      ],
+      "anchor_normalized": [
+        0.500797,
+        0.844498
+      ],
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Unapproved candidate",
+        "Low-alpha fringe may require production cleanup",
+        "Not normalized to target export canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "white-mushroom",
+      "label": "白色蘑菇",
+      "version": "v0.3",
+      "status": "candidate",
+      "path": "brand/candidates/v0.3/white-mushroom.png",
+      "sha256": "5aaf0b5391cc0dcd96be45e188363d5592b0f769a6c09e3a4424f7ed9c32e54f",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        180,
+        240,
+        1075,
+        1059
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.844498
+      ],
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Unapproved candidate",
+        "Low-alpha fringe may require production cleanup",
+        "Not normalized to target export canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "gray-mushroom",
+      "label": "灰色蘑菇",
+      "version": "v0.3",
+      "status": "candidate",
+      "path": "brand/candidates/v0.3/gray-mushroom.png",
+      "sha256": "3db3e5978b55a50804aa1c3e038b1454499eaf90a64dfa948795d0b8237def7e",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        180,
+        241,
+        1075,
+        1058
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.8437
+      ],
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Unapproved candidate",
+        "Low-alpha fringe may require production cleanup",
+        "Not normalized to target export canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "pink-mushroom",
+      "label": "粉紅蘑菇",
+      "version": "v0.3",
+      "status": "candidate",
+      "path": "brand/candidates/v0.3/pink-mushroom.png",
+      "sha256": "8024a7ada3965a6f793475bcafbce7178064b743973eb567fa7cd80f2c75e07b",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        180,
+        240,
+        1075,
+        1058
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.8437
+      ],
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Unapproved candidate",
+        "Low-alpha fringe may require production cleanup",
+        "Not normalized to target export canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "ice-blue-mushroom",
+      "label": "冰藍蘑菇",
+      "version": "v0.3",
+      "status": "candidate",
+      "path": "brand/candidates/v0.3/ice-blue-mushroom.png",
+      "sha256": "9e2dc0cf0f12a131cd5168f679624608c4f57ef1c362da1fbab81a322268dfab",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        180,
+        241,
+        1075,
+        1058
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.8437
+      ],
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Unapproved candidate",
+        "Low-alpha fringe may require production cleanup",
+        "Not normalized to target export canvas; anchor is metadata estimate"
+      ]
     }
   ],
   "preferred_references": [
     "red-mushroom@v0.1",
     "fire-mushroom@v0.1",
     "crystal-mushroom@v0.1",
-    "leaf-sprout@v0.1"
+    "leaf-sprout@v0.1",
+    "flower-bud@v0.2"
   ]
 }

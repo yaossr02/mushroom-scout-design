@@ -1,0 +1,13 @@
+{
+  "version": "v0.3",
+  "tool": "image_gen.imagegen",
+  "prompt": "Create one spacious premium ivory editorial comparison board for Mushroom Scout, landscape 3:2. Title 'CREAM GUMDROP / COLOR COLLECTION v0.3'. Subtitle 'Red approved • Seven color candidates'. Show EXACTLY EIGHT mushroom icons in a clearly aligned 4 column by 2 row grid. Use the five attached reference characters for red, blue, white, ice blue and pink. For the three additional colors use the same character with butter-yellow, medium violet and neutral warm gray caps. Arrange: red, yellow, medium blue, purple in row one; warm ivory-white with beige spots, neutral gray, pink, pale ice cyan in row two. Preserve the same cap silhouette, five spots, smiling face, stem proportions, leaves and soft matte 2.5D material shown in the reference images. Small simple English labels: RED / YELLOW / BLUE / PURPLE / WHITE / GRAY / PINK / ICE BLUE. No extra icons or decorative objects. Keep all characters same optical size and no crop. Add a small 'APPROVED REFERENCE' below RED, 'CANDIDATE' below all seven others. Bottom slim strip of small mushroom color previews on dark sage background, no numeric pixel labels. This is a visual style overview, not a production spritesheet or an exact pixel-scale test. Clear calm layout and faithful colors especially distinguish medium blue and pale cyan, ivory and gray.",
+  "references": [
+    "brand/approved/v0.1/red-mushroom.png",
+    "brand/candidates/v0.3/blue-mushroom.png",
+    "brand/candidates/v0.3/white-mushroom.png",
+    "brand/candidates/v0.3/ice-blue-mushroom.png",
+    "brand/candidates/v0.3/pink-mushroom.png"
+  ],
+  "note": "Illustrative board; exact appearance and actual-size comparison must use individual PNGs in review.html."
+}
