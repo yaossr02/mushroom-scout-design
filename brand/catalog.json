@@ -8,8 +8,8 @@
       "id": "red-mushroom",
       "label": "紅蘑菇",
       "version": "v0.1",
-      "status": "candidate",
-      "path": "brand/candidates/v0.1/red-mushroom.png",
+      "status": "approved",
+      "path": "brand/approved/v0.1/red-mushroom.png",
       "sha256": "b79288d592f032906671694151339e183d9b16d2fadf2e412a6fb8af8c6df71d",
       "dimensions_px": [
         1254,
@@ -26,19 +26,19 @@
         0.500399,
         0.842903
       ],
-      "approval_record": null,
+      "approval_record": "brand/approvals/2026-10-31-foundation.md",
       "known_limitations": [
-        "Unapproved candidate",
         "Faint low-alpha pixels outside body bounds",
         "Not normalized to target 1024 canvas; anchor is metadata estimate"
-      ]
+      ],
+      "approval_scope": "visual design; production export preparation remains pending"
     },
     {
       "id": "fire-mushroom",
       "label": "火蘑菇",
       "version": "v0.1",
-      "status": "candidate",
-      "path": "brand/candidates/v0.1/fire-mushroom.png",
+      "status": "approved",
+      "path": "brand/approved/v0.1/fire-mushroom.png",
       "sha256": "9365b37740582b4e5244977f88c0925b831cfdf84cc03f35db0620b854f29c52",
       "dimensions_px": [
         1254,
@@ -55,19 +55,19 @@
         0.505582,
         0.845295
       ],
-      "approval_record": null,
+      "approval_record": "brand/approvals/2026-10-31-foundation.md",
       "known_limitations": [
-        "Unapproved candidate",
         "Faint low-alpha pixels outside body bounds",
         "Not normalized to target 1024 canvas; anchor is metadata estimate"
-      ]
+      ],
+      "approval_scope": "visual design; production export preparation remains pending"
     },
     {
       "id": "crystal-mushroom",
       "label": "水晶蘑菇",
       "version": "v0.1",
-      "status": "candidate",
-      "path": "brand/candidates/v0.1/crystal-mushroom.png",
+      "status": "approved",
+      "path": "brand/approved/v0.1/crystal-mushroom.png",
       "sha256": "0475e5b11b0d1babd74e1d06638546295bc406a6c0eb3af444201e9f601317f5",
       "dimensions_px": [
         1254,
@@ -84,19 +84,19 @@
         0.500797,
         0.851675
       ],
-      "approval_record": null,
+      "approval_record": "brand/approvals/2026-10-31-foundation.md",
       "known_limitations": [
-        "Unapproved candidate",
         "Faint low-alpha pixels outside body bounds",
         "Not normalized to target 1024 canvas; anchor is metadata estimate"
-      ]
+      ],
+      "approval_scope": "visual design; production export preparation remains pending"
     },
     {
       "id": "leaf-sprout",
       "label": "葉芽",
       "version": "v0.1",
-      "status": "candidate",
-      "path": "brand/candidates/v0.1/leaf-sprout.png",
+      "status": "approved",
+      "path": "brand/approved/v0.1/leaf-sprout.png",
       "sha256": "0c7e014bc4c686532f6ccf6a61e5c02c85e811124e819da26789141aa14b95f8",
       "dimensions_px": [
         1254,
@@ -113,18 +113,18 @@
         0.511563,
         0.862041
       ],
-      "approval_record": null,
+      "approval_record": "brand/approvals/2026-10-31-foundation.md",
       "known_limitations": [
-        "Unapproved candidate",
         "Faint low-alpha pixels outside body bounds",
         "Not normalized to target 1024 canvas; anchor is metadata estimate"
-      ]
+      ],
+      "approval_scope": "visual design; production export preparation remains pending"
     },
     {
       "id": "flower-bud",
       "label": "花苞",
       "version": "v0.1",
-      "status": "candidate",
+      "status": "rejected",
       "path": "brand/candidates/v0.1/flower-bud.png",
       "sha256": "c88a41f6d973559078a1e625ce6680f73f602eed99ce5988b155f6ad37ebae9f",
       "dimensions_px": [
@@ -147,7 +147,44 @@
         "Unapproved candidate",
         "Faint low-alpha pixels outside body bounds",
         "Not normalized to target 1024 canvas; anchor is metadata estimate"
-      ]
+      ],
+      "rejection_reason": "User requires green bud, not pink."
+    },
+    {
+      "id": "flower-bud",
+      "label": "綠色花苞",
+      "version": "v0.2",
+      "status": "candidate",
+      "path": "brand/candidates/v0.2/flower-bud.png",
+      "sha256": "924b87b893f6bf32ff357b5457a41f7f969d8f7331b2099f45a9c71b8bf07528",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        308,
+        272,
+        947,
+        1054
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.84051
+      ],
+      "approval_record": null,
+      "known_limitations": [
+        "Unapproved candidate",
+        "Faint low-alpha pixels outside body bounds",
+        "Not normalized to target 1024 canvas; anchor is metadata estimate"
+      ],
+      "revises": "flower-bud@v0.1"
     }
+  ],
+  "preferred_references": [
+    "red-mushroom@v0.1",
+    "fire-mushroom@v0.1",
+    "crystal-mushroom@v0.1",
+    "leaf-sprout@v0.1"
   ]
 }

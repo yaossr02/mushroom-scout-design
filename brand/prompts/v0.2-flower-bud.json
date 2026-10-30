@@ -1,0 +1,10 @@
+{
+  "version": "v0.2",
+  "date": "2026-10-31",
+  "tool": "image_gen.imagegen",
+  "reference": "brand/candidates/v0.1/flower-bud.png",
+  "prompt": "Edit the attached isolated flower bud icon. Change ONLY the currently peach/pink closed bud petals to fresh soft light green, with a pale yellow-green highlight upper-left and restrained sage-green shadows. The entire closed bud must be green with absolutely no pink remaining. Keep the bud a slightly lighter green than the existing calyx and side leaves so it remains legible. Preserve the exact existing closed-petal silhouette, framing, canvas size if possible, placement, two side leaves, calyx, stem, three tan pebbles, diffuse upper-left lighting and soft matte cream-gumdrop cartoon material. No face, no open flower, no added elements, no text, no outlines, no background. Retain true transparency and anti-aliased edges. This is a color-only revision of the same character, not a new drawing.",
+  "transparent_background": true,
+  "status": "candidate",
+  "user_requirement": "花苞要是綠色的，其他都可以定稿"
+}
