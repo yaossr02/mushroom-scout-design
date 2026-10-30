@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "style": "B / Cream Gumdrop",
+  "style_reference": "brand/references/B-cream-gumdrop-concept.png",
+  "style_direction_selected": true,
+  "assets": [
+    {
+      "id": "red-mushroom",
+      "label": "紅蘑菇",
+      "version": "v0.1",
+      "status": "candidate",
+      "path": "brand/candidates/v0.1/red-mushroom.png",
+      "sha256": "b79288d592f032906671694151339e183d9b16d2fadf2e412a6fb8af8c6df71d",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        181,
+        242,
+        1074,
+        1057
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.842903
+      ],
+      "approval_record": null,
+      "known_limitations": [
+        "Unapproved candidate",
+        "Faint low-alpha pixels outside body bounds",
+        "Not normalized to target 1024 canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "fire-mushroom",
+      "label": "火蘑菇",
+      "version": "v0.1",
+      "status": "candidate",
+      "path": "brand/candidates/v0.1/fire-mushroom.png",
+      "sha256": "9365b37740582b4e5244977f88c0925b831cfdf84cc03f35db0620b854f29c52",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        242,
+        218,
+        1026,
+        1060
+      ],
+      "anchor_normalized": [
+        0.505582,
+        0.845295
+      ],
+      "approval_record": null,
+      "known_limitations": [
+        "Unapproved candidate",
+        "Faint low-alpha pixels outside body bounds",
+        "Not normalized to target 1024 canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "crystal-mushroom",
+      "label": "水晶蘑菇",
+      "version": "v0.1",
+      "status": "candidate",
+      "path": "brand/candidates/v0.1/crystal-mushroom.png",
+      "sha256": "0475e5b11b0d1babd74e1d06638546295bc406a6c0eb3af444201e9f601317f5",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        240,
+        224,
+        1016,
+        1068
+      ],
+      "anchor_normalized": [
+        0.500797,
+        0.851675
+      ],
+      "approval_record": null,
+      "known_limitations": [
+        "Unapproved candidate",
+        "Faint low-alpha pixels outside body bounds",
+        "Not normalized to target 1024 canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "leaf-sprout",
+      "label": "葉芽",
+      "version": "v0.1",
+      "status": "candidate",
+      "path": "brand/candidates/v0.1/leaf-sprout.png",
+      "sha256": "0c7e014bc4c686532f6ccf6a61e5c02c85e811124e819da26789141aa14b95f8",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        189,
+        379,
+        1094,
+        1081
+      ],
+      "anchor_normalized": [
+        0.511563,
+        0.862041
+      ],
+      "approval_record": null,
+      "known_limitations": [
+        "Unapproved candidate",
+        "Faint low-alpha pixels outside body bounds",
+        "Not normalized to target 1024 canvas; anchor is metadata estimate"
+      ]
+    },
+    {
+      "id": "flower-bud",
+      "label": "花苞",
+      "version": "v0.1",
+      "status": "candidate",
+      "path": "brand/candidates/v0.1/flower-bud.png",
+      "sha256": "c88a41f6d973559078a1e625ce6680f73f602eed99ce5988b155f6ad37ebae9f",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "body_bbox_alpha128": [
+        309,
+        272,
+        946,
+        1052
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.838915
+      ],
+      "approval_record": null,
+      "known_limitations": [
+        "Unapproved candidate",
+        "Faint low-alpha pixels outside body bounds",
+        "Not normalized to target 1024 canvas; anchor is metadata estimate"
+      ]
+    }
+  ]
+}
