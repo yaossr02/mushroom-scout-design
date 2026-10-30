@@ -6,14 +6,14 @@
 
 - [已核准的四個角色 v0.1](brand/approved/v0.1/)：紅蘑菇、火蘑菇、水晶蘑菇、葉芽。
 - [綠色花苞 v0.2（已定稿）](brand/approved/v0.2/flower-bud.png)：依使用者要求改為綠色。
-- [七種顏色候選 v0.3](brand/candidates/v0.3/)：黃、藍、紫、白、灰、粉紅、冰藍。
-- [八色比較圖板](brand/reviews/v0.3/comparison-board.png)：已核准紅菇與七張候選的風格示意。
+- [七種顏色 v0.3（已定稿）](brand/approved/v0.3/)：黃、藍、紫、白、灰、粉紅、冰藍。
+- [八色比較圖板](brand/reviews/v0.3/comparison-board.png)：核准時使用的風格示意；圖內 candidate 標記為歷史狀態，目前八色均已核准。
 - [目前原檔檢閱頁](brand/reviews/v0.3/review.html)：下載或 clone 後開啟，可切換底色與 32／48／64 px。
 - [核准紀錄與雜湊](brand/approvals/2026-10-31-foundation.md)
 - [品牌規範](brand/STYLE.md)、[素材目錄](brand/catalog.json)、[圖示盤點](brand/icon-inventory.md)、[生成提示詞](brand/prompts/)
 - [歷史比較圖板 v0.1](brand/reviews/v0.1/comparison-board.png)：含已拒絕的粉色花苞，僅供追溯，不作目前花苞參考。
 
-五個基準角色的視覺設計已定稿，原稿副本存於 approved 並固定 hash。正式輸出仍需整理透明邊緣與尺寸；不要從圖板裁切素材。後續生成優先附上已核准角色參考，花苞必須為綠色。七種顏色候選的生成提示詞記錄在 brand/prompts/v0.3-colors.json。
+目前 12 個素材的視覺設計已定稿：8 色蘑菇、火菇、水晶菇、葉芽與綠色花苞，原稿副本存於 approved 並固定 hash。正式輸出仍需整理透明邊緣與尺寸；不要從圖板裁切素材。後續生成優先附上已核准角色參考，花苞必須為綠色。七種顏色的生成提示詞記錄在 brand/prompts/v0.3-colors.json。
 
 ## 下一次新增圖示
 
@@ -26,3 +26,7 @@ Codex 先讀 [AGENTS.md](AGENTS.md) 與 [brand-icons 技能](.agents/skills/bran
 使用 Python 3 與 Pillow：`python tools/validate_assets.py`。檢查檔案雜湊、尺寸、RGBA、透明邊界與審核狀態，不能替代人工視覺核准。Pillow 可在獨立 venv 安裝，不需要變更 App repo。
 
 本 repo 包含已核准設計、候選與文件，未更動 `mushroom-scout`。App 匯入時需指定本 repo commit SHA 與核准素材 ID；不得替換辨識模板或 HOG 模型。
+
+## 後續製作順序
+
+見 [設計流程與待辦](brand/ROADMAP.md)。下一批為水、電、毒、活動與未知蘑菇，尚未生成。

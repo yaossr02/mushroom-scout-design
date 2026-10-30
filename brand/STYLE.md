@@ -1,6 +1,6 @@
-# Cream Gumdrop 品牌規範 v0.2
+# Cream Gumdrop 品牌規範 v0.3
 
-狀態：B 方向與紅蘑菇、火蘑菇、水晶蘑菇、葉芽 v0.1 已核准（見 approvals/2026-10-31-foundation.md）。綠色花苞 v0.2 已核准（見 approvals/2026-10-31-green-bud.md）；數值 token 與正式匯出規格仍是草案。
+狀態：B 方向與紅蘑菇、火蘑菇、水晶蘑菇、葉芽 v0.1 已核准（見 approvals/2026-10-31-foundation.md）。綠色花苞 v0.2 已核准（見 approvals/2026-10-31-green-bud.md）；七種顏色 v0.3 也全部核准（見 approvals/2026-10-31-colors.md）。數值 token 與正式匯出規格仍是草案。
 
 ## 核心外觀
 
