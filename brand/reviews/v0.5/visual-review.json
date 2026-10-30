@@ -1,0 +1,12 @@
+{
+  "version": "v0.5",
+  "status": "candidate",
+  "method": "Human visual inspection of generated sources and three browser-rendered original-file review boards; not automated face detection",
+  "mushroom_and_brand_findings": "No visible eyes, mouths, blush, expressions, limbs, clothing or party-hat accessories. Natural plain stalks used throughout. Event uses star cap spots.",
+  "count_new_files": 19,
+  "approved_plants_reused": [
+    "leaf-sprout@v0.1",
+    "flower-bud@v0.2"
+  ],
+  "app_repo_changed": false
+}

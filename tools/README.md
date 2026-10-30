@@ -1,5 +1,7 @@
 # 設計檢閱工具
 
+目前使用 v0.5 的 `build_review_v05.py`、`render_review_v05.cjs` 與 `validate_v05.py`；v0.4 工具保留供歷史追溯，不用來製作新版。新版會排除 active_reference:false 的歷史素材。`validate_assets.py` 同時檢查新版參考政策，但不以程式判定圖中是否有臉。
+
 這些工具只讀取 PNG 原檔，建立 HTML 與瀏覽器截圖，不透過程式重畫或修改角色。
 
 - `validate_assets.py`：Pillow；檢查 catalog hash、實際尺寸、alpha 政策與核准紀錄。

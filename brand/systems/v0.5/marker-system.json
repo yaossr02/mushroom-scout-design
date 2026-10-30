@@ -1,0 +1,84 @@
+{
+  "version": "v0.5",
+  "status": "candidate",
+  "base_canvas_css_px": 64,
+  "size_scales": {
+    "small": 0.85,
+    "normal": 1,
+    "large": 1.15,
+    "giant": 1.3
+  },
+  "size_labels": {
+    "small": "小",
+    "normal": "一般",
+    "large": "大",
+    "giant": "巨大"
+  },
+  "badges": {
+    "large": "大",
+    "giant": "巨"
+  },
+  "badge_colors": {
+    "fill": "#F4CF70",
+    "ink": "#513A30",
+    "outline": "#FFF1DB"
+  },
+  "states": {
+    "normal": {
+      "label": "一般",
+      "ring": "none",
+      "opacity": 1
+    },
+    "selected": {
+      "label": "選取",
+      "ring": "solid",
+      "color": "#55735B",
+      "opacity": 1
+    },
+    "running": {
+      "label": "進行中",
+      "ring": "dashed",
+      "color": "#527EA0",
+      "opacity": 1
+    },
+    "paused": {
+      "label": "暫停",
+      "ring": "dashed",
+      "color": "#B87B22",
+      "opacity": 1
+    },
+    "completed": {
+      "label": "完成",
+      "ring": "double",
+      "color": "#55735B",
+      "opacity": 1
+    },
+    "stale": {
+      "label": "過期",
+      "ring": "dotted",
+      "color": "#7E7A73",
+      "opacity": 0.55
+    }
+  },
+  "composition": {
+    "anchor": "Use each asset anchor_normalized; keep geographic foot fixed when scaling.",
+    "layers": [
+      "state ring",
+      "original botanical image",
+      "size badge",
+      "state label"
+    ],
+    "badge_position": "lower-right outside character; separate from state label",
+    "state_ring_follows_size": true,
+    "state_label_opacity": 1,
+    "animation": "Optional in application; review uses static states and honors reduced motion.",
+    "source_mutation": false
+  },
+  "notes": [
+    "Size factors preserve existing MushroomIcons.scale behavior; sizes are visual cues, not map distances.",
+    "CSS is an executable visual design reference, not Android/iOS runtime code.",
+    "States communicate shape and text as well as color.",
+    "All 15 mushroom types share this system; do not generate separate character art for each state.",
+    "All mushroom sources have natural plain stalks without anthropomorphic features."
+  ]
+}

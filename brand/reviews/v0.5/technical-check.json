@@ -1,0 +1,62 @@
+{
+  "version": "v0.5",
+  "status": "candidate",
+  "device_runtime_tested": false,
+  "checks": {
+    "android-adaptive-foreground": {
+      "source_scale": 0.57,
+      "alpha_threshold": 128,
+      "maximum_radius_normalized": 0.2969147483177537,
+      "safe_radius_normalized": 0.3055555555555556,
+      "outside_pixels": 0
+    },
+    "android-themed-monochrome": {
+      "source_scale": 0.59,
+      "alpha_threshold": 128,
+      "maximum_radius_normalized": 0.29715233293987414,
+      "safe_radius_normalized": 0.3055555555555556,
+      "outside_pixels": 0,
+      "opaque_rgb_range": [
+        0,
+        1
+      ]
+    },
+    "notification-mushroom": {
+      "opaque_rgb_range": [
+        0,
+        1
+      ]
+    },
+    "ios-app-icon": {
+      "mode": "RGB",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "opaque": true
+    }
+  },
+  "screenshots": {
+    "01-mushrooms.png": {
+      "dimensions": [
+        1452,
+        1843
+      ],
+      "sha256": "68fb2eb386d3c0648838da66d64c20db7b02440c00eb7705c0c091ee28aad702"
+    },
+    "02-marker-system.png": {
+      "dimensions": [
+        1452,
+        1037
+      ],
+      "sha256": "5cee4c66492e55b1cd4a2c95cdeba716ad4bce93330ea95315e1508c7bb7df55"
+    },
+    "03-brand-platforms.png": {
+      "dimensions": [
+        1452,
+        838
+      ],
+      "sha256": "217e23bfcbc2fe94879f64e00cc5e4a6f2abd3894dad84b8e353dee1c8f4f253"
+    }
+  }
+}

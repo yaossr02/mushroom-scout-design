@@ -1,5 +1,7 @@
 # 設計素材工作規則
 
+- 最新方向 v0.5 禁止擬人化：蘑菇不得有眼睛、嘴巴、腮紅、表情、人物身體或配件。使用者最新要求優先於舊核准；active_reference:false 的版本只能追溯，不能生成或匯入。
+
 - 使用繁體中文與使用者溝通。只在這個設計 repo 工作；除非另有要求，不變更 App repo、不建立 worktree。
 - 新增或修改圖示先讀 `brand/STYLE.md`、`brand/catalog.json` 與 `.agents/skills/brand-icons/SKILL.md`。
 - B 概念圖是已選定的風格方向；`candidate` 是待核准素材。不得將候選自動升格為 approved，不得宣稱生成可保證逐像素一致。

@@ -1,0 +1,148 @@
+{
+  "version": "v0.5",
+  "date": "2026-10-31",
+  "tool": "image_gen.imagegen",
+  "direction": "Non-anthropomorphic botanical; all stems plain, no face or human features",
+  "user_request": "蘑菇都不要擬人化，整個設計重新調整。",
+  "status": "candidate",
+  "base": {
+    "id": "red-mushroom",
+    "prompt": "Redesign the attached red mushroom icon to satisfy a strict NON-ANTHROPOMORPHIC natural botanical direction. Remove BOTH eyes, all eye highlights, mouth/smile, both blush cheeks, all facial markings and any suggestion of a face. Replace the egg-shaped mascot body with a NATURAL short gently tapered cylindrical cream mushroom STALK, subtly flaring where it meets the cap; not a head, belly, person, or character. The stalk is completely plain ivory with soft shading. Keep a broad coral-red mushroom dome, FIVE large ivory spots ONLY ON THE CAP, simple gill underside, matte cream-gumdrop 2.5D material, diffuse light from upper left. A tiny low natural tuft of sage leaves sits behind the foot, not paired appendages or arms. Overall a refined modern cute botanical object, not kawaii mascot. No face, eyes, dots on stem, smile, mouth, cheeks, hands, arms, legs, clothing or accessories. Square canvas, isolated object on TRUE transparent background, whole mushroom contained with 15% padding and foot near 85% height. Crisp simple silhouette readable at 32px. No text or scene, no outlines, no sticker border, no background shadow. This is a complete replacement style master.",
+    "reference": "brand/approved/v0.1/red-mushroom.png",
+    "legacy_reference_usage": "One-time edit solely to remove face and replace mascot body with natural stalk; not an active visual reference."
+  },
+  "reference_for_all_variants": "brand/candidates/v0.5/red-mushroom.png",
+  "reference_status": "candidate, not approved",
+  "jobs": [
+    {
+      "id": "yellow-mushroom",
+      "label": "黃色蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Only recolor the red dome cap to butter honey-yellow #F3C957; retain five large ivory spots and exact same silhouette."
+    },
+    {
+      "id": "blue-mushroom",
+      "label": "藍色蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Only recolor the red dome cap to medium cornflower blue #659AD9, retaining five ivory spots and same silhouette. Clearly deeper than pale icy cyan."
+    },
+    {
+      "id": "purple-mushroom",
+      "label": "紫色蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Only recolor dome cap to soft medium violet #A78BCB; retain five ivory spots and same silhouette."
+    },
+    {
+      "id": "white-mushroom",
+      "label": "白色蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Only recolor dome cap to warm ivory white #FFF5E5; recolor its five spots to soft warm beige #D8C6A7 to maintain contrast. Same silhouette."
+    },
+    {
+      "id": "gray-mushroom",
+      "label": "灰色蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Only recolor dome cap to neutral medium warm gray #A4A09C, retain five ivory spots and same silhouette. Not violet or taupe brown."
+    },
+    {
+      "id": "pink-mushroom",
+      "label": "粉紅蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Only recolor dome cap to soft rose pink #EBA8BB, retain five ivory spots and same silhouette. Distinct from coral red."
+    },
+    {
+      "id": "ice-blue-mushroom",
+      "label": "冰藍蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Only recolor dome cap to pale cool cyan #BDE4EB with soft cyan edge shading, retaining five ivory spots and same silhouette. Distinct from medium blue and warm ivory white."
+    },
+    {
+      "id": "fire-mushroom",
+      "label": "火蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Cap is a simplified natural mushroom cap with three broad softly rounded flame lobes in coral orange and butter yellow inner flame shapes, no sparks, no real flames. Plain natural ivory stalk below, no face."
+    },
+    {
+      "id": "water-mushroom",
+      "label": "水蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Cap has a rounded blue water-droplet silhouette and two pale aqua droplet relief details ON CAP ONLY. Natural plain ivory stalk below. No creature or face."
+    },
+    {
+      "id": "electric-mushroom",
+      "label": "電蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Cap is a low golden-yellow dome with a subtly rounded zigzag upper silhouette and one broad ivory lightning pictogram on the cap. Natural mushroom rather than a living lightning character. Plain cylindrical ivory stalk."
+    },
+    {
+      "id": "poison-mushroom",
+      "label": "毒蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Cap is a plum-purple three-lobed mushroom dome with a few large lilac spots; organic connected bubble silhouette, no floating bubbles, skulls or scary features. Plain ivory stalk."
+    },
+    {
+      "id": "crystal-mushroom",
+      "label": "水晶蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Cap is three chunky faceted ice-blue/lavender crystal clusters joined into a broad mushroom cap shape, taller middle cluster, few broad matte facets, no glitter or glass. Natural plain ivory stalk, no face."
+    },
+    {
+      "id": "event-mushroom",
+      "label": "活動蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Cap remains a NATURAL broad coral dome, decorated with THREE large butter-yellow star-shaped spots and a subtle scalloped cap edge. Festive botanical motif only. NO party hat, no clothing, no ribbons, no detached star or confetti. Plain natural ivory stalk."
+    },
+    {
+      "id": "unknown-mushroom",
+      "label": "未知蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Edit the attached NON-ANTHROPOMORPHIC botanical mushroom to make a matching icon. It is a mushroom OBJECT, never a character. Preserve its natural tapered cylindrical plain ivory STALK, gill underside, low natural sage leaf tuft, same front view and square layout, matte cream-gumdrop 2.5D material, diffuse upper-left light and complete transparent background. Absolutely NO eyes, eye-like dots on the stalk, mouth, smile, blush, cheeks, face, expression, arms, hands, legs, belly, clothing, hats worn on a cap, or human accessories. Keep the stalk entirely plain ivory. Generous 15% padding, whole object centered with foot near 85% height. No text, scene, background, sticker border or external cast shadow. Only alter the cap design as follows: Cap is a natural neutral warm gray-taupe mushroom dome bearing one large ivory QUESTION MARK as a map category symbol on the cap, not a facial expression. Plain natural stalk. No eyes or mouth anywhere. No other text."
+    },
+    {
+      "id": "ios-app-icon",
+      "label": "iOS／App 主圖示",
+      "kind": "opaque-launcher",
+      "alpha": false,
+      "prompt": "Create one square full-bleed opaque Mushroom Scout app icon from the attached NON-ANTHROPOMORPHIC red mushroom. Preserve its natural tapered plain ivory stalk, gills, coral dome with five ivory spots and low sage leaf tuft; NO face, eyes, mouth, smile, blush, limbs or mascot features. Center this botanical object on calm dark sage #55735B background, four thick warm ivory rounded scan-corner L marks framing it. Modern minimal premium matte 2.5D botanical icon, not a character. Single composition, no other objects, no text, no forest scene. All four canvas corners opaque, no baked rounded corners, no border, no phone mockup. Generous breathing room around scan frame."
+    },
+    {
+      "id": "android-adaptive-foreground",
+      "label": "Android 自適應前景",
+      "kind": "adaptive-foreground",
+      "alpha": true,
+      "prompt": "Create a single Android adaptive FOREGROUND on true transparency: attached non-anthropomorphic natural red mushroom with plain tapered ivory stalk, gills, five ivory cap spots and low sage leaf tuft, framed by four thick rounded IVORY scan corners. Absolutely no eyes, face, smile, blush, human body or limbs. Essential artwork all contained within central x=28%..72%, y=28%..72% of square canvas for generous safe padding. NO background tile or shadow; all space outside actual mushroom and four corners must be clean transparent, no speckles or debris. Same matte botanical material and upper-left light. Only foreground, not presentation board."
+    },
+    {
+      "id": "android-themed-monochrome",
+      "label": "Android 主題單色圖示",
+      "kind": "monochrome",
+      "alpha": true,
+      "prompt": "Create a clean SOLID BLACK vector-like Android themed glyph on true transparency, matching the attached natural non-anthropomorphic mushroom. Broad rounded cap, natural short tapered stalk (not a round belly), three fully transparent large round holes in the cap, four rounded scan corners framing it. ONLY pure black opaque shapes and transparent empty regions. NO face, eyes, mouth, blush, leaves, limbs, shading, gray, white, texture, speckles, tile or background. Clean smooth continuous geometry, all inside central 52% square, generous padding. This is an alpha-mask source to be tinted by system, not a black background image."
+    },
+    {
+      "id": "notification-mushroom",
+      "label": "通知單色輪廓",
+      "kind": "notification",
+      "alpha": true,
+      "prompt": "Create a clean SOLID BLACK notification alpha-mask glyph on true transparent background, inspired by attached NATURAL mushroom. Simple broad rounded dome cap and short tapered cylindrical stalk, exactly two fully transparent round spot holes ONLY in cap. No face, no eyes or mouth, no round mascot body, no leaves, limbs, scan corners, border, tile, shading, gray, white, texture or speckles. Pure opaque black shape with clean smooth edge, central 70% square, legible at 24px. System will tint this silhouette white using alpha."
+    }
+  ],
+  "plant_sources_unchanged": [
+    "brand/approved/v0.1/leaf-sprout.png",
+    "brand/approved/v0.2/flower-bud.png"
+  ]
+}

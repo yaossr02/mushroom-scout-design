@@ -1,0 +1,10 @@
+/* Candidate visual specification: original PNGs remain untouched. */
+.marker-demo{width:180px;height:180px;position:relative;display:inline-block;vertical-align:top}
+.marker-ground{position:absolute;left:50%;top:130px;width:0;height:0}
+.marker-anchor{position:absolute;left:0;top:0;width:5px;height:5px;transform:translate(-50%,-50%);background:#513a30;border:1px solid white;border-radius:50%;z-index:5}
+.marker-picture{position:absolute;width:calc(64px * var(--scale,1));height:calc(64px * var(--scale,1));max-width:none;transform:translate(calc(-100% * var(--anchor-x,.5)),calc(-100% * var(--anchor-y,.85)));z-index:2;opacity:var(--picture-opacity,1)}
+.marker-ring{position:absolute;left:0;top:-28px;width:calc(72px * var(--scale,1));height:calc(72px * var(--scale,1));transform:translate(-50%,-50%);border:3px var(--ring-style,solid) var(--state-color,#55735b);border-radius:50%;z-index:1}
+.marker-normal .marker-ring{display:none}
+.marker-size{position:absolute;left:calc(25px * var(--scale,1));top:-16px;width:23px;height:23px;border-radius:50%;background:#f4cf70;color:#513a30;border:2px solid #fff1db;display:grid;place-items:center;font:bold 12px system-ui;z-index:4}
+.marker-state{position:absolute;left:0;top:9px;transform:translateX(-50%);white-space:nowrap;background:#fff8ed;color:#513a30;padding:2px 7px;border-radius:12px;border:1px solid var(--state-color,#ddd);font:12px system-ui;z-index:4}
+.marker-caption{position:absolute;top:161px;left:0;right:0;text-align:center;font:12px system-ui}

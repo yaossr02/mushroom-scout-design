@@ -26,6 +26,14 @@ for asset in catalog['assets']:
     assert asset['status'] in ('candidate', 'approved', 'rejected')
     if asset['status'] == 'approved':
         assert asset.get('approval_record'), 'Explicit user approval record required'
-    print(f"OK {asset['id']} {asset['status']} {im.width}x{im.height}")
+    print(f"OK {asset['id']}@{asset['version']} {asset['status']} active_reference={asset.get('active_reference', True)} {im.width}x{im.height}")
+if catalog.get('current_direction_version') == 'v0.5':
+    active = [a for a in catalog['assets'] if a.get('active_reference', False)]
+    for asset in active:
+        if asset['id'] not in ('leaf-sprout', 'flower-bud'):
+            assert asset['version'] == 'v0.5', 'Legacy mushroom/brand reference is still active'
+            assert asset.get('anthropomorphic_features_allowed') is False
+    assert len([a for a in active if a.get('kind') == 'content']) == 15
+    assert len([a for a in active if a.get('kind') not in (None, 'content')]) == 4
 assert (ROOT / 'brand/reviews/v0.1/review.html').is_file()
 print('Metadata checks passed. Visual style and clean alpha edges still require human review.')

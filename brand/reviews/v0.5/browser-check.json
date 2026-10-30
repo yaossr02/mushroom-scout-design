@@ -1,0 +1,21 @@
+{
+  "review": "v0.5",
+  "browser": "154.0.8037.57",
+  "css_viewport": [
+    1536,
+    1100
+  ],
+  "dpr": 1,
+  "marker_choices_exercised": 15,
+  "background_toggles": "passed",
+  "safety_guide_toggle": "passed",
+  "source_images_decoded": "passed",
+  "css_masks": "configured and visually reviewed via screenshots",
+  "console_or_http_errors": [],
+  "device_runtime_tested": false,
+  "screenshots": [
+    "01-mushrooms.png",
+    "02-marker-system.png",
+    "03-brand-platforms.png"
+  ]
+}
