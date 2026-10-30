@@ -1,6 +1,6 @@
 {
   "version": "v0.5",
-  "status": "candidate",
+  "status": "approved",
   "device_runtime_tested": false,
   "checks": {
     "android-adaptive-foreground": {
@@ -42,7 +42,7 @@
         1452,
         1843
       ],
-      "sha256": "68fb2eb386d3c0648838da66d64c20db7b02440c00eb7705c0c091ee28aad702"
+      "sha256": "cdbca8b3d9aae7b34ee10f6bd02352ea052ec91332bdc626718f94799e12ccba"
     },
     "02-marker-system.png": {
       "dimensions": [

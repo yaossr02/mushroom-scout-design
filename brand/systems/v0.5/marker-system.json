@@ -1,6 +1,6 @@
 {
   "version": "v0.5",
-  "status": "candidate",
+  "status": "approved",
   "base_canvas_css_px": 64,
   "size_scales": {
     "small": 0.85,
@@ -80,5 +80,6 @@
     "States communicate shape and text as well as color.",
     "All 15 mushroom types share this system; do not generate separate character art for each state.",
     "All mushroom sources have natural plain stalks without anthropomorphic features."
-  ]
+  ],
+  "approval_record": "brand/approvals/2026-10-31-botanical-v0.5.md"
 }

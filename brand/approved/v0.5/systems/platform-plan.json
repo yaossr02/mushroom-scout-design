@@ -1,0 +1,45 @@
+{
+  "version": "v0.5",
+  "status": "approved",
+  "android_adaptive": {
+    "foreground": "brand/approved/v0.5/android-adaptive-foreground.png",
+    "background_color": "#55735B",
+    "background_source": "brand/systems/v0.5/android-colors.xml",
+    "design_grid_dp": 108,
+    "safe_circle_diameter_dp": 66,
+    "foreground_source_scale": 0.57,
+    "visible_viewport_dp": 72,
+    "mask_previews": [
+      "circle",
+      "rounded-square",
+      "squircle-approximation"
+    ],
+    "note": "Browser clipping demonstrates direction; actual Android masking/insets remain for production export and device verification."
+  },
+  "android_themed": {
+    "source": "brand/approved/v0.5/android-themed-monochrome.png",
+    "rendering": "alpha mask tinted by system; preview uses CSS mask-image",
+    "source_scale": 0.59,
+    "note": "Keep as raster candidate; do not call it an Android VectorDrawable."
+  },
+  "notification": {
+    "source": "brand/approved/v0.5/notification-mushroom.png",
+    "review_css_px": [
+      16,
+      24,
+      32
+    ],
+    "target_dp": 24,
+    "note": "Production density exports and clean alpha-mask construction follow design approval."
+  },
+  "ios": {
+    "source": "brand/approved/v0.5/ios-app-icon.png",
+    "target_master_px": 1024,
+    "opaque_required": true,
+    "baked_rounded_corners": false,
+    "note": "Raw generated candidate is not yet an exported AppIcon asset set; actual dimensions are in catalog."
+  },
+  "shared_brand": "Natural faceless red mushroom + ivory scan frame + dark sage background",
+  "runtime_integration": "Not included; no App repository changes.",
+  "approval_record": "brand/approvals/2026-10-31-botanical-v0.5.md"
+}

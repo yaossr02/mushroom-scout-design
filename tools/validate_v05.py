@@ -10,7 +10,7 @@ catalog = json.loads((ROOT / 'brand/catalog.json').read_text())
 assets = {a['id']: a for a in catalog['assets'] if a['version'] == 'v0.5'}
 assert len(assets) == 19
 platform = json.loads((ROOT / 'brand/systems/v0.5/platform-plan.json').read_text())
-report = {'version': 'v0.5', 'status': 'candidate', 'device_runtime_tested': False, 'checks': {}}
+report = {'version': 'v0.5', 'status': 'approved' if all(a['status'] == 'approved' for a in assets.values()) else 'candidate', 'device_runtime_tested': False, 'checks': {}}
 for ident, scale in [('android-adaptive-foreground', platform['android_adaptive']['foreground_source_scale']), ('android-themed-monochrome', platform['android_themed']['source_scale'])]:
     with Image.open(ROOT / assets[ident]['path']) as im:
         alpha = im.getchannel('A')

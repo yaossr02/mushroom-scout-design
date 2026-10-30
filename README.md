@@ -2,7 +2,7 @@
 
 蘑菇偵察的獨立設計素材庫。最新方向：**Cream Gumdrop Botanical 非擬人化自然蘑菇**。
 
-## v0.5 全系列重新設計（待審核）
+## v0.5 非擬人化全系列（已定稿）
 
 依使用者要求，蘑菇移除所有眼睛、嘴巴、腮紅、表情與人物配件，採自然素色菇柄。先前擬人版只保留作歷史，不能作新稿參考或新版 App 素材。
 
@@ -10,9 +10,9 @@
 2. [尺寸與狀態圖板](brand/reviews/v0.5/02-marker-system.png)
 3. [App／平台品牌圖板](brand/reviews/v0.5/03-brand-platforms.png)
 
-[完整審核說明](brand/reviews/v0.5/REVIEW.md) · [原檔互動頁](brand/reviews/v0.5/review.html) · [新版候選](brand/candidates/v0.5/) · [方向變更紀錄](brand/direction-change-v0.5.md)
+[完整審核說明](brand/reviews/v0.5/REVIEW.md) · [原檔互動頁](brand/reviews/v0.5/review.html) · [核准原稿](brand/approved/v0.5/) · [固定版本 manifest](brand/approved/v0.5/manifest.json) · [核准紀錄](brand/approvals/2026-10-31-botanical-v0.5.md) · [方向變更紀錄](brand/direction-change-v0.5.md)
 
-新版為 15 張蘑菇＋4 張品牌／平台候選；葉芽與綠色花苞沿用非擬人化核准原圖。新稿仍須審核，不繼承歷史核准。圖板是直接渲染原圖的瀏覽器截圖，HTML 請以本機靜態 HTTP 開啟，GitHub 可直接看 PNG。
+新版 15 張蘑菇＋4 張品牌／平台圖示已核准；葉芽與綠色花苞沿用非擬人化核准原圖。本次核准同時涵蓋尺寸／狀態設計，固定版本存於 approved/v0.5/；未來新增或修改素材仍須另行審核。圖板是直接渲染原圖的瀏覽器截圖，HTML 請以本機靜態 HTTP 開啟，GitHub 可直接看 PNG。
 
 ## 共同規範
 
