@@ -2,6 +2,18 @@
 
 蘑菇偵察的獨立品牌與圖示素材庫。選定方向為 **B 奶油軟糖 / Cream Gumdrop**。
 
+## v0.4：第 1–3 階段一次審核
+
+整批為待核准候選，尚未匯入 App。
+
+1. [五種蘑菇圖板](brand/reviews/v0.4/01-mushrooms.png)：水、電、毒、活動、未知。
+2. [尺寸與狀態圖板](brand/reviews/v0.4/02-marker-system.png)：四級尺寸、大小徽章、六種狀態與疊加。
+3. [App／通知品牌圖板](brand/reviews/v0.4/03-brand-platforms.png)：iOS 主圖示、Android 分層／遮罩／單色主題與通知。
+
+[完整審核說明](brand/reviews/v0.4/REVIEW.md) · [互動原檔檢閱頁](brand/reviews/v0.4/review.html) · [候選原圖](brand/candidates/v0.4/) · [系統規格](brand/systems/v0.4/)
+
+圖板為直接渲染原檔的瀏覽器截圖，非重新生成的示意圖。HTML 包含 15 種蘑菇切換與深淺背景，需本機靜態 HTTP 檢閱；GitHub 可直接看 PNG。尺寸、alpha、遮罩安全圈與瀏覽器互動已檢查；正式匯出與 App 實測仍屬第 4 階段以後。
+
 ## 基準包狀態
 
 - [已核准的四個角色 v0.1](brand/approved/v0.1/)：紅蘑菇、火蘑菇、水晶蘑菇、葉芽。
@@ -29,4 +41,4 @@ Codex 先讀 [AGENTS.md](AGENTS.md) 與 [brand-icons 技能](.agents/skills/bran
 
 ## 後續製作順序
 
-見 [設計流程與待辦](brand/ROADMAP.md)。下一批為水、電、毒、活動與未知蘑菇，尚未生成。
+見 [設計流程與待辦](brand/ROADMAP.md)。第 1–3 階段已完成 v0.4 候選並等待聯合審核；第 4 階段正式匯出尚未開始。

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Design candidate color resource; not installed into the App. -->
+<resources>
+    <color name="mushroom_scout_launcher_background">#55735B</color>
+</resources>

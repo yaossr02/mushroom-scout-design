@@ -389,6 +389,284 @@
         "Not normalized to target export canvas; anchor is metadata estimate"
       ],
       "approval_scope": "visual design; production export preparation remains pending"
+    },
+    {
+      "id": "water-mushroom",
+      "label": "水蘑菇",
+      "version": "v0.4",
+      "status": "candidate",
+      "kind": "content",
+      "path": "brand/candidates/v0.4/water-mushroom.png",
+      "sha256": "4524e1b1aaa179a1c556de0c95e9b14a039d9a01129fb070095ce8defbdb9503",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_policy": "transparent",
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Visual candidate, not approved",
+        "Raw generated raster; production size and alpha cleanup remain pending",
+        "Not integrated or device-tested"
+      ],
+      "body_bbox_alpha128": [
+        212,
+        195,
+        1043,
+        1085
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.865231
+      ]
+    },
+    {
+      "id": "electric-mushroom",
+      "label": "電蘑菇",
+      "version": "v0.4",
+      "status": "candidate",
+      "kind": "content",
+      "path": "brand/candidates/v0.4/electric-mushroom.png",
+      "sha256": "c896e467412bce6ebf577d763351b68fd9a86cc00d0f1bbcd4b7abc3c80a96ce",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_policy": "transparent",
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Visual candidate, not approved",
+        "Raw generated raster; production size and alpha cleanup remain pending",
+        "Not integrated or device-tested"
+      ],
+      "body_bbox_alpha128": [
+        176,
+        154,
+        1083,
+        1100
+      ],
+      "anchor_normalized": [
+        0.501994,
+        0.877193
+      ]
+    },
+    {
+      "id": "poison-mushroom",
+      "label": "毒蘑菇",
+      "version": "v0.4",
+      "status": "candidate",
+      "kind": "content",
+      "path": "brand/candidates/v0.4/poison-mushroom.png",
+      "sha256": "dca714269ced44a6d7abe59cfacd1f224538c1a1679177ef074b92b02941c8a8",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_policy": "transparent",
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Visual candidate, not approved",
+        "Raw generated raster; production size and alpha cleanup remain pending",
+        "Not integrated or device-tested"
+      ],
+      "body_bbox_alpha128": [
+        129,
+        202,
+        1127,
+        1084
+      ],
+      "anchor_normalized": [
+        0.500797,
+        0.864434
+      ]
+    },
+    {
+      "id": "event-mushroom",
+      "label": "活動蘑菇",
+      "version": "v0.4",
+      "status": "candidate",
+      "kind": "content",
+      "path": "brand/candidates/v0.4/event-mushroom.png",
+      "sha256": "b05c9beecea8a8f0b5b9c7d5971a0d841d5eed7629dcdbc673ab4427a48c266d",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_policy": "transparent",
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Visual candidate, not approved",
+        "Raw generated raster; production size and alpha cleanup remain pending",
+        "Not integrated or device-tested"
+      ],
+      "body_bbox_alpha128": [
+        164,
+        87,
+        1091,
+        1168
+      ],
+      "anchor_normalized": [
+        0.500399,
+        0.931419
+      ]
+    },
+    {
+      "id": "unknown-mushroom",
+      "label": "未知蘑菇",
+      "version": "v0.4",
+      "status": "candidate",
+      "kind": "content",
+      "path": "brand/candidates/v0.4/unknown-mushroom.png",
+      "sha256": "ab40570f3b103f9c18a42b76a8fcb28e4c7005ff0438d274e1ed6b1d880fcd97",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_policy": "transparent",
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Visual candidate, not approved",
+        "Raw generated raster; production size and alpha cleanup remain pending",
+        "Not integrated or device-tested"
+      ],
+      "body_bbox_alpha128": [
+        132,
+        202,
+        1122,
+        1100
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.877193
+      ]
+    },
+    {
+      "id": "android-adaptive-foreground",
+      "label": "Android 自適應前景",
+      "version": "v0.4",
+      "status": "candidate",
+      "kind": "adaptive-foreground",
+      "path": "brand/candidates/v0.4/android-adaptive-foreground.png",
+      "sha256": "58f06cf22c7f349edd69a0d1e88632042a05ef01f2a42a43eb242b402e640065",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_policy": "transparent",
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Visual candidate, not approved",
+        "Raw generated raster; production size and alpha cleanup remain pending",
+        "Not integrated or device-tested"
+      ],
+      "body_bbox_alpha128": [
+        294,
+        308,
+        960,
+        969
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.772727
+      ]
+    },
+    {
+      "id": "ios-app-icon",
+      "label": "iOS／App 主圖示",
+      "version": "v0.4",
+      "status": "candidate",
+      "kind": "opaque-launcher",
+      "path": "brand/candidates/v0.4/ios-app-icon.png",
+      "sha256": "01da6807ae76a5daa0465f8fed82d21c30efd11addfd0ae333604e3cf8b9fe51",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "alpha_policy": "opaque",
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Visual candidate, not approved",
+        "Raw generated raster; production size and alpha cleanup remain pending",
+        "Not integrated or device-tested"
+      ]
+    },
+    {
+      "id": "android-themed-monochrome",
+      "label": "Android 主題單色圖示",
+      "version": "v0.4",
+      "status": "candidate",
+      "kind": "monochrome",
+      "path": "brand/candidates/v0.4/android-themed-monochrome.png",
+      "sha256": "6d121f98263dbad375d023b0a7624bfaa7db9d4e86c73bbd5c9e33410511aade",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_policy": "transparent",
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Visual candidate, not approved",
+        "Raw generated raster; production size and alpha cleanup remain pending",
+        "Not integrated or device-tested"
+      ],
+      "body_bbox_alpha128": [
+        238,
+        260,
+        1016,
+        1032
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.822967
+      ]
+    },
+    {
+      "id": "notification-mushroom",
+      "label": "通知單色輪廓",
+      "version": "v0.4",
+      "status": "candidate",
+      "kind": "notification",
+      "path": "brand/candidates/v0.4/notification-mushroom.png",
+      "sha256": "dc34255a8f17322bab843652cabc574c00ca985558d1adb43cb0606996458edd",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_policy": "transparent",
+      "approval_record": null,
+      "reference": "red-mushroom@v0.1",
+      "known_limitations": [
+        "Visual candidate, not approved",
+        "Raw generated raster; production size and alpha cleanup remain pending",
+        "Not integrated or device-tested"
+      ],
+      "body_bbox_alpha128": [
+        96,
+        215,
+        1157,
+        1148
+      ],
+      "anchor_normalized": [
+        0.499601,
+        0.91547
+      ]
     }
   ],
   "preferred_references": [

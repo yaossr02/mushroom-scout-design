@@ -1,0 +1,21 @@
+{
+  "version": "v0.4",
+  "status": "candidate",
+  "sections": {
+    "1-content": [
+      "water-mushroom",
+      "electric-mushroom",
+      "poison-mushroom",
+      "event-mushroom",
+      "unknown-mushroom"
+    ],
+    "2-marker-system": "brand/systems/v0.4/marker-system.json",
+    "3-brand": [
+      "ios-app-icon",
+      "android-adaptive-foreground",
+      "android-themed-monochrome",
+      "notification-mushroom"
+    ]
+  },
+  "approval_record": null
+}

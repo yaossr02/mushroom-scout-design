@@ -1,0 +1,123 @@
+{
+  "version": "v0.4",
+  "date": "2026-10-31",
+  "tool": "image_gen.imagegen",
+  "reference": "brand/approved/v0.1/red-mushroom.png",
+  "status": "candidate",
+  "jobs": [
+    {
+      "id": "water-mushroom",
+      "label": "水蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Create ONE isolated Mushroom Scout icon on true transparent background, matching the attached APPROVED red mushroom character. Keep the SAME short plump ivory stem body, two cocoa vertical oval eyes and tiny highlights, small warm smile, subtle peach cheek dots, small rounded sage leaves at base, consistent front view, diffuse upper-left light and matte cream-gumdrop 2.5D cartoon. Change only the cap concept as described. No arms, legs, words, background, border, sticker outline, floating particles or cast shadow outside subject. Square canvas, complete silhouette centered with generous 15% transparent margins, foot at about 85% height. Big simple shapes readable at 32px. The approved character is the visual authority. Subject: Cap is a single plump rounded BLUE WATER DROPLET, wide at bottom and softly pointed at top, with two small embossed pale-blue droplets as cap details. Medium aqua-blue, clearly a droplet silhouette, not a normal spotted dome. Keep the same ivory face/body and sage leaf base.",
+      "transparent_background": true
+    },
+    {
+      "id": "electric-mushroom",
+      "label": "電蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Create ONE isolated Mushroom Scout icon on true transparent background, matching the attached APPROVED red mushroom character. Keep the SAME short plump ivory stem body, two cocoa vertical oval eyes and tiny highlights, small warm smile, subtle peach cheek dots, small rounded sage leaves at base, consistent front view, diffuse upper-left light and matte cream-gumdrop 2.5D cartoon. Change only the cap concept as described. No arms, legs, words, background, border, sticker outline, floating particles or cast shadow outside subject. Square canvas, complete silhouette centered with generous 15% transparent margins, foot at about 85% height. Big simple shapes readable at 32px. The approved character is the visual authority. Subject: Cap is a plump warm butter-yellow rounded lightning-bolt-shaped crown, unmistakable zigzag silhouette with softened tips and a single large ivory lightning emblem centered on the yellow cap. No sparks, no particles. Same ivory face/body and sage leaves. Distinguish from regular yellow spotted mushroom.",
+      "transparent_background": true
+    },
+    {
+      "id": "poison-mushroom",
+      "label": "毒蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Create ONE isolated Mushroom Scout icon on true transparent background, matching the attached APPROVED red mushroom character. Keep the SAME short plump ivory stem body, two cocoa vertical oval eyes and tiny highlights, small warm smile, subtle peach cheek dots, small rounded sage leaves at base, consistent front view, diffuse upper-left light and matte cream-gumdrop 2.5D cartoon. Change only the cap concept as described. No arms, legs, words, background, border, sticker outline, floating particles or cast shadow outside subject. Square canvas, complete silhouette centered with generous 15% transparent margins, foot at about 85% height. Big simple shapes readable at 32px. The approved character is the visual authority. Subject: Cap is a plum-purple rounded dome with THREE large connected rounded bubble lobes forming its top silhouette, and a few light-lilac circular spots. All bubbles attached, none floating. Friendly, not scary, no skull, no slime drips. Clearly bubbly compared with ordinary purple mushroom. Same ivory face/body and sage leaves.",
+      "transparent_background": true
+    },
+    {
+      "id": "event-mushroom",
+      "label": "活動蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Create ONE isolated Mushroom Scout icon on true transparent background, matching the attached APPROVED red mushroom character. Keep the SAME short plump ivory stem body, two cocoa vertical oval eyes and tiny highlights, small warm smile, subtle peach cheek dots, small rounded sage leaves at base, consistent front view, diffuse upper-left light and matte cream-gumdrop 2.5D cartoon. Change only the cap concept as described. No arms, legs, words, background, border, sticker outline, floating particles or cast shadow outside subject. Square canvas, complete silhouette centered with generous 15% transparent margins, foot at about 85% height. Big simple shapes readable at 32px. The approved character is the visual authority. Subject: Cap is a rounded coral-pink conical PARTY HAT cap integrated as the mushroom cap, with one broad diagonal butter-yellow stripe, and one small butter-yellow five-point star attached firmly at the top. No floating confetti. Preserve the same ivory face/body and sage leaves. Festive but minimal, not a separate hat atop a normal cap.",
+      "transparent_background": true
+    },
+    {
+      "id": "unknown-mushroom",
+      "label": "未知蘑菇",
+      "kind": "content",
+      "alpha": true,
+      "prompt": "Create ONE isolated Mushroom Scout icon on true transparent background, matching the attached APPROVED red mushroom character. Keep the SAME short plump ivory stem body, two cocoa vertical oval eyes and tiny highlights, small warm smile, subtle peach cheek dots, small rounded sage leaves at base, consistent front view, diffuse upper-left light and matte cream-gumdrop 2.5D cartoon. Change only the cap concept as described. No arms, legs, words, background, border, sticker outline, floating particles or cast shadow outside subject. Square canvas, complete silhouette centered with generous 15% transparent margins, foot at about 85% height. Big simple shapes readable at 32px. The approved character is the visual authority. Subject: Cap is a neutral warm taupe-gray rounded mushroom dome with ONE big cream QUESTION MARK centered clearly on the cap replacing the spots. The question mark is a pictogram, the only symbol allowed. Keep friendly known face (not a question mark face), same ivory body and sage leaves.",
+      "transparent_background": true
+    },
+    {
+      "id": "android-adaptive-foreground",
+      "label": "Android 自適應前景",
+      "kind": "adaptive-foreground",
+      "alpha": true,
+      "prompt": "Edit the attached approved red mushroom into a clean Android adaptive icon FOREGROUND ONLY on truly transparent background. Preserve the approved exact character, cap spots, face and matte soft material, but scale it down to centered x=32%..68%, y=32%..70% of square canvas. Add four thick ivory rounded scan-corner L marks surrounding it, all marks and entire mushroom strictly INSIDE x=24%..76%, y=24%..76% so essential content fits a central safe circle. Balanced simple symbol, plenty transparent padding. No scenery, no square background, no rounded-square tile, no text, no extra foliage. The white scan corners are visible elements, all remaining background transparent. This is one isolated foreground design candidate, not a presentation sheet.",
+      "transparent_background": true
+    },
+    {
+      "id": "ios-app-icon",
+      "label": "iOS／App 主圖示",
+      "kind": "opaque-launcher",
+      "alpha": false,
+      "prompt": "Create a single SQUARE full-bleed opaque app icon based on the attached APPROVED red mushroom character. Exact same soft matte cream-gumdrop red mushroom, ivory spots, cocoa eyes, little smile, peach cheeks and sage leaves. Center character at 60% canvas width, with generous margins. Background is calm uniform dark sage green #55735B, edge-to-edge fully opaque, no scenery or texture. Four thick warm ivory rounded scan-corner L marks frame the mushroom at x=17%..83%, y=17%..83%. Modern premium minimal cute cartoon. No text, no other icons, no border, no baked rounded corners, no mockup, no phone. All four canvas corners filled with background. Suitable as iOS app icon concept and brand master, actual platform sizes will be exported after approval.",
+      "transparent_background": false
+    },
+    {
+      "id": "android-themed-monochrome",
+      "label": "Android 主題單色圖示",
+      "kind": "monochrome",
+      "alpha": true,
+      "prompt": "Design a TRUE ONE-COLOR Android themed launcher glyph derived from the attached red mushroom silhouette: a simplified rounded mushroom dome and short stem, framed by four bold rounded scan corners. ONLY pure white #FFFFFF opaque shapes and transparent negative space; no other RGB colors, no shading, no gradients, no background tile, no eyes, mouth, cheeks or leaves. Exactly three large rounded transparent holes in the cap suggest spots. All essential geometry centered within x=24%..76% and y=24%..76% on a square transparent canvas, generous safety margins. Use bold smooth geometric contours, legible at small launcher sizes. This is the monochrome alpha mask candidate, not a colored icon.",
+      "transparent_background": true
+    },
+    {
+      "id": "notification-mushroom",
+      "label": "通知單色輪廓",
+      "kind": "notification",
+      "alpha": true,
+      "prompt": "Create ONE very simple monochrome notification glyph inspired by the attached mushroom cap/stem silhouette. Pure WHITE #FFFFFF opaque filled mushroom shape on true transparent background, cap and short stem, exactly two large transparent round spot holes in cap. NO face, leaves, scan corners, gradients, gray, other colors, tile, frame, text or shadow. Bold smooth round shape, legible at 24px. Entire glyph occupies approximately central 70% of a square canvas. Do not render a colored character or a 3D icon: this is flat solid white alpha-mask artwork only.",
+      "transparent_background": true
+    }
+  ],
+  "revisions": [
+    {
+      "id": "android-themed-monochrome",
+      "prompt": "Replace the attached rough white glyph with a CLEAN SOLID BLACK vector-like version of the same mushroom and scan-corner symbol on a truly transparent background. Only black #000000 opaque shape and transparent holes. Four rounded scan corners, mushroom cap/stem, three fully empty circular spot holes. Absolutely NO white, gray, texture, grain, shading, disconnected pixels or speckles. Smooth continuous edges and fully transparent empty regions. Simplify to clean geometry, suitable for a system alpha mask which will later be tinted white. Reduce whole design to central 55% square for safe margins. Do not draw a background tile.",
+      "reference": "brand/candidates/v0.4/rejected-attempts/android-themed-monochrome-r0.png"
+    },
+    {
+      "id": "notification-mushroom",
+      "prompt": "Replace this rough white mushroom notification glyph with a CLEAN SOLID BLACK vector-like silhouette on true transparency. Broad rounded cap and short stubby stem, exactly two FULLY EMPTY circular cap holes. Only opaque BLACK #000000 shapes and transparent empty regions, no white, no gray, no shading, no grain, no speckles or fragments. Crisp smooth continuous shape. No face, leaves, scan frame or tile. Central 70% of square. It will be tinted white at runtime using its alpha mask; source must be black.",
+      "reference": "brand/candidates/v0.4/rejected-attempts/notification-mushroom-r0.png"
+    },
+    {
+      "id": "android-adaptive-foreground",
+      "prompt": "Clean the attached transparent adaptive foreground candidate. Preserve the red mushroom's exact design, four warm ivory scan corners, layout and matte style. Remove ALL stray opaque or semiopaque flecks, fragments, white debris, smudges and grain in the empty space, especially underneath the upper corners and above lower corners. The empty space between character and corners must be completely transparent with sharp smooth alpha edges. Do not add any background. Keep existing complete character and four smooth rounded corner strokes. Scale entire essential artwork down another 15% around canvas center to improve safe margins. No added objects, no text.",
+      "reference": "brand/candidates/v0.4/rejected-attempts/android-adaptive-foreground-r0.png"
+    }
+  ],
+  "notes": [
+    "Initial monochrome/notification white-glyph attempts failed visual QA due to speckles; black alpha-mask candidates used for CSS tint previews.",
+    "Android foreground still requires production alpha cleanup; candidate design only.",
+    "No source images modified with code; size/state designs compose original images in CSS."
+  ],
+  "rejected_attempts": [
+    {
+      "path": "brand/candidates/v0.4/rejected-attempts/android-adaptive-foreground-r0.png",
+      "sha256": "4d5e9d6f3307863e6d286887d4cb8e53d1af55abd3a7487b299847a5fe1482d8",
+      "status": "qa-rejected",
+      "reason": "Superseded by revision after transparency/speckle QA; never use as approved reference"
+    },
+    {
+      "path": "brand/candidates/v0.4/rejected-attempts/android-themed-monochrome-r0.png",
+      "sha256": "01e8e2fdf99927831e2307210c7bbb5d48a20b3dfda11d1ffbc7184d1e79132a",
+      "status": "qa-rejected",
+      "reason": "Superseded by revision after transparency/speckle QA; never use as approved reference"
+    },
+    {
+      "path": "brand/candidates/v0.4/rejected-attempts/notification-mushroom-r0.png",
+      "sha256": "396fb87147de225c59bf7a9c464c8d3d55e4056fa42fbc78f77a09b95d04248b",
+      "status": "qa-rejected",
+      "reason": "Superseded by revision after transparency/speckle QA; never use as approved reference"
+    }
+  ]
+}
