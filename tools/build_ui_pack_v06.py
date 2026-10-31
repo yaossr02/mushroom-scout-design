@@ -54,7 +54,7 @@ for res in sorted({r for _, n, s in all_pairs for r in (n, s)}):
 for directory in ['svg','android/drawable','png/24','png/48','sources','review']:
     (OUT / directory).mkdir(parents=True, exist_ok=True)
 shutil.copyfile(source, OUT / 'sources/AppIcon.kt')
-shutil.copyfile(args.phosphor / 'LICENSE', OUT / 'LICENSE-phosphor.txt')
+(OUT / 'LICENSE-phosphor.txt').write_text((args.phosphor / 'LICENSE').read_text())
 assets = []
 symbols = []
 for res, g in glyphs.items():
