@@ -1,0 +1,8 @@
+{
+  "package": "@phosphor-icons/core",
+  "version": "2.1.1",
+  "registry": "https://registry.npmjs.org",
+  "archive_sha512": "bf8011beb8a9e2a042226384e6b98f53294e10ae228840fd6722a372fcee7b3a8c6a24404821ca71122ebefc4bfedc2f2e991f9c438308e269e5d3387998a5c5",
+  "retrieval": "npm pack with normal TLS and package integrity verification; archive not redistributed",
+  "source_app_commit": "a90117e11f83821d10c00147342b1cf033e8ab4a"
+}

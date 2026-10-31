@@ -1,0 +1,22 @@
+{
+  "version": "v0.6",
+  "browser": "154.0.8037.57",
+  "viewport": [
+    1536,
+    1100
+  ],
+  "dpr": 1,
+  "semantic_cards": 56,
+  "inline_svg_previews": 280,
+  "unique_glyphs": 92,
+  "png_exports": 184,
+  "export_sizes_px": [
+    24,
+    48
+  ],
+  "chinese_and_id_search": "passed",
+  "theme_toggle": "passed",
+  "mobile_overflow": "passed",
+  "errors": [],
+  "app_runtime_tested": false
+}

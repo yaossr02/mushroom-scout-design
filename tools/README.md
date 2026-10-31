@@ -14,3 +14,11 @@
 順序：重建 HTML → 啟動本機靜態 HTTP → 執行瀏覽器互動檢查與截圖 → 執行兩個 validator。只在原圖、規格或檢閱頁變更時重做受影響的檢查。
 
 截圖是頁面的實際渲染結果，不等同 App 實機驗證。檢查通過不會把 candidate 自動變為 approved。
+
+## 功能圖示交付 v0.6
+
+- build_ui_pack_v06.py --app APP_CHECKOUT --phosphor EXTRACTED_PHOSPHOR_PACKAGE：唯讀盤點 App，驗證 @phosphor-icons/core@2.1.1，逐項比對既有幾何後匯出 SVG／XML 與映射。
+- render_ui_pack_v06.cjs：以實際 SVG 產生 24／48px 透明 PNG，並驗證 56 張用途卡、搜尋、深淺切換與窄螢幕排版。需要 Playwright／Chromium 與本機靜態 HTTP。
+- validate_ui_pack_v06.py：Pillow 與標準函式庫，檢查向量對照、完整映射、92 glyph、184 PNG、sprite 與 MIT 授權。
+
+此流程不修改來源 App checkout，不使用圖片生成模型重畫既有功能 glyph。

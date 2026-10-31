@@ -1,0 +1,16 @@
+{
+  "version": "v0.6",
+  "status": "candidate",
+  "semantic_count": 56,
+  "android_mapping_count": 52,
+  "ios_supplement_count": 4,
+  "glyph_count": 92,
+  "svg_count": 92,
+  "android_xml_count": 92,
+  "transparent_png_count": 184,
+  "svg_android_geometry": "matched",
+  "source_mappings": "unchanged",
+  "license": "MIT retained",
+  "app_repo_modified": false,
+  "app_runtime_tested": false
+}

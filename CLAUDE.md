@@ -5,3 +5,5 @@
 最新使用者要求：蘑菇都不要擬人化，整個設計重新調整。v0.5 禁止眼睛、嘴巴、腮紅、表情、人物身體與配件。原核准蘑菇只作歷史，catalog active_reference:false 不得作生成參考或匯入。葉芽與綠色花苞仍是有效核准素材。
 
 v0.5 全套已核准，使用 brand/approved/v0.5/ 對應原圖，紅菇為主參考，不退回帶臉 B 圖板。缺少圖片工具時交付 brief，不偽造完成。核准紀錄與固定 hash 見 brand/approved/v0.5/manifest.json；新生成素材仍須另行審核，不修改 App repo。
+
+App 功能圖示補齊交付包在 brand/ui/v0.6/，先讀其 README 與 catalog：52 個既有 Android 用途＋4 個 iOS 補齊用途，92 個 Phosphor glyph，附 SVG／Android XML／透明 PNG。這批補齊映射與配色為 candidate，不能誤套 v0.5 蘑菇的核准；保留 MIT 授權，Dispatch 仍是占位，不代表功能完成。

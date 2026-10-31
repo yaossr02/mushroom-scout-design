@@ -14,6 +14,18 @@
 
 新版 15 張蘑菇＋4 張品牌／平台圖示已核准；葉芽與綠色花苞沿用非擬人化核准原圖。本次核准同時涵蓋尺寸／狀態設計，固定版本存於 approved/v0.5/；未來新增或修改素材仍須另行審核。圖板是直接渲染原圖的瀏覽器截圖，HTML 請以本機靜態 HTTP 開啟，GitHub 可直接看 PNG。
 
+## App 功能圖示 v0.6（補齊交付，待確認）
+
+先前只交付內容／品牌素材，功能圖示現在補齊為完整可匯入包：**52 個 Android 用途＋4 個 iOS 補齊用途，92 個獨立向量圖形**。沿用既定 Phosphor 2.1.1（MIT），不是重新繪製或 AI 生成。
+
+- [地圖與主要功能圖板](brand/ui/v0.6/review/01-map-main.png)
+- [操作與導覽圖板](brand/ui/v0.6/review/02-actions-navigation.png)
+- [自動、懸浮、狀態與 iOS 補齊](brand/ui/v0.6/review/03-tools-status.png)
+- [深色範例](brand/ui/v0.6/review/04-dark-example.png)
+- [完整素材包與匯入說明](brand/ui/v0.6/README.md) · [ZIP 下載](brand/ui/v0.6/mushroom-scout-ui-icons-v0.6.zip)
+
+SVG、Android XML、24／48px 透明 PNG、一般／選取映射與授權均已保存。四個 iOS 補齊用途與展示配色仍待確認；v0.5 非擬人化設計定稿不受影響，App repo 沒有修改。
+
 ## 共同規範
 
 - [品牌規範](brand/STYLE.md)
