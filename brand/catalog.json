@@ -1428,5 +1428,21 @@
   ],
   "historical_style_reference": "brand/references/B-cream-gumdrop-concept.png",
   "current_direction_version": "v0.5",
-  "style_reference_status": "approved"
+  "style_reference_status": "approved",
+  "functional_ui": {
+    "current_direction": "B Botanical Line",
+    "catalog": "brand/ui/v0.7-botanical/catalog.json",
+    "first_six_approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md",
+    "new_derivatives_require_review": true
+  },
+  "element_effects": {
+    "current_direction": "B 環繞流動 · 強化版",
+    "catalog": "brand/effects/v0.9-orbit-bold/catalog.json",
+    "status": "approved",
+    "base_originals_unchanged": true,
+    "effect_layers": 5,
+    "user_preference": "獨立特效更明顯誇張",
+    "approval_record": "brand/approvals/2026-11-01-element-orbit-bold-v0.9.md",
+    "retain_previous_versions": false
+  }
 }

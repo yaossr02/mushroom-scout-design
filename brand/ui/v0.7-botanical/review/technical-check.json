@@ -1,0 +1,41 @@
+{
+  "version": "v0.7-botanical",
+  "functional_uses": 56,
+  "additional_map_entry": 1,
+  "unique_originals": 55,
+  "approved_originals": "hashes unchanged",
+  "new_candidates": 49,
+  "use_id_coverage": "matched all v0.6 use IDs",
+  "rgba_and_alpha": "55 verified",
+  "empty_center": "transparent",
+  "browser": {
+    "source_images_decoded": true,
+    "functional_uses": 56,
+    "additional_map_entry": 1,
+    "hero_count": 57,
+    "size_samples": 171,
+    "state_toggles": 57,
+    "chinese_and_id_search": "passed",
+    "errors": [],
+    "app_runtime_tested": false,
+    "browser": "154.0.8037.57"
+  },
+  "screenshots": {
+    "brand/reviews/overview/all-icons-overview.png": {
+      "dimensions_px": [
+        2400,
+        5550
+      ],
+      "sha256": "24b71accfcc7ba48ee42601faa3b8a48b3938cce3ebae441f8304ece151734d9"
+    },
+    "brand/ui/v0.7-botanical/review/all-icons.png": {
+      "dimensions_px": [
+        2100,
+        8303
+      ],
+      "sha256": "3248b58672733dd5ebef8d640eaa3ba8d2c9009da1e4c6701d8092620db5d480"
+    }
+  },
+  "app_runtime_tested": false,
+  "overview_note": "Overview displays only the approved v0.9 elemental effects; superseded elemental-effect assets and concept boards were removed by user request. Functional review results refer to unchanged functional icons."
+}

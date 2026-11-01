@@ -1,0 +1,14 @@
+{
+  "id": "stop-r1",
+  "status": "rejected",
+  "reason": "Generated a sprout instead of conventional stop square; excluded from delivery and full overview",
+  "original": "/workspace/generated_images/exec-db8f0cdf-082e-4399-bdfe-42d670527c7a.png",
+  "prompt_file": "../REMAINING-PROMPTS.json",
+  "replacement_prompt": "../STOP-RETRY.json",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "sha256": "f142aafef223a087fcccee1efb4fd60aac5a62192a1d8d3420334105564bdefd"
+}

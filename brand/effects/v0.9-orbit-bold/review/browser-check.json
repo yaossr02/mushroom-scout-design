@@ -1,0 +1,15 @@
+{
+  "approval_status": "approved",
+  "effect_count": 5,
+  "source_images_decoded": true,
+  "layered_compositions": 35,
+  "size_previews": 15,
+  "fx_layer_images": 70,
+  "effect_toggle": "passed",
+  "original_stays_visible_when_fx_off": true,
+  "full_resolution_transparent_exports": 5,
+  "errors": [],
+  "browser": "154.0.8037.57",
+  "app_runtime_tested": false,
+  "runtime_animation_tested": false
+}

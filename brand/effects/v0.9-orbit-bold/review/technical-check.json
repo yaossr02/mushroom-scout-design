@@ -1,0 +1,30 @@
+{
+  "version": "v0.9-orbit-bold",
+  "status": "approved",
+  "effect_layers": 5,
+  "unchanged_approved_bases": 5,
+  "base_and_layer_hashes": "verified",
+  "transparent_exports": 5,
+  "export_dimensions_px": [
+    1254,
+    1254
+  ],
+  "transparent_cap_hole_stem_probes": "passed",
+  "browser": {
+    "approval_status": "approved",
+    "effect_count": 5,
+    "source_images_decoded": true,
+    "layered_compositions": 35,
+    "size_previews": 15,
+    "fx_layer_images": 70,
+    "effect_toggle": "passed",
+    "original_stays_visible_when_fx_off": true,
+    "full_resolution_transparent_exports": 5,
+    "errors": [],
+    "browser": "154.0.8037.57",
+    "app_runtime_tested": false,
+    "runtime_animation_tested": false
+  },
+  "app_runtime_tested": false,
+  "runtime_animation_generated": false
+}

@@ -1,0 +1,3895 @@
+{
+  "version": "v0.7-botanical",
+  "status": "mixed-approval",
+  "direction_selected": true,
+  "direction": "B Botanical Line",
+  "reference": "brand/reviews/ui-directions-v0.7/five-directions.png (B row only)",
+  "source_count": 55,
+  "remaining_semantics_not_redesigned": 0,
+  "icons": [
+    {
+      "id": "search",
+      "label": "搜尋",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/png/search.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        25,
+        23,
+        1240,
+        1216
+      ],
+      "body_bbox_alpha128": [
+        135,
+        162,
+        1119,
+        1092
+      ],
+      "sha256": "1acabfcfb5973f28239858266da25248049bc075dd8900cb7660738461021866",
+      "generated_original": "/workspace/generated_images/exec-4b1c3703-fa56-4eea-a9b7-048cbaa3cd48.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "selected_state": "same original PNG plus CSS cream container, sage border and bottom dot",
+      "vector": false,
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md"
+    },
+    {
+      "id": "map",
+      "label": "地圖",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/png/map.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        55,
+        1212,
+        1213
+      ],
+      "body_bbox_alpha128": [
+        154,
+        200,
+        1100,
+        1042
+      ],
+      "sha256": "f79b995bd0102a330a260b2ad9aaa2dcc87cf7cc76dee9d72c5d5b0627404066",
+      "generated_original": "/workspace/generated_images/exec-a597c99d-e689-4fa0-ae4c-f09c4f844b7b.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "selected_state": "same original PNG plus CSS cream container, sage border and bottom dot",
+      "vector": false,
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md"
+    },
+    {
+      "id": "scan",
+      "label": "掃描",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/png/scan.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        32,
+        1228,
+        1164
+      ],
+      "body_bbox_alpha128": [
+        195,
+        227,
+        1059,
+        1027
+      ],
+      "sha256": "9741308bb3119328055b535a12dff4005cb506199ad5fe4aaa3afa5f8694c500",
+      "generated_original": "/workspace/generated_images/exec-6b90392f-e0d3-4511-9ec6-dbfd92a888aa.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "selected_state": "same original PNG plus CSS cream container, sage border and bottom dot",
+      "vector": false,
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md"
+    },
+    {
+      "id": "favorite",
+      "label": "收藏",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/png/favorite.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        21,
+        1208,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        176,
+        203,
+        1076,
+        1047
+      ],
+      "sha256": "6c6b44efbec85a3805c2379b31cb9a5033e74b718b45d9f6f37200f5d33cf6b7",
+      "generated_original": "/workspace/generated_images/exec-59d1a28a-49fc-4ff5-9042-415da405a9e2.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "selected_state": "same original PNG plus CSS cream container, sage border and bottom dot",
+      "vector": false,
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md"
+    },
+    {
+      "id": "settings",
+      "label": "設定",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/png/settings.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        19,
+        1240,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        125,
+        149,
+        1129,
+        1112
+      ],
+      "sha256": "5593fbc9fa9f883132720bb45b99e51622ff5a4475366fced35ad16a1f9b3b3e",
+      "generated_original": "/workspace/generated_images/exec-2a355753-0cb7-4535-8693-a2c00d34349c.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "selected_state": "same original PNG plus CSS cream container, sage border and bottom dot",
+      "vector": false,
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md"
+    },
+    {
+      "id": "photo",
+      "label": "相簿",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/png/photo.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        80,
+        1160,
+        1166
+      ],
+      "body_bbox_alpha128": [
+        132,
+        273,
+        1122,
+        1005
+      ],
+      "sha256": "5174e0d3b7ad84714135054a235c171c844340fffc2449b1758b59ccb6a9652b",
+      "generated_original": "/workspace/generated_images/exec-132d471d-c1a8-4bf2-a214-ab5b2c7f5aa3.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "selected_state": "same original PNG plus CSS cream container, sage border and bottom dot",
+      "vector": false,
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md"
+    },
+    {
+      "id": "layers",
+      "label": "圖層",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/layers.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        42,
+        1200,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        190,
+        147,
+        1063,
+        1148
+      ],
+      "sha256": "94659ad76c040ba05a54818771d18d593bb062d7a5c8d297fc9fdfd8f494c8af",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-dbdc0850-674f-4f30-8d3f-295c819b0918.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "filter",
+      "label": "篩選",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/filter.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        0,
+        1210,
+        1230
+      ],
+      "body_bbox_alpha128": [
+        186,
+        208,
+        1066,
+        1066
+      ],
+      "sha256": "1dc91f48a0c98c61ad067f4fe23d596307ec9f8321cf62b13ea609fc96429227",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-620df85a-658f-4c09-9c90-32020e03b2fe.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "crosshair",
+      "label": "準星",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/crosshair.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        47,
+        23,
+        1254,
+        1189
+      ],
+      "body_bbox_alpha128": [
+        155,
+        148,
+        1098,
+        1106
+      ],
+      "sha256": "b87456433705995cdfbee1bff6078235e026c47d3c7324a24bca5908a1818efc",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-0d880209-9727-49ee-b6b7-af9db03c2d20.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "locate",
+      "label": "目前位置",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/locate.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        7,
+        1186,
+        1222
+      ],
+      "body_bbox_alpha128": [
+        147,
+        146,
+        1107,
+        1109
+      ],
+      "sha256": "e98791f5d941eff4742f0c7b15863ea119b9f90fbdd9007671f0b36cd282c9a6",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-615758f0-0cee-4d47-8e71-c113b5e1f926.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "fit-all",
+      "label": "顯示全部",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/fit-all.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        31,
+        1254,
+        1244
+      ],
+      "body_bbox_alpha128": [
+        218,
+        245,
+        1036,
+        1008
+      ],
+      "sha256": "83eb197345fbc15765edce34a5dca9e2b23c04c1b8e7498c41b7b1bcf9d761c2",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-f37915c9-d8db-4ce7-ae51-f965d04184e0.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "plus",
+      "label": "新增／放大",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/plus.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        52,
+        1238,
+        1240
+      ],
+      "body_bbox_alpha128": [
+        163,
+        188,
+        1091,
+        1106
+      ],
+      "sha256": "7a79c96fef2d85f5a6ffe8ca4f199426f7f2dfc7aa2b6ef264be91b131326d00",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-1b438a4e-8a16-40b6-a210-275809ced4a7.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "minus",
+      "label": "移除／縮小",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/minus.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        27,
+        165,
+        1224,
+        924
+      ],
+      "body_bbox_alpha128": [
+        122,
+        517,
+        1131,
+        752
+      ],
+      "sha256": "d78ef75ddfe63fbb10780aab127f84dd865b6f36cfd8eb73e9f32133a5a2a0e4",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-8cd200fa-7d6c-49cb-866f-add5e87ee519.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "auto",
+      "label": "自動",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/auto.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        49,
+        1248,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        196,
+        200,
+        1062,
+        1054
+      ],
+      "sha256": "76c57156b07e20ee153caf8c21c23db5427c3d9a72c6448177e6e53717a1adfc",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-6f3ac60f-25f1-4495-b576-819837d3ed15.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "tasks",
+      "label": "任務",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/tasks.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        138,
+        70,
+        1093,
+        1212
+      ],
+      "body_bbox_alpha128": [
+        293,
+        175,
+        961,
+        1084
+      ],
+      "sha256": "00dd34e3768320c7d9aa02b41c3fcb6503558f8951da480b07b3af284c67a831",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-53eb1404-741a-40ed-aa2a-7e80c6a0902a.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "records",
+      "label": "紀錄",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/records.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        69,
+        1245,
+        1222
+      ],
+      "body_bbox_alpha128": [
+        218,
+        134,
+        1035,
+        1121
+      ],
+      "sha256": "c379bc3777cf35e88da9c6647d226c38d8e8c201612be9459ee0dbe73cd8542a",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-ad0c1485-a063-4716-9840-65ee0af1bd23.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "feed",
+      "label": "餵果",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/feed.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        33,
+        93,
+        1214,
+        1228
+      ],
+      "body_bbox_alpha128": [
+        326,
+        220,
+        977,
+        1067
+      ],
+      "sha256": "a1e7fc455ffe371af4ed80b72538bdd7f2079602198ca3da7995b581c883f99f",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-539a728d-04cc-4b8a-a049-f4885c341350.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "dispatch",
+      "label": "派遣",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/dispatch.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        24,
+        1202,
+        1226
+      ],
+      "body_bbox_alpha128": [
+        152,
+        163,
+        1100,
+        1091
+      ],
+      "sha256": "6d0946121f5b34155beb5003dd294cd69d749bc61062a7f2af2608fd1ac2074c",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-567707b3-4c6f-404c-8ffd-3caf41114e53.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "lottery",
+      "label": "抽獎",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/lottery.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        49,
+        1238,
+        1228
+      ],
+      "body_bbox_alpha128": [
+        148,
+        133,
+        1107,
+        1118
+      ],
+      "sha256": "f9ce9693867ac19468278216cf31f7f168304ffe9e7367128bc5b1da63a3f757",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-e60c3e6e-d485-410b-aa1a-5da58b74b193.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "teleport",
+      "label": "傳送",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/teleport.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        105,
+        53,
+        1170,
+        1182
+      ],
+      "body_bbox_alpha128": [
+        242,
+        121,
+        1011,
+        1107
+      ],
+      "sha256": "6199e1193f68f0f815f8d7feae2f73efccee12d9c72443615eaea715bbf6d962",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-72e110c5-372f-4576-b63c-cc51db156c46.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "route",
+      "label": "路線",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/route.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        140,
+        28,
+        1214,
+        1222
+      ],
+      "body_bbox_alpha128": [
+        228,
+        200,
+        1033,
+        1095
+      ],
+      "sha256": "435d1c3f094964b6cb82ff82eec153f1dbf86add00ac523d76d21770dd0df5c6",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-a40dad92-ce70-40e3-8a8e-97e2aee523e6.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "reorder",
+      "label": "拖曳排序",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/reorder.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        81,
+        129,
+        1063,
+        1235
+      ],
+      "body_bbox_alpha128": [
+        326,
+        236,
+        927,
+        1125
+      ],
+      "sha256": "817f9d6be3293da6ef64eac45e5899b63394b5d775c86a5d276d1aa833de7ef8",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-32baa9d7-2754-46a8-bdfd-6c6d1bd535cc.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "list",
+      "label": "清單",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/list.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        93,
+        1248,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        193,
+        322,
+        1060,
+        1033
+      ],
+      "sha256": "c10dc0c7472788f49328f7ff515edb8b85031bac47ba68cd808a16236252fe73",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-c7e28b7a-82d3-4881-bf3a-bb0c4bb4470a.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "footprint",
+      "label": "足跡",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/footprint.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        136,
+        9,
+        1129,
+        1142
+      ],
+      "body_bbox_alpha128": [
+        302,
+        136,
+        1027,
+        1135
+      ],
+      "sha256": "9d7b9b1a075ec5fbe33d26b33adf55ad7080dcfd335b9a7f7e7b317d29c1b70b",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-edd06e16-7b32-4428-bbd3-1b2bcbe3b76d.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "timezones",
+      "label": "時區",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/timezones.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        17,
+        1219,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        127,
+        150,
+        1152,
+        1128
+      ],
+      "sha256": "d20fcc368c79f8aed2bcfd50fb73f75cfe38780b50d4b25f1453204388d85e36",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-e8cf3edd-b5de-4ccf-a1c7-80f7a11c103e.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "recent",
+      "label": "最近",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/recent.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        8,
+        1222,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        169,
+        169,
+        1085,
+        1085
+      ],
+      "sha256": "97485f522778c6d5646c17754ccc02f599f6ffed8a9f5b73e608e546c67e769b",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-c742bcdf-6352-448b-a528-6f334bfdb18d.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "undo",
+      "label": "復原",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/undo.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        41,
+        19,
+        1214,
+        1235
+      ],
+      "body_bbox_alpha128": [
+        172,
+        113,
+        1083,
+        1156
+      ],
+      "sha256": "b9ae0cd2ec5960095d3edb85cea30beee123434bb60501f8a3d2505a605c0745",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-3273a323-0ea9-469e-b773-ba649141a87d.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "rotate",
+      "label": "旋轉",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/rotate.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        83,
+        1251,
+        1235
+      ],
+      "body_bbox_alpha128": [
+        217,
+        234,
+        1095,
+        1096
+      ],
+      "sha256": "ce9547a11cab9006b11b477d706371f1c2f54d20d131c7882e575c4e13243875",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-31b3796d-434b-4c12-8950-a61e2c1c055b.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "play",
+      "label": "開始",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/play.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        21,
+        1240,
+        1230
+      ],
+      "body_bbox_alpha128": [
+        219,
+        181,
+        1040,
+        1084
+      ],
+      "sha256": "d71d664f87b4528e86e4a745e4624526bdf9e749ea7de33ded4be614421e5e1a",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-1c2db10a-994d-4fb5-8437-0b052f9ebe0e.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "pause",
+      "label": "暫停",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/pause.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        76,
+        1224,
+        1212
+      ],
+      "body_bbox_alpha128": [
+        285,
+        221,
+        969,
+        1037
+      ],
+      "sha256": "2658728bcd1b7fe3a709e6f2b817d0a6f54557c3f3524cf69948d8050588471e",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-a1fa8222-efbe-4714-80dc-ce39f5ac49b2.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "stop",
+      "label": "停止",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/stop.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        33,
+        23,
+        1206,
+        1190
+      ],
+      "body_bbox_alpha128": [
+        224,
+        229,
+        1030,
+        1029
+      ],
+      "sha256": "1302deba745dbf07d3cd69ddf4ad54a21ff1b25d3f495372bb1b4e7ea1b7834e",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-b7c97d94-b1c8-4675-913e-a942727ce2a9.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/STOP-RETRY.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "copy",
+      "label": "複製",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/copy.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        44,
+        1093,
+        1228
+      ],
+      "body_bbox_alpha128": [
+        262,
+        198,
+        1030,
+        1085
+      ],
+      "sha256": "845d80ec3a2139a9a335db036005fd34e050d0d403f38b4a39e760ccaf04312b",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-867d58d2-d3ee-4950-9757-1466f3d27841.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "open-outside",
+      "label": "外部開啟",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/open-outside.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        3,
+        1236,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        180,
+        202,
+        1104,
+        1040
+      ],
+      "sha256": "f492418fc7b620b62bc967d03b58a97abb077c49d71cc734c08aff13c8c1d4f4",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-c10b43db-6858-41dc-808e-eb41a04f444f.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "share",
+      "label": "分享",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/share.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        33,
+        20,
+        1226,
+        1238
+      ],
+      "body_bbox_alpha128": [
+        199,
+        179,
+        1103,
+        1113
+      ],
+      "sha256": "968c16c217b9d2391b67b6a270fae5692a0360502fbb68b143ec830cf59a785f",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-a02beb4c-1cb9-4a64-9280-8ee971e5452d.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "delete",
+      "label": "刪除",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/delete.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        57,
+        87,
+        1174,
+        1236
+      ],
+      "body_bbox_alpha128": [
+        209,
+        173,
+        1045,
+        1099
+      ],
+      "sha256": "6aab678d34ffb079a405697549d9e7fbbca1c5b56fd3b382b2c1d204319b9981",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-87044990-8aaf-4114-b68f-061265e0fe58.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "check",
+      "label": "確認",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/check.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        100,
+        1210,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        177,
+        305,
+        1145,
+        1049
+      ],
+      "sha256": "695044b3429dc326ef21ef6a2601a33be5c3e0480de236e011d67f80dfabe7f7",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-8b1538ff-2730-4b6c-a2c3-637b0a4fc002.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "close",
+      "label": "關閉",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/close.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        117,
+        1170,
+        1160
+      ],
+      "body_bbox_alpha128": [
+        251,
+        281,
+        1002,
+        1021
+      ],
+      "sha256": "fde44cc0719d70f0ced44328df76fb471ed0d7b1e36e02db881299da3a123ade",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-0d5afc61-a3ae-436f-bba6-9d6a972b3118.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "more",
+      "label": "更多",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/more.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        182,
+        1194,
+        1053
+      ],
+      "body_bbox_alpha128": [
+        157,
+        516,
+        1095,
+        800
+      ],
+      "sha256": "c2de6339923181737e491000b6df9dfdd6a279a967d28435ec93e4f16aef29d7",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-df81f2eb-c5f4-4e12-8900-114a5b7ceecd.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "skip-forward",
+      "label": "下一步",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/skip-forward.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        174,
+        1178,
+        1176
+      ],
+      "body_bbox_alpha128": [
+        228,
+        285,
+        1026,
+        981
+      ],
+      "sha256": "31454044288c708aeb9825f103e437d4da725abc70697780e7457354adef4e69",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-97442158-1599-47ad-95d4-b46c7c83d379.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "skip-back",
+      "label": "上一步",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/skip-back.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        25,
+        119,
+        1176,
+        1174
+      ],
+      "body_bbox_alpha128": [
+        229,
+        218,
+        1026,
+        1043
+      ],
+      "sha256": "61c95c2ca7b22e486af9794333a361367fc362339e33c720e93ba28bb9964c0b",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-49eace33-872e-403e-a6c1-dc2b7ba9d702.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "float-menu",
+      "label": "功能選單",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/float-menu.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        25,
+        85,
+        1226,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        228,
+        254,
+        1026,
+        1043
+      ],
+      "sha256": "7d673748df973263257437c0ff2a72ccca2f79a0ed97ad5332395a148275af04",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-274c30a2-162c-4411-b869-bc305302c493.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "ticket",
+      "label": "票券",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/ticket.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        184,
+        1135,
+        1099
+      ],
+      "body_bbox_alpha128": [
+        124,
+        363,
+        1130,
+        891
+      ],
+      "sha256": "6e408054bf791911aafd3e0c0b00d6f48d084e4aaaae8b3d64ad736c4363f044",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-154d0c98-c75e-45b2-9964-de68f5a78def.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "light-speed",
+      "label": "光速移動",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/light-speed.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        41,
+        55,
+        1154,
+        1212
+      ],
+      "body_bbox_alpha128": [
+        285,
+        150,
+        997,
+        1118
+      ],
+      "sha256": "58624572d0705758cd4ab9e659ed0d13056e3d6d9e0b072d6f73470d92fe7d8e",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-a9814ce3-6c05-4d9a-88a9-7e1816f801bf.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "backspace",
+      "label": "退格",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/backspace.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        117,
+        1232,
+        1101
+      ],
+      "body_bbox_alpha128": [
+        128,
+        306,
+        1122,
+        958
+      ],
+      "sha256": "9ad738a8ac17e411181450305922b5bf66ad41067a5089e4811440b3fd40b8f8",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-1eed3d7c-15f8-46c8-a8c0-8e94f8f9e0a9.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "return-to-app",
+      "label": "回到App",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/return-to-app.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        116,
+        1230,
+        1021
+      ],
+      "body_bbox_alpha128": [
+        194,
+        255,
+        1135,
+        987
+      ],
+      "sha256": "59ea858a42a1044d71698e27bad9e1f173864caa9707f6be38c01157526f7060",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-494bedfa-81cf-44c0-8e4d-d3416a09f2d7.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "back",
+      "label": "返回",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/back.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        23,
+        263,
+        1234,
+        993
+      ],
+      "body_bbox_alpha128": [
+        154,
+        377,
+        1104,
+        915
+      ],
+      "sha256": "4ae206065d81f4c80d6ea3c0e30991f361414670260b483921f1072829d6600d",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-d697e876-7725-4d4f-a626-62e9559ed4a6.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "previous",
+      "label": "上一頁",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/previous.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        49,
+        0,
+        1192,
+        1206
+      ],
+      "body_bbox_alpha128": [
+        326,
+        174,
+        930,
+        1080
+      ],
+      "sha256": "346ae03aca7aa2e70f5887a0470873be96331342037b8c901ce44fa8c113568c",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-65672674-6019-432e-9b2f-7f3952c23487.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "next",
+      "label": "下一頁",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/next.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        33,
+        103,
+        1218,
+        1117
+      ],
+      "body_bbox_alpha128": [
+        403,
+        247,
+        898,
+        1018
+      ],
+      "sha256": "2252a5e5016579a423a76d238655bf0485a1a23de44bb644e54900597c03dd9b",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-aebaa799-892b-455b-b625-9556920efeaf.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "expand",
+      "label": "展開",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/expand.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        182,
+        1196,
+        1140
+      ],
+      "body_bbox_alpha128": [
+        92,
+        387,
+        1161,
+        1044
+      ],
+      "sha256": "3117d3f43f56a834396b98d8e33e8d96b9481dcb076da6d27210e9ec667c32c2",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-c0568224-d77d-4c53-b4df-9071c0205ce6.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "collapse",
+      "label": "收合",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/collapse.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        65,
+        272,
+        1244,
+        1182
+      ],
+      "body_bbox_alpha128": [
+        165,
+        363,
+        1090,
+        921
+      ],
+      "sha256": "06aef1325e3f365c631ea2529653b8b377c03394a4ca1687114abb0969c79cab",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-52b649f6-d134-468f-ae2a-ebd45358bafa.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "info",
+      "label": "資訊",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/info.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        55,
+        1131,
+        1236
+      ],
+      "body_bbox_alpha128": [
+        164,
+        170,
+        1087,
+        1094
+      ],
+      "sha256": "0b098c624b3f1d2c9c5cbd8ac307546f4e8b8617837349132ae15e3131a76696",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-f3693f1a-0cd7-49df-9f53-f9d1e354f13a.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "warning",
+      "label": "警告",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/warning.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        36,
+        1238,
+        1206
+      ],
+      "body_bbox_alpha128": [
+        124,
+        213,
+        1127,
+        1069
+      ],
+      "sha256": "92085d58741eacb6cba6900f442c0dd629b3e99d6218fdedf0353ea38e0eb037",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-51e7e766-4357-405b-b849-29ab85826804.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "success",
+      "label": "成功",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/success.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        0,
+        1224,
+        1235
+      ],
+      "body_bbox_alpha128": [
+        186,
+        194,
+        1168,
+        1097
+      ],
+      "sha256": "88631db7c59f1f7c54b45d37d4b1a8af742b655070d144a6741bf0c11f348935",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-ea294a5f-0ef2-4c69-ad62-cd05670ce96b.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "error",
+      "label": "錯誤",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/error.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        57,
+        51,
+        1224,
+        1198
+      ],
+      "body_bbox_alpha128": [
+        156,
+        173,
+        1094,
+        1108
+      ],
+      "sha256": "c3a3027f92985399d621b1145c6b99d1e71075c679cc8bfc4eca818109b5f399",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-37c43201-ad9a-42d8-8968-de34f6c4705c.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    },
+    {
+      "id": "empty",
+      "label": "空狀態",
+      "status": "candidate",
+      "path": "brand/ui/v0.7-botanical/png/empty.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        65,
+        21,
+        1218,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        184,
+        197,
+        1069,
+        1076
+      ],
+      "sha256": "7bc8a00cc40f8f9f99833165b8ee9f43ce048bd05aa91a34c9ad5e6d3c96e4c8",
+      "date": "2026-11-01",
+      "generated_original": "/workspace/generated_images/exec-2ebcea41-2860-49cf-b850-d3c5c1a47795.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false
+    }
+  ],
+  "limitations": [
+    "Generated raster candidates, not final vector geometry",
+    "Optical size, exact line width and palette vary slightly between independent generations; faint low-alpha pixels may reach canvas edges",
+    "Dark-background contrast and 32px botanical details require visual review; UI state container does not solve normal dark-icon contrast"
+  ],
+  "dark_background_policy": "Use cream backing for dark interfaces; raw sage on dark is inspection only.",
+  "approval_record": null,
+  "first_six_approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md",
+  "semantics": [
+    {
+      "id": "Search",
+      "label": "搜尋",
+      "group": "地圖與主要功能",
+      "asset_id": "search",
+      "normal": "brand/ui/v0.7-botanical/png/search.png",
+      "selected": "brand/ui/v0.7-botanical/png/search.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md",
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 72
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 133
+        }
+      ]
+    },
+    {
+      "id": "Layers",
+      "label": "圖層",
+      "group": "地圖與主要功能",
+      "asset_id": "layers",
+      "normal": "brand/ui/v0.7-botanical/png/layers.png",
+      "selected": "brand/ui/v0.7-botanical/png/layers.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 77
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 110
+        }
+      ]
+    },
+    {
+      "id": "Filter",
+      "label": "篩選",
+      "group": "地圖與主要功能",
+      "asset_id": "filter",
+      "normal": "brand/ui/v0.7-botanical/png/filter.png",
+      "selected": "brand/ui/v0.7-botanical/png/filter.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 166
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RecordSheet.kt",
+          "line": 137
+        }
+      ]
+    },
+    {
+      "id": "Settings",
+      "label": "設定",
+      "group": "地圖與主要功能",
+      "asset_id": "settings",
+      "normal": "brand/ui/v0.7-botanical/png/settings.png",
+      "selected": "brand/ui/v0.7-botanical/png/settings.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md",
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 317
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 79
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/NavigationPanel.kt",
+          "line": 97
+        }
+      ]
+    },
+    {
+      "id": "Crosshair",
+      "label": "準星",
+      "group": "地圖與主要功能",
+      "asset_id": "crosshair",
+      "normal": "brand/ui/v0.7-botanical/png/crosshair.png",
+      "selected": "brand/ui/v0.7-botanical/png/crosshair.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 169
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 151
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 756
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 1042
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 62
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/Onboarding.kt",
+          "line": 62
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ReceivedDialog.kt",
+          "line": 98
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoutePanel.kt",
+          "line": 226
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 183
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 184
+        }
+      ]
+    },
+    {
+      "id": "Locate",
+      "label": "目前位置",
+      "group": "地圖與主要功能",
+      "asset_id": "locate",
+      "normal": "brand/ui/v0.7-botanical/png/locate.png",
+      "selected": "brand/ui/v0.7-botanical/png/locate.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FavoritesSheet.kt",
+          "line": 64
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 191
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 123
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 643
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 808
+        }
+      ]
+    },
+    {
+      "id": "FitAll",
+      "label": "顯示全部",
+      "group": "地圖與主要功能",
+      "asset_id": "fit-all",
+      "normal": "brand/ui/v0.7-botanical/png/fit-all.png",
+      "selected": "brand/ui/v0.7-botanical/png/fit-all.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 164
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 171
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ViewMode.kt",
+          "line": 347
+        }
+      ]
+    },
+    {
+      "id": "ZoomIn",
+      "label": "放大",
+      "group": "地圖與主要功能",
+      "asset_id": "plus",
+      "normal": "brand/ui/v0.7-botanical/png/plus.png",
+      "selected": "brand/ui/v0.7-botanical/png/plus.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 169
+        }
+      ]
+    },
+    {
+      "id": "ZoomOut",
+      "label": "縮小",
+      "group": "地圖與主要功能",
+      "asset_id": "minus",
+      "normal": "brand/ui/v0.7-botanical/png/minus.png",
+      "selected": "brand/ui/v0.7-botanical/png/minus.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 173
+        }
+      ]
+    },
+    {
+      "id": "Auto",
+      "label": "自動",
+      "group": "地圖與主要功能",
+      "asset_id": "auto",
+      "normal": "brand/ui/v0.7-botanical/png/auto.png",
+      "selected": "brand/ui/v0.7-botanical/png/auto.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 94
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/Onboarding.kt",
+          "line": 69
+        }
+      ]
+    },
+    {
+      "id": "Tasks",
+      "label": "任務",
+      "group": "地圖與主要功能",
+      "asset_id": "tasks",
+      "normal": "brand/ui/v0.7-botanical/png/tasks.png",
+      "selected": "brand/ui/v0.7-botanical/png/tasks.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 178
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 95
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 717
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/Onboarding.kt",
+          "line": 69
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 226
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 239
+        }
+      ]
+    },
+    {
+      "id": "Records",
+      "label": "紀錄",
+      "group": "地圖與主要功能",
+      "asset_id": "records",
+      "normal": "brand/ui/v0.7-botanical/png/records.png",
+      "selected": "brand/ui/v0.7-botanical/png/records.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 96
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/Onboarding.kt",
+          "line": 69
+        }
+      ]
+    },
+    {
+      "id": "Scan",
+      "label": "掃描",
+      "group": "地圖與主要功能",
+      "asset_id": "scan",
+      "normal": "brand/ui/v0.7-botanical/png/scan.png",
+      "selected": "brand/ui/v0.7-botanical/png/scan.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md",
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 184
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 133
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 98
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/Onboarding.kt",
+          "line": 67
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 143
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 185
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 252
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 293
+        }
+      ]
+    },
+    {
+      "id": "Feed",
+      "label": "餵果",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "feed",
+      "normal": "brand/ui/v0.7-botanical/png/feed.png",
+      "selected": "brand/ui/v0.7-botanical/png/feed.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 30
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 117
+        }
+      ]
+    },
+    {
+      "id": "Dispatch",
+      "label": "派遣",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "dispatch",
+      "normal": "brand/ui/v0.7-botanical/png/dispatch.png",
+      "selected": "brand/ui/v0.7-botanical/png/dispatch.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "placeholder",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 31
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 155
+        }
+      ]
+    },
+    {
+      "id": "Lottery",
+      "label": "抽獎",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "lottery",
+      "normal": "brand/ui/v0.7-botanical/png/lottery.png",
+      "selected": "brand/ui/v0.7-botanical/png/lottery.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 32
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 73
+        }
+      ]
+    },
+    {
+      "id": "Teleport",
+      "label": "傳送",
+      "group": "地圖與主要功能",
+      "asset_id": "teleport",
+      "normal": "brand/ui/v0.7-botanical/png/teleport.png",
+      "selected": "brand/ui/v0.7-botanical/png/teleport.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 228
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 268
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 124
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 954
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 1041
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/Onboarding.kt",
+          "line": 62
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 147
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 178
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 162
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RecordSheet.kt",
+          "line": 202
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoadPlan.kt",
+          "line": 313
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RouteMode.kt",
+          "line": 34
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ViewMode.kt",
+          "line": 196
+        }
+      ]
+    },
+    {
+      "id": "Route",
+      "label": "路線",
+      "group": "地圖與主要功能",
+      "asset_id": "route",
+      "normal": "brand/ui/v0.7-botanical/png/route.png",
+      "selected": "brand/ui/v0.7-botanical/png/route.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 278
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FavoritesSheet.kt",
+          "line": 78
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 271
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 340
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 175
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 195
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 651
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/Onboarding.kt",
+          "line": 65
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RouteMode.kt",
+          "line": 34
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 233
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanTasksScreen.kt",
+          "line": 66
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanTasksScreen.kt",
+          "line": 86
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanTasksScreen.kt",
+          "line": 147
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 434
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ViewMode.kt",
+          "line": 329
+        }
+      ]
+    },
+    {
+      "id": "Reorder",
+      "label": "拖曳排序",
+      "group": "地圖與主要功能",
+      "asset_id": "reorder",
+      "normal": "brand/ui/v0.7-botanical/png/reorder.png",
+      "selected": "brand/ui/v0.7-botanical/png/reorder.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoutePanel.kt",
+          "line": 218
+        }
+      ]
+    },
+    {
+      "id": "List",
+      "label": "清單",
+      "group": "地圖與主要功能",
+      "asset_id": "list",
+      "normal": "brand/ui/v0.7-botanical/png/list.png",
+      "selected": "brand/ui/v0.7-botanical/png/list.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 347
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/NavigationPanel.kt",
+          "line": 125
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 438
+        }
+      ]
+    },
+    {
+      "id": "Footprint",
+      "label": "足跡",
+      "group": "地圖與主要功能",
+      "asset_id": "footprint",
+      "normal": "brand/ui/v0.7-botanical/png/footprint.png",
+      "selected": "brand/ui/v0.7-botanical/png/footprint.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 1029
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 202
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 239
+        }
+      ]
+    },
+    {
+      "id": "Timezones",
+      "label": "時區",
+      "group": "地圖與主要功能",
+      "asset_id": "timezones",
+      "normal": "brand/ui/v0.7-botanical/png/timezones.png",
+      "selected": "brand/ui/v0.7-botanical/png/timezones.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 638
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 130
+        }
+      ]
+    },
+    {
+      "id": "Favorite",
+      "label": "收藏",
+      "group": "地圖與主要功能",
+      "asset_id": "favorite",
+      "normal": "brand/ui/v0.7-botanical/png/favorite.png",
+      "selected": "brand/ui/v0.7-botanical/png/favorite.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md",
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FavoritesSheet.kt",
+          "line": 65
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FavoritesSheet.kt",
+          "line": 79
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 97
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 1036
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 201
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 238
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RecordSheet.kt",
+          "line": 194
+        }
+      ]
+    },
+    {
+      "id": "Recent",
+      "label": "最近",
+      "group": "地圖與主要功能",
+      "asset_id": "recent",
+      "normal": "brand/ui/v0.7-botanical/png/recent.png",
+      "selected": "brand/ui/v0.7-botanical/png/recent.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 201
+        }
+      ]
+    },
+    {
+      "id": "Add",
+      "label": "新增",
+      "group": "操作與導覽",
+      "asset_id": "plus",
+      "normal": "brand/ui/v0.7-botanical/png/plus.png",
+      "selected": "brand/ui/v0.7-botanical/png/plus.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LotteryPanel.kt",
+          "line": 326
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LotteryPanel.kt",
+          "line": 399
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AppComponents.kt",
+          "line": 343
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 279
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 1091
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 170
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoadPlan.kt",
+          "line": 294
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoutePanel.kt",
+          "line": 135
+        }
+      ]
+    },
+    {
+      "id": "Remove",
+      "label": "移除",
+      "group": "操作與導覽",
+      "asset_id": "minus",
+      "normal": "brand/ui/v0.7-botanical/png/minus.png",
+      "selected": "brand/ui/v0.7-botanical/png/minus.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LotteryPanel.kt",
+          "line": 325
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LotteryPanel.kt",
+          "line": 400
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AppComponents.kt",
+          "line": 341
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 1087
+        }
+      ]
+    },
+    {
+      "id": "Undo",
+      "label": "復原",
+      "group": "操作與導覽",
+      "asset_id": "undo",
+      "normal": "brand/ui/v0.7-botanical/png/undo.png",
+      "selected": "brand/ui/v0.7-botanical/png/undo.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LotteryPanel.kt",
+          "line": 422
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 213
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 334
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 112
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 141
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 176
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoutePanel.kt",
+          "line": 238
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RouteSettingsSheet.kt",
+          "line": 50
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 170
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 197
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 362
+        }
+      ]
+    },
+    {
+      "id": "Rotate",
+      "label": "旋轉",
+      "group": "操作與導覽",
+      "asset_id": "rotate",
+      "normal": "brand/ui/v0.7-botanical/png/rotate.png",
+      "selected": "brand/ui/v0.7-botanical/png/rotate.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "reserved-unreferenced",
+      "usage_references": []
+    },
+    {
+      "id": "Play",
+      "label": "開始",
+      "group": "操作與導覽",
+      "asset_id": "play",
+      "normal": "brand/ui/v0.7-botanical/png/play.png",
+      "selected": "brand/ui/v0.7-botanical/png/play.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/AutoBar.kt",
+          "line": 106
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 312
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LotteryPanel.kt",
+          "line": 340
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 103
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 105
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 302
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 350
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 358
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 300
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 339
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 177
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 196
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 323
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 716
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/NavigationPanel.kt",
+          "line": 87
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/NavigationPanel.kt",
+          "line": 129
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/NavigationPanel.kt",
+          "line": 134
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 140
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 175
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 181
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 182
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 202
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanTasksScreen.kt",
+          "line": 85
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/StatusCapsule.kt",
+          "line": 102
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 283
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 314
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TourBar.kt",
+          "line": 60
+        }
+      ]
+    },
+    {
+      "id": "Pause",
+      "label": "暫停",
+      "group": "操作與導覽",
+      "asset_id": "pause",
+      "normal": "brand/ui/v0.7-botanical/png/pause.png",
+      "selected": "brand/ui/v0.7-botanical/png/pause.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/AutoBar.kt",
+          "line": 69
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/AutoBar.kt",
+          "line": 106
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 312
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 302
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 350
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 300
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 323
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/NavigationPanel.kt",
+          "line": 87
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/NavigationPanel.kt",
+          "line": 129
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 202
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/StatusCapsule.kt",
+          "line": 102
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TourBar.kt",
+          "line": 60
+        }
+      ]
+    },
+    {
+      "id": "Stop",
+      "label": "停止",
+      "group": "操作與導覽",
+      "asset_id": "stop",
+      "normal": "brand/ui/v0.7-botanical/png/stop.png",
+      "selected": "brand/ui/v0.7-botanical/png/stop.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/AutoBar.kt",
+          "line": 70
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 321
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 92
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 303
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 360
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 170
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 302
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 325
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/NavigationPanel.kt",
+          "line": 88
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/NavigationPanel.kt",
+          "line": 130
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 177
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/StatusCapsule.kt",
+          "line": 103
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TourBar.kt",
+          "line": 62
+        }
+      ]
+    },
+    {
+      "id": "Copy",
+      "label": "複製",
+      "group": "操作與導覽",
+      "asset_id": "copy",
+      "normal": "brand/ui/v0.7-botanical/png/copy.png",
+      "selected": "brand/ui/v0.7-botanical/png/copy.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 300
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 270
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 765
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 956
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 161
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 172
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ReceivedDialog.kt",
+          "line": 95
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoutePanel.kt",
+          "line": 136
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 494
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ViewMode.kt",
+          "line": 197
+        }
+      ]
+    },
+    {
+      "id": "OpenOutside",
+      "label": "外部開啟",
+      "group": "操作與導覽",
+      "asset_id": "open-outside",
+      "normal": "brand/ui/v0.7-botanical/png/open-outside.png",
+      "selected": "brand/ui/v0.7-botanical/png/open-outside.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 269
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 957
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ViewMode.kt",
+          "line": 198
+        }
+      ]
+    },
+    {
+      "id": "Share",
+      "label": "分享",
+      "group": "操作與導覽",
+      "asset_id": "share",
+      "normal": "brand/ui/v0.7-botanical/png/share.png",
+      "selected": "brand/ui/v0.7-botanical/png/share.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ResultScreen.kt",
+          "line": 60
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 273
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 499
+        }
+      ]
+    },
+    {
+      "id": "Delete",
+      "label": "刪除",
+      "group": "操作與導覽",
+      "asset_id": "delete",
+      "normal": "brand/ui/v0.7-botanical/png/delete.png",
+      "selected": "brand/ui/v0.7-botanical/png/delete.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 239
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 342
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 182
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 1043
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 163
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoadPlan.kt",
+          "line": 298
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoutePanel.kt",
+          "line": 178
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoutePanel.kt",
+          "line": 232
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanTasksScreen.kt",
+          "line": 88
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 129
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 278
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 290
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 303
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 495
+        }
+      ]
+    },
+    {
+      "id": "Check",
+      "label": "確認",
+      "group": "操作與導覽",
+      "asset_id": "check",
+      "normal": "brand/ui/v0.7-botanical/png/check.png",
+      "selected": "brand/ui/v0.7-botanical/png/check.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 277
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 316
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 297
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 300
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LotteryCapsule.kt",
+          "line": 144
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 210
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 298
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 1010
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoutePanel.kt",
+          "line": 137
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoutePanel.kt",
+          "line": 191
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RouteSettingsSheet.kt",
+          "line": 126
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 173
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 472
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SetupScreen.kt",
+          "line": 107
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/StepAccess.kt",
+          "line": 62
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TourBar.kt",
+          "line": 59
+        }
+      ]
+    },
+    {
+      "id": "Close",
+      "label": "關閉",
+      "group": "操作與導覽",
+      "asset_id": "close",
+      "normal": "brand/ui/v0.7-botanical/png/close.png",
+      "selected": "brand/ui/v0.7-botanical/png/close.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 259
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 296
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 296
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 337
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LotteryPanel.kt",
+          "line": 288
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AppComponents.kt",
+          "line": 210
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 87
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FindFilter.kt",
+          "line": 150
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 647
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapScreen.kt",
+          "line": 654
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 169
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RecordSheet.kt",
+          "line": 139
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/StatusCapsule.kt",
+          "line": 104
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ViewMode.kt",
+          "line": 345
+        }
+      ]
+    },
+    {
+      "id": "More",
+      "label": "更多",
+      "group": "操作與導覽",
+      "asset_id": "more",
+      "normal": "brand/ui/v0.7-botanical/png/more.png",
+      "selected": "brand/ui/v0.7-botanical/png/more.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 137
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 114
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 245
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 395
+        }
+      ]
+    },
+    {
+      "id": "SkipForward",
+      "label": "下一步",
+      "group": "操作與導覽",
+      "asset_id": "skip-forward",
+      "normal": "brand/ui/v0.7-botanical/png/skip-forward.png",
+      "selected": "brand/ui/v0.7-botanical/png/skip-forward.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 277
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 317
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 682
+        }
+      ]
+    },
+    {
+      "id": "SkipBack",
+      "label": "上一步",
+      "group": "操作與導覽",
+      "asset_id": "skip-back",
+      "normal": "brand/ui/v0.7-botanical/png/skip-back.png",
+      "selected": "brand/ui/v0.7-botanical/png/skip-back.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 315
+        }
+      ]
+    },
+    {
+      "id": "FloatMenu",
+      "label": "功能選單",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "float-menu",
+      "normal": "brand/ui/v0.7-botanical/png/float-menu.png",
+      "selected": "brand/ui/v0.7-botanical/png/float-menu.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 261
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 262
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/Onboarding.kt",
+          "line": 72
+        }
+      ]
+    },
+    {
+      "id": "Ticket",
+      "label": "票券",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "ticket",
+      "normal": "brand/ui/v0.7-botanical/png/ticket.png",
+      "selected": "brand/ui/v0.7-botanical/png/ticket.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 301
+        }
+      ]
+    },
+    {
+      "id": "LightSpeed",
+      "label": "光速移動",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "light-speed",
+      "normal": "brand/ui/v0.7-botanical/png/light-speed.png",
+      "selected": "brand/ui/v0.7-botanical/png/light-speed.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 260
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 92
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 336
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 363
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 366
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/Onboarding.kt",
+          "line": 72
+        }
+      ]
+    },
+    {
+      "id": "Backspace",
+      "label": "退格",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "backspace",
+      "normal": "brand/ui/v0.7-botanical/png/backspace.png",
+      "selected": "brand/ui/v0.7-botanical/png/backspace.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LightSpeedPanel.kt",
+          "line": 287
+        }
+      ]
+    },
+    {
+      "id": "ReturnToApp",
+      "label": "回到App",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "return-to-app",
+      "normal": "brand/ui/v0.7-botanical/png/return-to-app.png",
+      "selected": "brand/ui/v0.7-botanical/png/return-to-app.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "line": 298
+        }
+      ]
+    },
+    {
+      "id": "Back",
+      "label": "返回",
+      "group": "操作與導覽",
+      "asset_id": "back",
+      "normal": "brand/ui/v0.7-botanical/png/back.png",
+      "selected": "brand/ui/v0.7-botanical/png/back.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AppComponents.kt",
+          "line": 364
+        }
+      ]
+    },
+    {
+      "id": "Previous",
+      "label": "上一頁",
+      "group": "操作與導覽",
+      "asset_id": "previous",
+      "normal": "brand/ui/v0.7-botanical/png/previous.png",
+      "selected": "brand/ui/v0.7-botanical/png/previous.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/LotteryPanel.kt",
+          "line": 287
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 292
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TourBar.kt",
+          "line": 48
+        }
+      ]
+    },
+    {
+      "id": "Next",
+      "label": "下一頁",
+      "group": "操作與導覽",
+      "asset_id": "next",
+      "normal": "brand/ui/v0.7-botanical/png/next.png",
+      "selected": "brand/ui/v0.7-botanical/png/next.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 161
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 227
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 240
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FlowerScreen.kt",
+          "line": 294
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 134
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 114
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 133
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 151
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 162
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 176
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 195
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 305
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RecordSheet.kt",
+          "line": 155
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RecordSheet.kt",
+          "line": 182
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 179
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanPanel.kt",
+          "line": 233
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanTasksScreen.kt",
+          "line": 66
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ScanTasksScreen.kt",
+          "line": 147
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 484
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/StatusCapsule.kt",
+          "line": 100
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 253
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 294
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TourBar.kt",
+          "line": 57
+        }
+      ]
+    },
+    {
+      "id": "Expand",
+      "label": "展開",
+      "group": "操作與導覽",
+      "asset_id": "expand",
+      "normal": "brand/ui/v0.7-botanical/png/expand.png",
+      "selected": "brand/ui/v0.7-botanical/png/expand.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 132
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/FindFilter.kt",
+          "line": 190
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 172
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 239
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 107
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 170
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 87
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoadPlan.kt",
+          "line": 307
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 153
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 193
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 444
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 438
+        }
+      ]
+    },
+    {
+      "id": "Collapse",
+      "label": "收合",
+      "group": "操作與導覽",
+      "asset_id": "collapse",
+      "normal": "brand/ui/v0.7-botanical/png/collapse.png",
+      "selected": "brand/ui/v0.7-botanical/png/collapse.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/AutoScreen.kt",
+          "line": 132
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/BottomPanel.kt",
+          "line": 123
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/ListScreen.kt",
+          "line": 172
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MainScreen.kt",
+          "line": 239
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapControls.kt",
+          "line": 107
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/MapTopBar.kt",
+          "line": 170
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlanSheet.kt",
+          "line": 87
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/RoadPlan.kt",
+          "line": 306
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 193
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/SettingsScreen.kt",
+          "line": 444
+        },
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/TaskSheet.kt",
+          "line": 438
+        }
+      ]
+    },
+    {
+      "id": "Info",
+      "label": "資訊",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "info",
+      "normal": "brand/ui/v0.7-botanical/png/info.png",
+      "selected": "brand/ui/v0.7-botanical/png/info.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "reserved-unreferenced",
+      "usage_references": []
+    },
+    {
+      "id": "Warning",
+      "label": "警告",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "warning",
+      "normal": "brand/ui/v0.7-botanical/png/warning.png",
+      "selected": "brand/ui/v0.7-botanical/png/warning.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "referenced",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/ui/PlaceSearch.kt",
+          "line": 155
+        }
+      ]
+    },
+    {
+      "id": "Photo",
+      "label": "相簿",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "photo",
+      "normal": "brand/ui/v0.7-botanical/png/photo.png",
+      "selected": "brand/ui/v0.7-botanical/png/photo.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md",
+      "usage_status": "ios-supplement",
+      "usage_references": []
+    },
+    {
+      "id": "Success",
+      "label": "成功",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "success",
+      "normal": "brand/ui/v0.7-botanical/png/success.png",
+      "selected": "brand/ui/v0.7-botanical/png/success.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "ios-supplement",
+      "usage_references": []
+    },
+    {
+      "id": "Error",
+      "label": "錯誤",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "error",
+      "normal": "brand/ui/v0.7-botanical/png/error.png",
+      "selected": "brand/ui/v0.7-botanical/png/error.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "ios-supplement",
+      "usage_references": []
+    },
+    {
+      "id": "Empty",
+      "label": "空狀態",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "empty",
+      "normal": "brand/ui/v0.7-botanical/png/empty.png",
+      "selected": "brand/ui/v0.7-botanical/png/empty.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "candidate",
+      "approval_record": null,
+      "usage_status": "ios-supplement",
+      "usage_references": []
+    }
+  ],
+  "semantic_count": 56,
+  "additional_brand_entry": {
+    "id": "Map",
+    "asset_id": "map",
+    "label": "地圖入口",
+    "status": "approved"
+  },
+  "approved_original_count": 6,
+  "new_candidate_original_count": 49,
+  "source_mapping": "56 legacy use IDs preserved; Map is an additional approved brand entry, not Layers"
+}

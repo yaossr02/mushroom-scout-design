@@ -1,0 +1,380 @@
+{
+  "approval_record": "brand/approvals/2026-11-01-element-orbit-bold-v0.9.md",
+  "version": "v0.9-orbit-bold",
+  "direction": "B 環繞流動",
+  "direction_selected": true,
+  "status": "approved",
+  "independent_effect_layers_generated": true,
+  "base_files_modified": false,
+  "effect_count": 5,
+  "assets": [
+    {
+      "id": "fire",
+      "label": "火焰菇",
+      "version": "v0.9-orbit-bold",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-element-orbit-bold-v0.9.md",
+      "base": "brand/approved/v0.5/fire-mushroom.png",
+      "base_sha256": "6565dee3945e6e0bb72275fbe195f72ebffb7340d23daab07b2b6241a389bec8",
+      "base_status": "approved",
+      "layer": "brand/effects/v0.9-orbit-bold/layers/fire.png",
+      "layer_sha256": "a6d0fd449ceb6a8c0f1fb2377fa48523e626c599b14e13f37b94010ea8683367",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox_alpha16": [
+        7,
+        166,
+        1250,
+        981
+      ],
+      "body_bbox_alpha128": [
+        10,
+        168,
+        1247,
+        978
+      ],
+      "transparent_probes": {
+        "upper_cap": 0,
+        "orbit_hole": 0,
+        "stem": 0
+      },
+      "original_generation": "/workspace/generated_images/exec-672287df-df81-4ec6-b84f-de98693392bc.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "composite_preview": "brand/effects/v0.9-orbit-bold/composites/fire.png",
+      "composition": {
+        "frame_px": [
+          1254,
+          1254
+        ],
+        "base_scale": 1,
+        "effect_scale": 1,
+        "effect_translate": [
+          0,
+          0
+        ],
+        "split_y": 0.54,
+        "back_clip": "inset(0 0 46% 0)",
+        "front_clip": "inset(54% 0 0 0)",
+        "order": [
+          "effect upper partition",
+          "original mushroom",
+          "effect lower partition"
+        ],
+        "opacity": 1
+      },
+      "composite_dimensions_px": [
+        1254,
+        1254
+      ],
+      "composite_mode": "RGBA",
+      "composite_alpha_range": [
+        0,
+        255
+      ],
+      "composite_sha256": "af21ca70808fedbc7420da992fd3721cbbb72cdae19e8c64e73c0ad540c5a32a"
+    },
+    {
+      "id": "water",
+      "label": "水菇",
+      "version": "v0.9-orbit-bold",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-element-orbit-bold-v0.9.md",
+      "base": "brand/approved/v0.5/water-mushroom.png",
+      "base_sha256": "4e6b63d5440cad61e41e91dee258b59d337522219d22abb10d88bec01f8d7dcd",
+      "base_status": "approved",
+      "layer": "brand/effects/v0.9-orbit-bold/layers/water.png",
+      "layer_sha256": "a40b923166c8adf69349d3885fb49bfd9f0c10cc7c9c5b2358713fd97bb2a8ba",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox_alpha16": [
+        14,
+        300,
+        1241,
+        983
+      ],
+      "body_bbox_alpha128": [
+        14,
+        301,
+        1240,
+        983
+      ],
+      "transparent_probes": {
+        "upper_cap": 0,
+        "orbit_hole": 0,
+        "stem": 0
+      },
+      "original_generation": "/workspace/generated_images/exec-b0c902ae-4fac-4791-8564-7987e38f4e6a.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "composite_preview": "brand/effects/v0.9-orbit-bold/composites/water.png",
+      "composition": {
+        "frame_px": [
+          1254,
+          1254
+        ],
+        "base_scale": 1,
+        "effect_scale": 1,
+        "effect_translate": [
+          0,
+          0
+        ],
+        "split_y": 0.54,
+        "back_clip": "inset(0 0 46% 0)",
+        "front_clip": "inset(54% 0 0 0)",
+        "order": [
+          "effect upper partition",
+          "original mushroom",
+          "effect lower partition"
+        ],
+        "opacity": 1
+      },
+      "composite_dimensions_px": [
+        1254,
+        1254
+      ],
+      "composite_mode": "RGBA",
+      "composite_alpha_range": [
+        0,
+        255
+      ],
+      "composite_sha256": "09d2d376af995e531021c2da7156f43a1e117eaf341c0dd867af602d789632fc"
+    },
+    {
+      "id": "electric",
+      "label": "電菇",
+      "version": "v0.9-orbit-bold",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-element-orbit-bold-v0.9.md",
+      "base": "brand/approved/v0.5/electric-mushroom.png",
+      "base_sha256": "efd58d0a67301ea60f72b5327f8ef0c104112afdb374014139f2d573b5fc4ba9",
+      "base_status": "approved",
+      "layer": "brand/effects/v0.9-orbit-bold/layers/electric.png",
+      "layer_sha256": "2d647ae66ef56b097f219ccc05ce553f6a9d8d04247c6fadcd5e2710035aa821",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        253
+      ],
+      "bbox_alpha16": [
+        0,
+        96,
+        1254,
+        1158
+      ],
+      "body_bbox_alpha128": [
+        9,
+        100,
+        1251,
+        1154
+      ],
+      "transparent_probes": {
+        "upper_cap": 0,
+        "orbit_hole": 0,
+        "stem": 0
+      },
+      "original_generation": "/workspace/generated_images/exec-746c0eeb-d6d4-4857-a37c-c49c05c56514.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "composite_preview": "brand/effects/v0.9-orbit-bold/composites/electric.png",
+      "composition": {
+        "frame_px": [
+          1254,
+          1254
+        ],
+        "base_scale": 1,
+        "effect_scale": 1,
+        "effect_translate": [
+          0,
+          0
+        ],
+        "split_y": 0.54,
+        "back_clip": "inset(0 0 46% 0)",
+        "front_clip": "inset(54% 0 0 0)",
+        "order": [
+          "effect upper partition",
+          "original mushroom",
+          "effect lower partition"
+        ],
+        "opacity": 1
+      },
+      "composite_dimensions_px": [
+        1254,
+        1254
+      ],
+      "composite_mode": "RGBA",
+      "composite_alpha_range": [
+        0,
+        255
+      ],
+      "composite_sha256": "6c8a18873c2f9e7f9e5cd663941cfa8c149526473c9e47c335ae63e8ab0351c7"
+    },
+    {
+      "id": "poison",
+      "label": "毒菇",
+      "version": "v0.9-orbit-bold",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-element-orbit-bold-v0.9.md",
+      "base": "brand/approved/v0.5/poison-mushroom.png",
+      "base_sha256": "965367d1a94f43bcebe9524a75c0e3b84f430fc62697f44a55bc810ce16abc2d",
+      "base_status": "approved",
+      "layer": "brand/effects/v0.9-orbit-bold/layers/poison.png",
+      "layer_sha256": "2a556e2ffcc4c1a75ed7b0726df933794fd2e277e6af4efd56c7c3141a39e017",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox_alpha16": [
+        13,
+        233,
+        1240,
+        1031
+      ],
+      "body_bbox_alpha128": [
+        15,
+        233,
+        1239,
+        1030
+      ],
+      "transparent_probes": {
+        "upper_cap": 0,
+        "orbit_hole": 0,
+        "stem": 0
+      },
+      "original_generation": "/workspace/generated_images/exec-f55e9679-f8a8-4171-b728-30b996133d29.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "composite_preview": "brand/effects/v0.9-orbit-bold/composites/poison.png",
+      "composition": {
+        "frame_px": [
+          1254,
+          1254
+        ],
+        "base_scale": 1,
+        "effect_scale": 1,
+        "effect_translate": [
+          0,
+          0
+        ],
+        "split_y": 0.54,
+        "back_clip": "inset(0 0 46% 0)",
+        "front_clip": "inset(54% 0 0 0)",
+        "order": [
+          "effect upper partition",
+          "original mushroom",
+          "effect lower partition"
+        ],
+        "opacity": 1
+      },
+      "composite_dimensions_px": [
+        1254,
+        1254
+      ],
+      "composite_mode": "RGBA",
+      "composite_alpha_range": [
+        0,
+        255
+      ],
+      "composite_sha256": "36a46efa10a58710440bb01bd61ca23be9e17bd77b2953fa78cc8eaf3c1ca06f"
+    },
+    {
+      "id": "crystal",
+      "label": "水晶菇",
+      "version": "v0.9-orbit-bold",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-01-element-orbit-bold-v0.9.md",
+      "base": "brand/approved/v0.5/crystal-mushroom.png",
+      "base_sha256": "3f3d0eb912e7550b86a48db5637e36a2342b9f5c60956a2f4d310a18629a49ce",
+      "base_status": "approved",
+      "layer": "brand/effects/v0.9-orbit-bold/layers/crystal.png",
+      "layer_sha256": "6c0298d7f3f68c0fa0288b9d486b52e28caee1ee9c4c9286a33fdc69696c178c",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox_alpha16": [
+        9,
+        243,
+        1254,
+        961
+      ],
+      "body_bbox_alpha128": [
+        20,
+        250,
+        1241,
+        948
+      ],
+      "transparent_probes": {
+        "upper_cap": 0,
+        "orbit_hole": 0,
+        "stem": 0
+      },
+      "original_generation": "/workspace/generated_images/exec-2faee311-510a-4b60-a4e4-2316500ab588.png",
+      "date": "2026-11-01",
+      "tool": "image_gen",
+      "composite_preview": "brand/effects/v0.9-orbit-bold/composites/crystal.png",
+      "composition": {
+        "frame_px": [
+          1254,
+          1254
+        ],
+        "base_scale": 1,
+        "effect_scale": 1,
+        "effect_translate": [
+          0,
+          0
+        ],
+        "split_y": 0.54,
+        "back_clip": "inset(0 0 46% 0)",
+        "front_clip": "inset(54% 0 0 0)",
+        "order": [
+          "effect upper partition",
+          "original mushroom",
+          "effect lower partition"
+        ],
+        "opacity": 1
+      },
+      "composite_dimensions_px": [
+        1254,
+        1254
+      ],
+      "composite_mode": "RGBA",
+      "composite_alpha_range": [
+        0,
+        255
+      ],
+      "composite_sha256": "843aa6e1c5bb6ce2f8d924ffe793d8dfc97edf1cc3c0a13bde7552e85ee53be7"
+    }
+  ],
+  "composition_note": "Same unmodified FX PNG used twice with complementary CSS depth clips; original base PNG between them. No base redraw, no programmatic effect painting.",
+  "runtime_animation_generated": false,
+  "app_runtime_tested": false
+}

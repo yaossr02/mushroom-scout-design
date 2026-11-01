@@ -1,0 +1,12 @@
+{
+  "id": "stop",
+  "attempt": 2,
+  "reason": "First result was a plant, not the requested stop square; rejected original preserved as rejected/stop-r1.png",
+  "date": "2026-11-01",
+  "references": [
+    "png/play.png",
+    "png/pause.png"
+  ],
+  "prompt": "Create exactly ONE plain STOP playback control symbol: a SINGLE CLOSED SQUARE with softly rounded corners, flat warm cream #FFF1DB interior and thick smooth deep sage #55735B outline. Equal width and height, no protrusions, no stem, no leaf, no sprout, no plant, no soil, no growth, no text, no tile behind it, no circles, no triangle. It is the conventional square STOP icon. Match the cream fill and rounded sage contour of the supplied PLAY and PAUSE icons from the approved Botanical Line family. Do not reinterpret the STOP function as any botanical object. Center the simple square in a square transparent canvas occupying 72% of its width. Flat matte solid colors, no gradients, shadows, textures, faces or 3D. Truly transparent RGBA background outside the square. Produce a standalone original PNG.",
+  "reference_status": "play and pause are new candidates used only as shape-family references; their outputs are not approved"
+}

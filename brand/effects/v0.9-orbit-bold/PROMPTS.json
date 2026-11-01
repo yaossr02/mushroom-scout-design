@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-01",
+  "tool": "image_gen",
+  "request": "獨立特效要再更明顯誇張",
+  "reference_status": "v0.8 subtle FX candidates are edit references; v0.5 base mushrooms are approved and active",
+  "references": [
+    {
+      "id": "fire",
+      "base": "brand/approved/v0.5/fire-mushroom.png",
+      "input_effect_path_at_generation": "brand/effects/v0.8-orbit/layers/fire.png",
+      "input_effect_sha256": "a3b6798f99a3852d61ae70f82da696951f9540d535f91349097c37594ae2f510",
+      "input_effect_removed": true
+    },
+    {
+      "id": "water",
+      "base": "brand/approved/v0.5/water-mushroom.png",
+      "input_effect_path_at_generation": "brand/effects/v0.8-orbit/layers/water.png",
+      "input_effect_sha256": "301c9a1af6a7941f38ee44c80d09ce20a9a74cce815716c9ffe31defb72d5677",
+      "input_effect_removed": true
+    },
+    {
+      "id": "electric",
+      "base": "brand/approved/v0.5/electric-mushroom.png",
+      "input_effect_path_at_generation": "brand/effects/v0.8-orbit/layers/electric.png",
+      "input_effect_sha256": "037d83dfb307cae0c187effddac506a83127e31acf31faf832b6ea375213e4c7",
+      "input_effect_removed": true
+    },
+    {
+      "id": "poison",
+      "base": "brand/approved/v0.5/poison-mushroom.png",
+      "input_effect_path_at_generation": "brand/effects/v0.8-orbit/layers/poison.png",
+      "input_effect_sha256": "c42c0ad3f16341abcedcbab5a954d4b1ed5c559eb55559a0d78c387e4b92f9ed",
+      "input_effect_removed": true
+    },
+    {
+      "id": "crystal",
+      "base": "brand/approved/v0.5/crystal-mushroom.png",
+      "input_effect_path_at_generation": "brand/effects/v0.8-orbit/layers/crystal.png",
+      "input_effect_sha256": "189b3f8a214425ac7b3f45e3efeacafa416e35a1b6081a9df65267458065b855",
+      "input_effect_removed": true
+    }
+  ],
+  "prompts": [
+    {
+      "id": "fire",
+      "label": "火焰菇",
+      "prompt": "EDIT the attached independent VFX layer into a MUCH MORE PROMINENT AND EXAGGERATED new variant. The user found the first layer too subtle. First reference is the OLD subtle FX layer, second is the unchanged mushroom used ONLY as alignment guide. OUTPUT ONLY THE INDEPENDENT EFFECT on true transparent RGBA background. Do NOT draw any mushroom, cap, stem, leaves, landscape, ground, character, text or checkerboard. Preserve no old layer pixels requirement; create a new improved effect. FIRE: replace the tiny wisps with 5 large sweeping flame tongues and a thick swirling orange/coral fire ribbon with a bright butter core. Big flames climb the OUTER left and right sides from y=.65 to y=.20, like a dramatic fiery crescent around a mushroom. Strong irregular flame silhouette with pointed yet rounded stylized tips, several visible ember chunks. A wide foreground flame sweep below cap rim at y=.65. This should look like actual stylized FIRE, not a smooth orange hoop. Aim for at least 3 times the old layer's apparent thickness and at least 2 times its VERTICAL visual presence, with immediately recognisable elemental shapes even when shown small. High energy, large forms, confident visible colored silhouette, vivid warm/cool elemental contrast. Maintain friendly Cream Gumdrop Botanical stylized 2.5D rendering, rounded material edges and elegant flow; no photorealism or horror. The mushroom will be supplied later as the ORIGINAL PNG, so central area must be transparent. Composition on square canvas: a tilted flowing orbit centered at x=.50,y=.54, full outer width .94, main ellipse height .30; oversized element protrusions around OUTER sides (x=.05-.25 and x=.75-.95) may extend upward to y=.18 and downward to y=.78. Keep a LARGE fully transparent central hole x=.30-.70,y=.36-.59. Keep the very top center x=.4-.6,y<.30 and bottom center x=.40-.60,y>.80 completely transparent so the cap marking and plain cream stem remain unobscured. Strong front arc stays near y=.62-.72, not at floor. Back half of effect will be occluded by the mushroom using depth compositing; put the most dramatic silhouettes on the OUTSIDE where they remain visible. Make all outer tips comfortably inside 4% clear margins with no hard clipping. Effect-only layer, no solid aura disc, no massive solid central glow. Request square 1254x1254. This is a new standalone PNG layer in the selected B FLOWING ORBIT direction."
+    },
+    {
+      "id": "water",
+      "label": "水菇",
+      "prompt": "EDIT the attached independent VFX layer into a MUCH MORE PROMINENT AND EXAGGERATED new variant. The user found the first layer too subtle. First reference is the OLD subtle FX layer, second is the unchanged mushroom used ONLY as alignment guide. OUTPUT ONLY THE INDEPENDENT EFFECT on true transparent RGBA background. Do NOT draw any mushroom, cap, stem, leaves, landscape, ground, character, text or checkerboard. Preserve no old layer pixels requirement; create a new improved effect. WATER: 2 large curling wave crests rising on outer left and right sides to y=.25, a thick blue/turquoise orbit ribbon with creamy white foam edge, 6 medium splash droplets and 2 outward splash fins. Strong ocean-wave silhouette with broad blue shapes, substantial volume and clear crest tips. Foreground lower-cap water sweep is thick and visible. This must look like WATER WAVES, not a thin blue energy hoop. Aim for at least 3 times the old layer's apparent thickness and at least 2 times its VERTICAL visual presence, with immediately recognisable elemental shapes even when shown small. High energy, large forms, confident visible colored silhouette, vivid warm/cool elemental contrast. Maintain friendly Cream Gumdrop Botanical stylized 2.5D rendering, rounded material edges and elegant flow; no photorealism or horror. The mushroom will be supplied later as the ORIGINAL PNG, so central area must be transparent. Composition on square canvas: a tilted flowing orbit centered at x=.50,y=.54, full outer width .94, main ellipse height .30; oversized element protrusions around OUTER sides (x=.05-.25 and x=.75-.95) may extend upward to y=.18 and downward to y=.78. Keep a LARGE fully transparent central hole x=.30-.70,y=.36-.59. Keep the very top center x=.4-.6,y<.30 and bottom center x=.40-.60,y>.80 completely transparent so the cap marking and plain cream stem remain unobscured. Strong front arc stays near y=.62-.72, not at floor. Back half of effect will be occluded by the mushroom using depth compositing; put the most dramatic silhouettes on the OUTSIDE where they remain visible. Make all outer tips comfortably inside 4% clear margins with no hard clipping. Effect-only layer, no solid aura disc, no massive solid central glow. Request square 1254x1254. This is a new standalone PNG layer in the selected B FLOWING ORBIT direction."
+    },
+    {
+      "id": "electric",
+      "label": "電菇",
+      "prompt": "EDIT the attached independent VFX layer into a MUCH MORE PROMINENT AND EXAGGERATED new variant. The user found the first layer too subtle. First reference is the OLD subtle FX layer, second is the unchanged mushroom used ONLY as alignment guide. OUTPUT ONLY THE INDEPENDENT EFFECT on true transparent RGBA background. Do NOT draw any mushroom, cap, stem, leaves, landscape, ground, character, text or checkerboard. Preserve no old layer pixels requirement; create a new improved effect. ELECTRIC: 6 large branching lightning forks radiate outward on both sides, visibly angular and energetic, white-butter lightning cores with golden yellow edges. Two irregular thick jagged electric arcs around cap level, 3 larger star-like angular spark bursts. Tall forks extend to y=.23 at OUTER left/right. A strong zigzag foreground bolt arcs under cap rim. This must unmistakably look like wild branching LIGHTNING, not a smooth yellow ring. Aim for at least 3 times the old layer's apparent thickness and at least 2 times its VERTICAL visual presence, with immediately recognisable elemental shapes even when shown small. High energy, large forms, confident visible colored silhouette, vivid warm/cool elemental contrast. Maintain friendly Cream Gumdrop Botanical stylized 2.5D rendering, rounded material edges and elegant flow; no photorealism or horror. The mushroom will be supplied later as the ORIGINAL PNG, so central area must be transparent. Composition on square canvas: a tilted flowing orbit centered at x=.50,y=.54, full outer width .94, main ellipse height .30; oversized element protrusions around OUTER sides (x=.05-.25 and x=.75-.95) may extend upward to y=.18 and downward to y=.78. Keep a LARGE fully transparent central hole x=.30-.70,y=.36-.59. Keep the very top center x=.4-.6,y<.30 and bottom center x=.40-.60,y>.80 completely transparent so the cap marking and plain cream stem remain unobscured. Strong front arc stays near y=.62-.72, not at floor. Back half of effect will be occluded by the mushroom using depth compositing; put the most dramatic silhouettes on the OUTSIDE where they remain visible. Make all outer tips comfortably inside 4% clear margins with no hard clipping. Effect-only layer, no solid aura disc, no massive solid central glow. Request square 1254x1254. This is a new standalone PNG layer in the selected B FLOWING ORBIT direction."
+    },
+    {
+      "id": "poison",
+      "label": "毒菇",
+      "prompt": "EDIT the attached independent VFX layer into a MUCH MORE PROMINENT AND EXAGGERATED new variant. The user found the first layer too subtle. First reference is the OLD subtle FX layer, second is the unchanged mushroom used ONLY as alignment guide. OUTPUT ONLY THE INDEPENDENT EFFECT on true transparent RGBA background. Do NOT draw any mushroom, cap, stem, leaves, landscape, ground, character, text or checkerboard. Preserve no old layer pixels requirement; create a new improved effect. POISON: a large thick spiraling toxic mint and lavender vortex with 5 visibly sized rolling vapor curls and 6 medium-to-large poison bubbles. Tall curling plumes rise around the OUTER left/right sides to y=.25. Broad mint/lilac shapes with good saturation and clear readable edges, translucent but substantial volume, thick foreground vapor sweep below cap rim. No skulls, faces, symbols or grim dark smoke. This must look like a dramatic stylized POISON CLOUD SWIRL, not a thin lilac hoop. Aim for at least 3 times the old layer's apparent thickness and at least 2 times its VERTICAL visual presence, with immediately recognisable elemental shapes even when shown small. High energy, large forms, confident visible colored silhouette, vivid warm/cool elemental contrast. Maintain friendly Cream Gumdrop Botanical stylized 2.5D rendering, rounded material edges and elegant flow; no photorealism or horror. The mushroom will be supplied later as the ORIGINAL PNG, so central area must be transparent. Composition on square canvas: a tilted flowing orbit centered at x=.50,y=.54, full outer width .94, main ellipse height .30; oversized element protrusions around OUTER sides (x=.05-.25 and x=.75-.95) may extend upward to y=.18 and downward to y=.78. Keep a LARGE fully transparent central hole x=.30-.70,y=.36-.59. Keep the very top center x=.4-.6,y<.30 and bottom center x=.40-.60,y>.80 completely transparent so the cap marking and plain cream stem remain unobscured. Strong front arc stays near y=.62-.72, not at floor. Back half of effect will be occluded by the mushroom using depth compositing; put the most dramatic silhouettes on the OUTSIDE where they remain visible. Make all outer tips comfortably inside 4% clear margins with no hard clipping. Effect-only layer, no solid aura disc, no massive solid central glow. Request square 1254x1254. This is a new standalone PNG layer in the selected B FLOWING ORBIT direction."
+    },
+    {
+      "id": "crystal",
+      "label": "水晶菇",
+      "prompt": "EDIT the attached independent VFX layer into a MUCH MORE PROMINENT AND EXAGGERATED new variant. The user found the first layer too subtle. First reference is the OLD subtle FX layer, second is the unchanged mushroom used ONLY as alignment guide. OUTPUT ONLY THE INDEPENDENT EFFECT on true transparent RGBA background. Do NOT draw any mushroom, cap, stem, leaves, landscape, ground, character, text or checkerboard. Preserve no old layer pixels requirement; create a new improved effect. CRYSTAL: 10 large distinct faceted ice-blue/lavender prism shards orbiting in a tilted helix, including 4 prominent shards near left/right outer sides and 3 prominent lower/front shards, with a thick pale blue-violet energy ribbon connecting them and a few clean broad glints. Tall outer shards reach y=.22. Crystals substantial and readable at small size, NOT tiny glitter. This must look like a dramatic orbiting CRYSTAL SHARD STORM, not a thin violet hoop. Aim for at least 3 times the old layer's apparent thickness and at least 2 times its VERTICAL visual presence, with immediately recognisable elemental shapes even when shown small. High energy, large forms, confident visible colored silhouette, vivid warm/cool elemental contrast. Maintain friendly Cream Gumdrop Botanical stylized 2.5D rendering, rounded material edges and elegant flow; no photorealism or horror. The mushroom will be supplied later as the ORIGINAL PNG, so central area must be transparent. Composition on square canvas: a tilted flowing orbit centered at x=.50,y=.54, full outer width .94, main ellipse height .30; oversized element protrusions around OUTER sides (x=.05-.25 and x=.75-.95) may extend upward to y=.18 and downward to y=.78. Keep a LARGE fully transparent central hole x=.30-.70,y=.36-.59. Keep the very top center x=.4-.6,y<.30 and bottom center x=.40-.60,y>.80 completely transparent so the cap marking and plain cream stem remain unobscured. Strong front arc stays near y=.62-.72, not at floor. Back half of effect will be occluded by the mushroom using depth compositing; put the most dramatic silhouettes on the OUTSIDE where they remain visible. Make all outer tips comfortably inside 4% clear margins with no hard clipping. Effect-only layer, no solid aura disc, no massive solid central glow. Request square 1254x1254. This is a new standalone PNG layer in the selected B FLOWING ORBIT direction."
+    }
+  ],
+  "status_at_generation": "candidate",
+  "delivery_status": "approved",
+  "removed_input_references_note": "Old FX input paths record actual generation history only. Those input images were removed at the user request and are not delivery dependencies."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ui-five-directions-v0.7",
+  "status": "candidate",
+  "kind": "concept-board",
+  "path": "brand/reviews/ui-directions-v0.7/five-directions.png",
+  "dimensions_px": [
+    1536,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha": null,
+  "sha256": "4e8f7b2887c328fee81a64ca3a26f4a6d78c721ac478ba7c4e51fa203378047b",
+  "reference": "brand/approved/v0.5/ios-app-icon.png",
+  "generated_date": "2026-11-01",
+  "formal_assets": false
+}
