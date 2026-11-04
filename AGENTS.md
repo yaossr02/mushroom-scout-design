@@ -17,3 +17,5 @@
 
 - 元素菇特效定稿（2026-11-01）：使用者明確核准 `brand/effects/v0.9-orbit-bold/catalog.json` 的五種 B「環繞流動強化版」，並指示「之前的版本不用保留」。核准紀錄為 `brand/approvals/2026-11-01-element-orbit-bold-v0.9.md`；目前只保留這版特效，不得重建或封存先前元素特效及方向探索稿。原始 v0.5 蘑菇是本版組合來源，保留不改。
 - 核准的五種元素特效包含大型火舌／浪頭／分岔電弧／毒霧旋渦／晶片；圖層與合成圖 hash 綁定於 `brand/effects/v0.9-orbit-bold/approval.json`，新改稿不能繼承核准。此 B 與功能圖示 B「植物線條」分開；本次核准不擴及其他功能圖示，沒有執行時動畫或 App 整合。
+
+- 懸浮功能列已核准方向（2026-11-04）：遊戲 overlay 專用「C 金盆圓角貼紙 v2」，核准16張，固定交付在 `brand/ui/v0.7-botanical/approved/floatbar-C-v2/manifest.json`。新增／改浮列圖示先讀 `brand/ui/v0.7-botanical/FLOATBAR-STYLE.md`，附上核准 `GoldBasin.png` 與同套用途圖作image_gen參考；墨綠實心、連續奶油貼紙邊、墨綠外keyline、單一珊瑚紅重點。App內一般圖示仍沿既有植物線條方向；不得混用。整套視覺核准不代表線寬警示或實機測試已通過；新變體仍須另行核准。Claude匯入交接見 `FLOATBAR-CLAUDE-HANDOFF.md`。

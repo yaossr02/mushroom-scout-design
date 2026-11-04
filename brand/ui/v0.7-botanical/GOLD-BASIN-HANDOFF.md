@@ -1,5 +1,7 @@
 # Claude App 實作交接：拉金盆
 
+> 更新：遊戲懸浮列已改採核准的 C 金盆圓角貼紙 v2 整套。浮列請優先讀 [FLOATBAR-CLAUDE-HANDOFF.md](FLOATBAR-CLAUDE-HANDOFF.md)，使用 `approved/floatbar-C-v2/GoldBasin.png`。下文保留為先前單張v6交接歷史，不是目前浮列匯入來源。
+
 本文件對應使用者於 2026-11-04 明確核准的 v6，其他金盆歷史候選不可代用。
 
 - 設計 repo：yaossr02/mushroom-scout-design，遠端 main。

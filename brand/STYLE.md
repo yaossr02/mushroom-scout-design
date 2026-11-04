@@ -45,3 +45,9 @@
 固定腳底 anchor，保留小／一般／大／巨大倍率 0.85／1／1.15／1.3。徽章、外圈與狀態文字獨立於蘑菇圖層，不在菇柄加表情。功能圖示維持 Phosphor。
 
 PNG 必須記錄實際尺寸、RGB／RGBA、alpha、hash 與 bbox。要求 1024px 不等於實際輸出 1024px；正式輸出仍要整理低 alpha 邊緣與光學大小，不把 PNG 偽裝成 SVG。以原圖在淺深底、32／48／64 CSS px 檢閱。平台遮罩與安全圈不是 App 或實機測試。分類器模板與 HOG 不是 UI 素材，不能替換。
+
+## 遊戲懸浮功能列專用方向 · 2026-11-04 已核准
+
+Android遊戲overlay的功能列／次要控制列採 C 金盆圓角貼紙 v2：Ink實心主體、連續Cream貼紙邊、Ink外輪廓、單一Coral點綴。此為特定使用場景的規則；App內植物線條與蘑菇品牌規範維持。
+
+詳細設計方法、附圖基準、色票、版型、生成保存規則及已知限制見 [FLOATBAR-STYLE.md](ui/v0.7-botanical/FLOATBAR-STYLE.md)。正式核准原圖與hash在 [固定manifest](ui/v0.7-botanical/approved/floatbar-C-v2/manifest.json)。新稿不繼承核准，核准檔不得覆蓋。

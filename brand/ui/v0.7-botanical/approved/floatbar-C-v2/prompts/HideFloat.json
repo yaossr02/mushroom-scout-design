@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "HideFloat",
+  "status": "candidate",
+  "prompt": "Create ONE newly designed mobile overlay icon. Use the attached reference ONLY for its EXACT STYLE FAMILY, never copy its planter/leaf/down-arrow subject unless asked. Match the C GOLD PLANTER reference: big rounded Ink #2E3A2F FILLED core, a clean CONTINUOUS substantial Cream #FFF1DB sticker contour FOLLOWING the actual silhouette, and an Ink outer keyline separating cream from warm-white40dp circle. ONE well-integrated Coral #F36C63 accent, max THREE flat colors total. The cream outline must go ALL THE WAY AROUND the silhouette, not isolated decorative corner fragments. Same organic rounded weight, generous curves, quiet confident cream/ink/coral balance as reference. Do not reuse the previous unrelated glyphs. Designed for20dp/24dp inside40dp #FFFCF6 circle on noisy green game background. Bold enough to read without zoom. Few large shapes, no micro details. Main structural strokes target150 source pixels, no essential line below110; accent block minimum200px across. EXACT1254x1254 RGBA PNG, TRANSPARENT background,~8%clear padding on every side, center optical mass. STRICT FLAT SPOT COLORS: no shading, gradients, highlights, shadows, texture,3D, gloss, glass or neon. No letters, numbers, emoji, hand, face, eyes, mouth or anthropomorphic body. No generic enclosing circular badge. This is a fresh candidate, never an approved asset. SUBJECT: a small rounded floating PANEL with a clear DOWN collapse arrow inside. Ink panel, one coral down arrow, one cream opening. NOT an eye or face. No extra outside frame.",
+  "reference": "brand/ui/v0.7-botanical/candidates/floatbar-C-v1/GoldBasin/icon.png",
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-fc2503b0-a6cf-41d1-a923-43e4c1956e9d.png",
+  "postprocessing": "User permits mechanical palette/alpha/canvas cleanup; original retained; no aggressive contour inflation.",
+  "published_reference_note": "Original reference paths describe local generation history. Intermediate references are retained locally and not included in this approved-only publication. For future designs use approved/floatbar-C-v2/GoldBasin.png and the relevant approved icon."
+}

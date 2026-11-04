@@ -1,0 +1,11 @@
+{
+  "status": "approved",
+  "approved_icons": 16,
+  "hashes_verified": 16,
+  "thumbnail_samples": 48,
+  "images_decoded": true,
+  "errors": [],
+  "physical_device_tested": false,
+  "all_hard_geometry_certified": false,
+  "published_history_assets": false
+}

@@ -4,11 +4,21 @@
 
 ## 全系列圖示總覽
 
-目前有效的 21 張蘑菇／植物／品牌素材，以及完整 **57 項 B 植物線條功能用途＋地圖入口**。品牌、首批六張功能原圖與「拉金盆」v6 已核准；其餘 49 張延伸原圖仍待審核，另附五種已核准的 v0.9 B 環繞流動強化特效。點擊大圖可放大。
+目前有效的 21 張蘑菇／植物／品牌素材，以及完整 **57 項 B 植物線條功能用途＋地圖入口**。品牌、首批六張功能原圖與「拉金盆」v6 已核准；其餘 49 張延伸原圖仍待審核，另附五種已核准的 v0.9 B 環繞流動強化特效。另有 **16 張遊戲懸浮功能列 C 金盆圓角貼紙 v2 已核准**，與 App 內圖示分開使用。點擊大圖可放大。
 
 [![全系列圖示總覽](brand/reviews/overview/all-icons-overview.png)](brand/reviews/overview/all-icons-overview.png)
 
 新增、修改或停用圖示，以及變更核准狀態時，須同步更新大圖與本節說明，保留名稱、一般／選取狀態及實際審核狀態。
+
+### 遊戲懸浮功能列：C 金盆圓角貼紙 v2（16 張已核准）
+
+以 C 金盆為唯一風格基準，其餘15項重新設計；使用者已選用完整16張。墨綠實心主體、連續奶油貼紙邊、墨綠外輪廓與單一珊瑚紅點綴，專用於遊戲畫面上的40dp圓底／20、24dp圖示。
+
+[![已核准浮列整套](brand/ui/v0.7-botanical/approved/floatbar-C-v2/overview.png)](brand/ui/v0.7-botanical/approved/floatbar-C-v2/overview.png)
+
+[固定核准原圖與hash](brand/ui/v0.7-botanical/approved/floatbar-C-v2/manifest.json) · [可重用設計方式](brand/ui/v0.7-botanical/FLOATBAR-STYLE.md) · [Claude程式交接](brand/ui/v0.7-botanical/FLOATBAR-CLAUDE-HANDOFF.md) · [核准紀錄](brand/approvals/2026-11-04-floatbar-C-v2.md)
+
+視覺選用已核准；線寬／點綴幾何仍有篩檢警示，背景為模擬場景，尚未完成Android實機測試。App程式由Claude後續修改，本repo沒有修改App。其他候選未自動核准。
 
 ### App 功能圖示：B 植物線條 v0.7（完整交付，新稿待審核）
 

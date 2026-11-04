@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "Stop",
+  "status": "candidate",
+  "prompt": "EDIT attached sticker STOP icon. Preserve its big rounded Ink square, continuous Cream sticker rim and outer Ink keyline, same dimensions and proportions. REMOVE the dark dot/irregular hole from the coral corner patch. The coral patch must be ONE SOLID FLAT rounded square with NO center dot, NO hole, NO rings, NO recording/camera detail. Retain coral patch in upper-right part of the big Ink square, visually subordinate. THREE colors only Ink#2E3A2F,Cream#FFF1DB,Coral#F36C63.1254x1254RGBAtransparentbackground,8%padding,no shading orgradient,no text orhands.",
+  "reference": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/Stop/attempts/first/icon.png",
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-1733b626-9dcb-41b4-8f07-9f1b42a43a15.png",
+  "revision_reason": "Remove recording-like center dot from Stop accent",
+  "published_reference_note": "Original reference paths describe local generation history. Intermediate references are retained locally and not included in this approved-only publication. For future designs use approved/floatbar-C-v2/GoldBasin.png and the relevant approved icon."
+}

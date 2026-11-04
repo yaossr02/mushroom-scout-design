@@ -2,6 +2,10 @@
 
 沿用使用者選定並核准的 B Botanical Line：圓潤鼠尾草綠輪廓、奶油色主體，少量珊瑚紅／暖黃點綴，植物細節只出現在適合的用途。
 
+## 懸浮列專用新方向（16 張已核准）
+
+遊戲 overlay 使用獨立的 C 金盆圓角貼紙 v2；App 內的一般植物線條圖示仍維持本頁原有範圍。[設計方式](FLOATBAR-STYLE.md) · [正式原圖manifest](approved/floatbar-C-v2/manifest.json) · [Claude交接](FLOATBAR-CLAUDE-HANDOFF.md)。
+
 ## 範圍與核准
 
 - **57 項功能用途（56 項既有＋拉金盆）＋1 個額外地圖入口，56 張獨立透明 PNG 原圖。**

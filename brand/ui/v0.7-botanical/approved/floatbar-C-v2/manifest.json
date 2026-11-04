@@ -1,0 +1,341 @@
+{
+  "id": "floatbar-C-v2",
+  "status": "approved",
+  "date": "2026-11-04",
+  "scope": "Android game overlay floating feature bar and secondary controls only",
+  "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+  "design_guide": "brand/ui/v0.7-botanical/FLOATBAR-STYLE.md",
+  "handoff": "brand/ui/v0.7-botanical/FLOATBAR-CLAUDE-HANDOFF.md",
+  "asset_count": 16,
+  "source_format": "1254x1254 RGBA PNG; not vector or final platform density pack",
+  "palette": {
+    "Ink": "#2E3A2F",
+    "Cream": "#FFF1DB",
+    "Coral": "#F36C63"
+  },
+  "layout": {
+    "button_dp": 40,
+    "icon_dp": [
+      20,
+      24
+    ],
+    "button_color": "#FFFCF6",
+    "label": "dark capsule"
+  },
+  "all_hard_geometry_certified": false,
+  "coral_contrast_exception": "Brand Coral on warm white2.874:1 retained by explicit user choice; not3:1",
+  "actual_device_tested": false,
+  "assets": [
+    {
+      "id": "HideFloat",
+      "label": "隱藏",
+      "group": "main",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/HideFloat.png",
+      "sha256": "903113d9c5f4926b08556aa903e11a8ec3234c3586a101ae1cee75e67f80af7f",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "multiple_coral_components_review_required"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/HideFloat/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/HideFloat.json"
+    },
+    {
+      "id": "GoldBasin",
+      "label": "金盆",
+      "group": "main",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/GoldBasin.png",
+      "sha256": "97427412554d33f5b75ff61ff6ed3beb024941618dcc10668abc67c1b3238501",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "accent_bbox_min_edge_below_3dp",
+        "reused_reference_retains_prior_geometry_limits"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/GoldBasin/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/GoldBasin.json"
+    },
+    {
+      "id": "Ticket",
+      "label": "抽獎",
+      "group": "main",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Ticket.png",
+      "sha256": "d72a1687f6cb6c781d9afcb654e78cb0a8bb8d635fc83e5d1a5ecab6bf885d0d",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "accent_bbox_min_edge_below_3dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/Ticket/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/Ticket.json"
+    },
+    {
+      "id": "Dispatch",
+      "label": "派遣",
+      "group": "main",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Dispatch.png",
+      "sha256": "cdf071626762953845c91fc25425708d936c9eaf5f324cc56f68c0173274c6a5",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/Dispatch/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/Dispatch.json"
+    },
+    {
+      "id": "Feed",
+      "label": "餵果",
+      "group": "main",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Feed.png",
+      "sha256": "058a894adb09dcf2418ed8dacb548968767a92526366472f5eaad5080ee55961",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/Feed/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/Feed.json"
+    },
+    {
+      "id": "LightSpeed",
+      "label": "光速",
+      "group": "main",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/LightSpeed.png",
+      "sha256": "eea0611f25dc707dc422374924320353c4e829301c58e1902ee21c23f7bf49a0",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/LightSpeed/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/LightSpeed.json"
+    },
+    {
+      "id": "ReturnToApp",
+      "label": "回到 App",
+      "group": "main",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/ReturnToApp.png",
+      "sha256": "882eb3489541e4bcbc4750ed26d06a396ec427e87ce36b2ad82a2bbfcc184a5b",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/ReturnToApp/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/ReturnToApp.json"
+    },
+    {
+      "id": "Close",
+      "label": "關閉",
+      "group": "main",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Close.png",
+      "sha256": "44dfa5a1d2b8b611732ed6058e3b6f351978ab64d7a388145380a3b2560f8d44",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/Close/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/Close.json"
+    },
+    {
+      "id": "FloatMenu",
+      "label": "主鈕",
+      "group": "main",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/FloatMenu.png",
+      "sha256": "a8f7807c432814d8a83c8fec912d6c10b59b2af5d202275b54b7a9428274cbc0",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/FloatMenu/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/FloatMenu.json"
+    },
+    {
+      "id": "Play",
+      "label": "開始",
+      "group": "control",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Play.png",
+      "sha256": "505a3680e93605bfd03eee0d2bd71d165e3c9cbe61d409b4877b41aa6079a860",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/Play/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/Play.json"
+    },
+    {
+      "id": "Pause",
+      "label": "暫停",
+      "group": "control",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Pause.png",
+      "sha256": "3a574a102d11e4fc9d5bec5e55ddf2c0a1a7e8b71163960a558a9a38d2ce24b0",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "multiple_coral_components_review_required"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/Pause/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/Pause.json"
+    },
+    {
+      "id": "SkipBack",
+      "label": "上一步",
+      "group": "control",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/SkipBack.png",
+      "sha256": "8378d5405e50cf576d13e91882a342f7bb658ec35d86b25a1b8aca1dbe896996",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/SkipBack/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/SkipBack.json"
+    },
+    {
+      "id": "SkipForward",
+      "label": "下一步",
+      "group": "control",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/SkipForward.png",
+      "sha256": "841b9588676468c0edae84238645f0fb1495df5b17ca5eebb4705c248e5682e3",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/SkipForward/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/SkipForward.json"
+    },
+    {
+      "id": "Stop",
+      "label": "停止",
+      "group": "control",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Stop.png",
+      "sha256": "8eeb07a2d62b385ff7df52ac5cb79782930c040b8f7b64b521f9844a64f4591d",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "multiple_coral_components_review_required"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/Stop/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/Stop.json"
+    },
+    {
+      "id": "GameReturn",
+      "label": "回到遊戲",
+      "group": "control",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/GameReturn.png",
+      "sha256": "e9dbbb22bbff1aca6cbff0be474babb3755a62f39da779bf47c7b95e79d33acd",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/GameReturn/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/GameReturn.json"
+    },
+    {
+      "id": "Check",
+      "label": "確認",
+      "group": "control",
+      "status": "approved",
+      "path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Check.png",
+      "sha256": "7a6854ad8128644a7d33878f97bcf01f0eb81af7cb11e63a0ac5ebf24fec9cbf",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "source_workspace_only": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/Check/icon.png",
+      "generation_prompt": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/prompts/Check.json"
+    }
+  ],
+  "publication_scope": "Approved16 PNGs, generation prompts, design guide, handoff and approved-only review. Unselected candidates and intermediate images remain local."
+}
