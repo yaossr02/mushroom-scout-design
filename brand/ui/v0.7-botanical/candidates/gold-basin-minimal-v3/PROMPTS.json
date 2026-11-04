@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "status": "candidate",
+  "direction": "Refine selected A upward-pull direction; original A approval not inherited",
+  "reference": "brand/ui/v0.7-botanical/png/search.png",
+  "reference_status": "approved style reference",
+  "variants": [
+    {
+      "id": "a",
+      "label": "短箭提盆",
+      "prompt": "Generate ONE standalone tiny mobile UI icon for 拉金盆 meaning pull a gold basin upward. Match the attached approved search icon's B Botanical Line style, rounded sage #55735B outlines with smooth round caps, restrained cream #FFF1DB fill and a TINY butter #FFD778 accent. Strict simple flat geometry, no gradients, no shadows, no texture, no highlights, no 3D. Spacious compact near-square icon about 72% of canvas width, transparent RGBA background with generous padding. A shallow WASHBASIN and ONE short upward arrow must read as a single cohesive compact symbol at 32px. Maximum 4 simple visual components. Basin is mostly cream, NOT a large yellow mass. No leaves, no ground line, no shadow ellipse, no motion strokes, no double or triple concentric oval rims, no handles, no ropes, no faces, no text. Outline stroke consistent approximately 5% of icon width. The arrow is small, about one-quarter basin width, never a huge filled arrow above a bowl. Design A1: one broad shallow cream basin with simple rounded trapezoid silhouette, ONE thin warm-yellow rim at top, and a SINGLE gently curved sage line to suggest its open mouth, no complete concentric ellipse. A SHORT thin CORAL open-line up arrow is centered just above and touches the rear rim. Use a simple two-stroke chevron arrowhead and short stem; no outline around the coral arrow. Arrow height only 25% of basin height. Basin broad and low. Total silhouette compact.",
+      "generated_original": "/workspace/generated_images/exec-52ae87e2-e77b-4cdd-a638-57744b9d6a47.png"
+    },
+    {
+      "id": "b",
+      "label": "留白上提",
+      "prompt": "Generate ONE standalone tiny mobile UI icon for 拉金盆 meaning pull a gold basin upward. Match the attached approved search icon's B Botanical Line style, rounded sage #55735B outlines with smooth round caps, restrained cream #FFF1DB fill and a TINY butter #FFD778 accent. Strict simple flat geometry, no gradients, no shadows, no texture, no highlights, no 3D. Spacious compact near-square icon about 72% of canvas width, transparent RGBA background with generous padding. A shallow WASHBASIN and ONE short upward arrow must read as a single cohesive compact symbol at 32px. Maximum 4 simple visual components. Basin is mostly cream, NOT a large yellow mass. No leaves, no ground line, no shadow ellipse, no motion strokes, no double or triple concentric oval rims, no handles, no ropes, no faces, no text. Outline stroke consistent approximately 5% of icon width. The arrow is small, about one-quarter basin width, never a huge filled arrow above a bowl. Design A2: FRONT VIEW shallow cream basin as a single smooth sage outlined rounded U with gently flared sides and a simple horizontal top opening line. A small butter-yellow fill sliver at its bottom inside. A SHORT SAGE open-line up arrow rises from CENTER OF THE BASIN and interrupts the top opening line, visually integrated with the bowl; arrowhead just above the rim. Single sage stroke arrow, no coral, no extra oval, no realistic perspective. Minimal emblem, cream negative space dominates.",
+      "generated_original": "/workspace/generated_images/exec-017cbbb3-b9be-4fc2-ae50-40da4aecea33.png"
+    },
+    {
+      "id": "c",
+      "label": "盆緣微箭",
+      "prompt": "Generate ONE standalone tiny mobile UI icon for 拉金盆 meaning pull a gold basin upward. Match the attached approved search icon's B Botanical Line style, rounded sage #55735B outlines with smooth round caps, restrained cream #FFF1DB fill and a TINY butter #FFD778 accent. Strict simple flat geometry, no gradients, no shadows, no texture, no highlights, no 3D. Spacious compact near-square icon about 72% of canvas width, transparent RGBA background with generous padding. A shallow WASHBASIN and ONE short upward arrow must read as a single cohesive compact symbol at 32px. Maximum 4 simple visual components. Basin is mostly cream, NOT a large yellow mass. No leaves, no ground line, no shadow ellipse, no motion strokes, no double or triple concentric oval rims, no handles, no ropes, no faces, no text. Outline stroke consistent approximately 5% of icon width. The arrow is small, about one-quarter basin width, never a huge filled arrow above a bowl. Design A3: one gently rounded rectangular shallow washbasin in a minimal slightly top-down view. Cream interior, ONLY ONE simple open curved mouth line, a tiny warm yellow section along the lower-right basin edge. A SMALL CORAL open-line upward arrow is built into the RIGHT SIDE of the basin outline: right contour extends vertically a short distance above rim and ends in a small chevron. It must look like the basin is being pulled upward from its right rim, not an external arrow badge. Compact, no separate floating symbols.",
+      "generated_original": "/workspace/generated_images/exec-b59a7c03-055a-46b5-b2b1-3bd5ac4be7eb.png"
+    }
+  ],
+  "transparent_background": true
+}

@@ -9,7 +9,10 @@ def items(c):
  a={i['id']:i for i in c['icons']}
  result=[]
  for s in c['semantics']:
-  result.append(dict(s,asset=a[s['asset_id']]))
+  if s.get('candidate_options'):
+   for option in s['candidate_options']:
+    result.append(dict(s,id=('GoldBasin' if option.startswith('gold-planter-') else 'GoldBasin-'+('盆形'+'123'['abc'.index(option[-1])] if option.startswith('gold-basin-form-') else 'A'+'123'['abc'.index(option[-1])] if option.startswith('gold-basin-minimal-') else option[-1].upper())),label=('拉金盆' if option.startswith('gold-planter-') else '拉金盆 '+('盆形'+'123'['abc'.index(option[-1])] if option.startswith('gold-basin-form-') else 'A'+'123'['abc'.index(option[-1])] if option.startswith('gold-basin-minimal-') else option[-1].upper())),asset_id=option,asset=a[option]))
+  else:result.append(dict(s,asset=a[s['asset_id']]))
  result.append({'id':'Map','label':'地圖入口','group':'額外品牌入口','status':'approved','asset_id':'map','asset':a['map'],'usage_status':'brand-entry'})
  return result
 def card(i):
@@ -17,7 +20,7 @@ def card(i):
  return f'''<article class="card {i['status']}" data-search="{html.escape(i['id']+' '+i['label'])}"><div class="name">{html.escape(i['label'])}</div><div class="id">{i['id']}</div><img class="hero" src="{src}" alt="{html.escape(i['label'])}"><div class="states"><span class="sample"><img src="{src}" alt="一般"></span><button class="selected" aria-pressed="true" aria-label="切換{i['label']}選取"><img src="{src}" alt=""></button></div><div class="hint">一般 ／ 選取</div><div class="status">{status}{usage}</div></article>'''
 def main():
  c=json.loads((PACK/'catalog.json').read_text());rows=items(c)
- s='<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><title>B 植物線條完整功能圖示</title><style>'+STYLE+'</style><h1>B 植物線條 · 完整功能圖示</h1><p>56 項功能用途 ＋ 1 個地圖品牌入口｜55 張獨立透明原圖<br>首批 6 張已核准；其餘 49 張新稿待審核。原始 PNG 直接排列，一般／選取共用原圖。</p><input id="search" aria-label="搜尋圖示" placeholder="搜尋名稱或 ID…">'
+ s='<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><title>B 植物線條完整功能圖示</title><style>'+STYLE+'</style><h1>B 植物線條 · 完整功能圖示</h1><p>57 項功能用途 ＋ 1 個地圖品牌入口｜拉金盆：遊戲圓腹金盆＋向下滑動箭頭<br>首批 6 張與拉金盆下滑箭頭已核准；其餘 49 張延伸圖待審核；舊金盆稿僅保留追溯。原始 PNG 直接排列，一般／選取共用原圖。</p><input id="search" aria-label="搜尋圖示" placeholder="搜尋名稱或 ID…">'
  for group in dict.fromkeys(i['group'] for i in rows):
   s+=f'<section><h2>{group}</h2><div class="grid">'+''.join(card(i) for i in rows if i['group']==group)+'</div></section>'
  s+='<h2>32／48／64 px 原圖預覽</h2><p>此處為 CSS 顯示尺寸；原檔規格以 catalog 為準。新增／放大及移除／縮小共用符號。</p><div class="grid">'

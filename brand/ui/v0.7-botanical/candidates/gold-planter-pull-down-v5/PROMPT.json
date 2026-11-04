@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "gold-planter-pull-down-v5",
+  "status": "candidate",
+  "prompt": "Redesign the golden planter in reference image 1 into ONE standalone transparent mobile UI icon, in the approved B Botanical Line visual style of reference image 2. Reference 1 defines the OBJECT identity: a squat near-spherical rounded GOLD PLANTER with a small oval opening narrower than its widest belly, thick gently irregular golden lip, dark cocoa soil visible inside, a single short green stem with ONE upright green leaf. Preserve that distinctive round pot silhouette (round belly, inward-curving shoulders, narrow top), absolutely NOT a washbasin, dish, bowl, trapezoid tub or storage box. Simplify its game rendering into clean rounded deep sage #55735B outlines, matte butter gold #FFD778 body, restrained cream #FFF1DB accents, sage leaf and cocoa soil. No photo textures, sparkles, fake metallic shine, flower logos, drop shadow or background. Main pot dominates icon. ACTION REQUIRED: show ONE separate simplified cream/glove-colored human hand as a gesture pictogram on the lower right, connected to pot rim: its index finger curls over the RIGHT FRONT RIM, thumb presses OUTSIDE the rim, other fingers folded below it, wrist extends distinctly DOWNWARD toward lower right edge, making it unmistakably a hand gripping the rim and pulling the pot DOWN. Hand must be anatomically coherent but extremely simplified, sage outline same weight as pot, maximum two short finger lines, no sleeve details, no face or character body. Hand is separate from planter; do not anthropomorphize the planter or turn leaf into hand. Add two very short subtle downward motion strokes beside wrist if needed to show DOWNWARD PULL, never an arrow. NO upward arrow, NO downward arrow, NO arrow of any kind, NO detached tap cursor, NO hand pulling leaf, NO fist above pot. Large simple shapes readable at 32px, balanced compact near-square composition, pot about 65% canvas width with attached hand, whole icon occupies about 80% canvas. Transparent background, independent original RGBA PNG, not a contact sheet, no text. Candidate only.",
+  "references": [
+    "brand/ui/v0.7-botanical/candidates/gold-planter-pull-down-v5/references/game-gold-planter.jpg",
+    "brand/ui/v0.7-botanical/png/search.png"
+  ],
+  "reference_roles": [
+    "user-provided game planter shape",
+    "approved current B Botanical Line UI style"
+  ],
+  "transparent_background": true,
+  "user_instruction": "Use game planter, remove upward arrow, express pulling downward with a hand; explicit hand instruction overrides earlier no-limbs brief for this separate gesture pictogram."
+}

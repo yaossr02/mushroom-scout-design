@@ -1,0 +1,113 @@
+{
+  "status": "candidate",
+  "selection_pending": false,
+  "assets": [
+    {
+      "id": "gold-basin-pull-a",
+      "label": "上拔箭頭",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/a.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        47,
+        9,
+        1234,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        209,
+        81,
+        1039,
+        1146
+      ],
+      "sha256": "673f17fcc4f203abeef6afd67312ae27a0a4ffa12cbd7864e6b20e05769fd977",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/PROMPTS.json",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-form-redesign",
+      "selected_for_refinement": true
+    },
+    {
+      "id": "gold-basin-pull-b",
+      "label": "拉環提盆",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/b.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        27,
+        1240,
+        1236
+      ],
+      "body_bbox_alpha128": [
+        160,
+        67,
+        1083,
+        1166
+      ],
+      "sha256": "73313b5878179dc99fe8681909a722139ca9f819ee8fc16e4641682f99236f0c",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/PROMPTS.json",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-form-redesign"
+    },
+    {
+      "id": "gold-basin-pull-c",
+      "label": "斜拉拖出",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/c.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        69,
+        1240,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        48,
+        202,
+        1208,
+        1045
+      ],
+      "sha256": "4d7d043351dd8ec5d4d2d37f24bffc8ba9f2dd347ce27750550a818e27b01f95",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/PROMPTS.json",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-form-redesign"
+    }
+  ],
+  "current_reference": false
+}

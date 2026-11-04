@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "gold-planter-swipe-down-v6",
+  "status": "candidate",
+  "prompt": "EDIT the attached icon. Preserve the user-accepted golden planter design: squat round bulbous gold body, inward rounded shoulders, cream oval rolled lip, cocoa soil, ONE green leaf seedling, small bottom nub, existing sage outline and soft matte botanical palette. Keep planter shape, perspective, proportions, leaf and colors as close to the supplied icon as possible. Completely REMOVE the human hand, fingers, wrist and two wrist motion marks. Reconstruct the formerly covered right section of the planter rim/body as a smooth continuous symmetric pot contour. In the space to the RIGHT of the planter add ONE clear DOWNWARD SWIPE ARROW: a slim coral #F36C63 vertical line with smooth rounded ends and an open V arrowhead at the BOTTOM pointing straight DOWN. Arrow runs from around the planter upper rim height down to the lower half of the belly. Maintain a small clear transparent gap separating arrow from pot. Arrow is subordinate to the planter, no enclosing circle, no badge, no additional streaks. The visible reading is golden planter + swipe down. Absolutely NO hand, fingers, arm, face, limbs, upward arrow or text. Preserve transparent RGBA background and generous clear padding, standalone centered balanced UI icon. Do not redesign into a bowl or washbasin. This is a candidate revision; user approved only the planter design, not the complete edited icon.",
+  "reference": "brand/ui/v0.7-botanical/candidates/gold-planter-pull-down-v5/icon.png",
+  "reference_status": "user accepted planter shape only; hand rejected; whole new image remains candidate",
+  "transparent_background": true
+}

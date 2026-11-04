@@ -4,7 +4,7 @@
   "direction_selected": true,
   "direction": "B Botanical Line",
   "reference": "brand/reviews/ui-directions-v0.7/five-directions.png (B row only)",
-  "source_count": 55,
+  "source_count": 67,
   "remaining_semantics_not_redesigned": 0,
   "icons": [
     {
@@ -1876,6 +1876,439 @@
       "prompt_file": "brand/ui/v0.7-botanical/REMAINING-PROMPTS.json",
       "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
       "vector": false
+    },
+    {
+      "id": "gold-basin",
+      "label": "拉金盆",
+      "status": "rejected",
+      "path": "brand/ui/v0.7-botanical/png/gold-basin.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        39,
+        1238,
+        1206
+      ],
+      "body_bbox_alpha128": [
+        111,
+        379,
+        1129,
+        1009
+      ],
+      "sha256": "f6ad4a31b604bd435ea2475cd059aea4ea32ef0c4f9971a25ce6507105c7904f",
+      "date": "2026-11-04",
+      "generated_original": "/workspace/generated_images/exec-6c795735-556e-4ed2-8176-a2e9b3c25e76.png",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/GOLD-BASIN-PROMPT.json",
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "vector": false,
+      "active_reference": false,
+      "rejection_reason": "User requested stronger pulling action and three alternatives, 2026-11-04"
+    },
+    {
+      "id": "gold-basin-pull-a",
+      "label": "上拔箭頭",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/a.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        47,
+        9,
+        1234,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        209,
+        81,
+        1039,
+        1146
+      ],
+      "sha256": "673f17fcc4f203abeef6afd67312ae27a0a4ffa12cbd7864e6b20e05769fd977",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/PROMPTS.json",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-form-redesign",
+      "selected_for_refinement": true
+    },
+    {
+      "id": "gold-basin-pull-b",
+      "label": "拉環提盆",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/b.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        27,
+        1240,
+        1236
+      ],
+      "body_bbox_alpha128": [
+        160,
+        67,
+        1083,
+        1166
+      ],
+      "sha256": "73313b5878179dc99fe8681909a722139ca9f819ee8fc16e4641682f99236f0c",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/PROMPTS.json",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-form-redesign"
+    },
+    {
+      "id": "gold-basin-pull-c",
+      "label": "斜拉拖出",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/c.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        69,
+        1240,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        48,
+        202,
+        1208,
+        1045
+      ],
+      "sha256": "4d7d043351dd8ec5d4d2d37f24bffc8ba9f2dd347ce27750550a818e27b01f95",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/PROMPTS.json",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-form-redesign"
+    },
+    {
+      "id": "gold-basin-minimal-a",
+      "label": "短箭提盆",
+      "status": "rejected",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/a.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        41,
+        1230,
+        1181
+      ],
+      "body_bbox_alpha128": [
+        263,
+        457,
+        990,
+        868
+      ],
+      "sha256": "c1e720cb688eb412401f20f4ac2648ed778f1eb2b064099a3a1c1a961459e555",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-52ae87e2-e77b-4cdd-a638-57744b9d6a47.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "rejection_reason": "User explicitly rejected basin forms, 2026-11-04"
+    },
+    {
+      "id": "gold-basin-minimal-b",
+      "label": "留白上提",
+      "status": "rejected",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/b.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        49,
+        35,
+        1190,
+        1222
+      ],
+      "body_bbox_alpha128": [
+        287,
+        430,
+        967,
+        880
+      ],
+      "sha256": "06e378ea78cf37724d3e3f1d45d79c08fead7b6e6f7f415b996958723956f07e",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-017cbbb3-b9be-4fc2-ae50-40da4aecea33.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "rejection_reason": "User explicitly rejected basin forms, 2026-11-04"
+    },
+    {
+      "id": "gold-basin-minimal-c",
+      "label": "盆緣微箭",
+      "status": "rejected",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/c.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        29,
+        1224,
+        1200
+      ],
+      "body_bbox_alpha128": [
+        275,
+        395,
+        954,
+        834
+      ],
+      "sha256": "a6ebde8e0ab5233438dd328004e13959e061e774922a6d4a00db5483e2cc4688",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-b59a7c03-055a-46b5-b2b1-3bd5ac4be7eb.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "rejection_reason": "User explicitly rejected basin forms, 2026-11-04"
+    },
+    {
+      "id": "gold-basin-form-a",
+      "label": "薄緣外張盆",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/a.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        157,
+        1253,
+        1198
+      ],
+      "body_bbox_alpha128": [
+        201,
+        302,
+        1052,
+        941
+      ],
+      "sha256": "02228a359b17c506d0d0af429d934ec230c4a47af6e0bc45a1f48c33759b8137",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-50d38cca-d416-4b53-a27f-fd89a2747acc.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-user-game-reference-and-downward-hand-gesture"
+    },
+    {
+      "id": "gold-basin-form-b",
+      "label": "圓腹金盆",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/b.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        53,
+        1234,
+        1206
+      ],
+      "body_bbox_alpha128": [
+        178,
+        338,
+        1076,
+        923
+      ],
+      "sha256": "733659fbbab732049e1a7f84d73802c072f42caaab96b7c33b3b0e22d9d16f83",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-6dde6cf5-5868-49bb-8ea0-05444b5d5c79.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-user-game-reference-and-downward-hand-gesture"
+    },
+    {
+      "id": "gold-basin-form-c",
+      "label": "淺口寬金盆",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/c.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        55,
+        1240,
+        1198
+      ],
+      "body_bbox_alpha128": [
+        147,
+        339,
+        1104,
+        927
+      ],
+      "sha256": "c199995171f3478ec0031d51222b32265ce705cbe2b4fd4816fd6568cb10a3ab",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-63ee1670-1ba0-4c65-81c5-79583b1b35b1.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-user-game-reference-and-downward-hand-gesture"
+    },
+    {
+      "id": "gold-planter-pull-down-v5",
+      "label": "拉金盆",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-planter-pull-down-v5/icon.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        13,
+        1214,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        85,
+        141,
+        1194,
+        1148
+      ],
+      "sha256": "6fc109a6daa02ca16b5aec62dada57e98dde16e7bb3d164ebc18a412986d4cec",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-planter-pull-down-v5/PROMPT.json",
+      "generated_original": "/workspace/generated_images/exec-bf29b808-a9f3-4009-9dc5-e3cc3b407729.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "planter_shape_accepted": true,
+      "gesture_rejected": true,
+      "review_status": "superseded-by-downward-swipe-arrow"
+    },
+    {
+      "id": "gold-planter-swipe-down-v6",
+      "label": "拉金盆",
+      "status": "approved",
+      "active_reference": true,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        21,
+        1160,
+        1254
+      ],
+      "body_bbox_alpha128": [
+        85,
+        140,
+        1109,
+        1150
+      ],
+      "sha256": "567eb40708da42e83b882d1e2491cfa56ee0a1bdc0bb0f18f773a4166b736aee",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/PROMPT.json",
+      "generated_original": "/workspace/generated_images/exec-a9bae2c7-3377-4869-a4da-92145903c19d.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "revision_note": "User accepted planter shape only; remove hand and show downward swipe arrow. Full edited icon remains candidate.",
+      "approval_record": "brand/approvals/2026-11-04-gold-planter-swipe-down-v6.md"
     }
   ],
   "limitations": [
@@ -3880,16 +4313,43 @@
       "approval_record": null,
       "usage_status": "ios-supplement",
       "usage_references": []
+    },
+    {
+      "id": "GoldBasin",
+      "label": "拉金盆",
+      "group": "自動、懸浮與狀態",
+      "asset_id": "gold-planter-swipe-down-v6",
+      "normal": "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png",
+      "selected": "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png",
+      "selected_container": "cream backing, sage border, bottom dot",
+      "status": "approved",
+      "approval_record": "brand/approvals/2026-11-04-gold-planter-swipe-down-v6.md",
+      "usage_status": "proposed-replacement",
+      "usage_references": [
+        {
+          "path": "android/app/src/main/java/io/github/yaossr02/mushroomscout/scan/FloatMenu.kt",
+          "symbol": "functionEntries",
+          "context": "拉金盆 currently uses AppIcon.Locate; user-supplied mapping, App unchanged"
+        }
+      ],
+      "candidate_options": [
+        "gold-planter-swipe-down-v6"
+      ],
+      "selection_pending": false,
+      "note": "User approved complete v6 golden planter with downward swipe arrow and requested pushing the design repository. App implementation deferred to Claude."
     }
   ],
-  "semantic_count": 56,
+  "semantic_count": 57,
   "additional_brand_entry": {
     "id": "Map",
     "asset_id": "map",
     "label": "地圖入口",
     "status": "approved"
   },
-  "approved_original_count": 6,
+  "approved_original_count": 7,
   "new_candidate_original_count": 49,
-  "source_mapping": "56 legacy use IDs preserved; Map is an additional approved brand entry, not Layers"
+  "source_mapping": "56 legacy use IDs preserved; GoldBasin has one current user-reference-based planter/hand candidate; Map is additional brand entry.",
+  "active_source_count": 56,
+  "rejected_original_count": 4,
+  "historical_candidate_original_count": 7
 }

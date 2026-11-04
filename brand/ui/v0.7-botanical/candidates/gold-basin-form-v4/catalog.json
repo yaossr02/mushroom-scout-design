@@ -1,0 +1,115 @@
+{
+  "status": "candidate",
+  "selection_pending": false,
+  "assets": [
+    {
+      "id": "gold-basin-form-a",
+      "label": "薄緣外張盆",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/a.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        157,
+        1253,
+        1198
+      ],
+      "body_bbox_alpha128": [
+        201,
+        302,
+        1052,
+        941
+      ],
+      "sha256": "02228a359b17c506d0d0af429d934ec230c4a47af6e0bc45a1f48c33759b8137",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-50d38cca-d416-4b53-a27f-fd89a2747acc.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-user-game-reference-and-downward-hand-gesture"
+    },
+    {
+      "id": "gold-basin-form-b",
+      "label": "圓腹金盆",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/b.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        53,
+        1234,
+        1206
+      ],
+      "body_bbox_alpha128": [
+        178,
+        338,
+        1076,
+        923
+      ],
+      "sha256": "733659fbbab732049e1a7f84d73802c072f42caaab96b7c33b3b0e22d9d16f83",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-6dde6cf5-5868-49bb-8ea0-05444b5d5c79.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-user-game-reference-and-downward-hand-gesture"
+    },
+    {
+      "id": "gold-basin-form-c",
+      "label": "淺口寬金盆",
+      "status": "candidate",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/c.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        55,
+        1240,
+        1198
+      ],
+      "body_bbox_alpha128": [
+        147,
+        339,
+        1104,
+        927
+      ],
+      "sha256": "c199995171f3478ec0031d51222b32265ce705cbe2b4fd4816fd6568cb10a3ab",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-63ee1670-1ba0-4c65-81c5-79583b1b35b1.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "review_status": "superseded-by-user-game-reference-and-downward-hand-gesture"
+    }
+  ],
+  "current_reference": false
+}

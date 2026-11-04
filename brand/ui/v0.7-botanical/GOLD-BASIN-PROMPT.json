@@ -1,0 +1,14 @@
+{
+  "id": "gold-basin",
+  "label": "拉金盆",
+  "status": "candidate",
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "references": [
+    "brand/ui/v0.7-botanical/png/search.png",
+    "brand/ui/v0.7-botanical/png/favorite.png"
+  ],
+  "reference_status": "approved; current B Botanical Line; used for style only",
+  "transparent_background": true,
+  "prompt": "Create ONE standalone UI icon for Mushroom Scout, ID gold-basin, label 拉金盆, for a floating action menu. Use the two attached approved icons ONLY as style references: same B Botanical Line visual language, rounded deep sage green outlines (#55735B), soft matte cream (#FFF1DB), warm buttery gold (#FFD778), minimal gentle volume, clean readable silhouette. Subject: a GOLD WASHBASIN, a broad shallow round golden basin viewed slightly from above, obvious open wide elliptical rim with cream inner bowl, rounded golden bowl body tapering gently toward a flat base. Not a flowerpot, trophy, cooking pot, coins, treasure chest or locator/target. No handles. Add just ONE small sage leaf sprout tucked at the lower-right outer rim as subtle botanical accent; do not obscure the basin. Simple front centered balanced composition, large icon occupying ~76 percent of square canvas, generous transparent padding. Consistent smooth substantial rounded sage contour like attached approved favorite star, few interior details, legible at 32 px. Soft upper-left light, matte finish, no cast shadow outside icon, no glossy metallic realism. No text, letters, numerals, arrows, symbols, face, eyes, mouth, limbs or character. Deliver original high-resolution square RGBA PNG with truly transparent background, no checkerboard painted in, no colored tile or surrounding container. Candidate only; no approval implied."
+}

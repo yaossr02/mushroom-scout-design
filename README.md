@@ -4,7 +4,7 @@
 
 ## 全系列圖示總覽
 
-目前有效的 21 張蘑菇／植物／品牌素材，以及完整 **56 項 B 植物線條功能用途＋地圖入口**。品牌與首批六張功能原圖已核准；本輪延伸 49 張原圖仍待審核，另附五種已核准的 v0.9 B 環繞流動強化特效。點擊大圖可放大。
+目前有效的 21 張蘑菇／植物／品牌素材，以及完整 **57 項 B 植物線條功能用途＋地圖入口**。品牌、首批六張功能原圖與「拉金盆」v6 已核准；其餘 49 張延伸原圖仍待審核，另附五種已核准的 v0.9 B 環繞流動強化特效。點擊大圖可放大。
 
 [![全系列圖示總覽](brand/reviews/overview/all-icons-overview.png)](brand/reviews/overview/all-icons-overview.png)
 
@@ -12,11 +12,13 @@
 
 ### App 功能圖示：B 植物線條 v0.7（完整交付，新稿待審核）
 
-首批搜尋、地圖、掃描、收藏、設定、相簿已經使用者明確核准，並沿此方向補齊全部用途。共有 55 張獨立透明原圖，一般／選取共用原圖，以奶油底、綠色外框與圓點區分。深色介面採奶油承托底。
+首批搜尋、地圖、掃描、收藏、設定、相簿已經使用者明確核准，並沿此方向補齊全部用途。目前共有 56 張有效獨立透明原圖（7 張已核准、49 張待審核），一般／選取共用原圖，以奶油底、綠色外框與圓點區分。深色介面採奶油承托底。
 
 [![完整 B 植物線條功能圖示](brand/ui/v0.7-botanical/review/all-icons.png)](brand/ui/v0.7-botanical/review/all-icons.png)
 
 [素材與用途映射](brand/ui/v0.7-botanical/README.md) · [原圖尺寸／狀態／深淺底檢閱頁](brand/ui/v0.7-botanical/review/index.html) · [首批六項核准紀錄](brand/approvals/2026-11-01-botanical-ui-first-six-v0.7.md)
+
+新增「拉金盆」專用金色花盆與下滑箭頭圖示（GoldBasin），v6 已經使用者明確核准，對應懸浮功能選單目前暫用 AppIcon.Locate 的用途；尚未匯入 App。
 
 「地圖」為額外品牌入口，不等於「圖層」；新增／放大與移除／縮小分別共用符號。首批核准不自動延伸到本輪新稿；沒有修改 App 或匯入素材。
 
@@ -73,3 +75,47 @@ Python／Pillow 的 catalog 與平台檢查，以及 Playwright／Chromium 的�
 ## 歷史版本
 
 v0.1–v0.4 的檔案、圖板、提示詞及核准紀錄仍在 brand/ 下保留供追溯。它們不能作新版蘑菇的生成參考。植物核准不受影響。
+
+## 拉金盆 · 三款拉拔動作提案（2026-11-04）
+
+舊靜態金盆因拉拔感不足已停用，原檔保留追溯。新版 A「上拔箭頭」、B「拉環提盆」、C「斜拉拖出」均為 candidate，等待選擇與審核；功能用途仍為 GoldBasin，未選定替換素材，也未修改 App。
+
+[三款比較圖](brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/comparison.png) · [32／48／64 px 與深淺底檢閱](brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/index.html) · [完整提示詞](brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/PROMPTS.json)
+
+目前保留 57 項功能用途與額外地圖入口；拉金盆同一用途展示三款，合計 60 張檢閱卡。有效原圖共 58 張（6 已核准、52 待審核），另保留 1 張已停用舊稿。以上數量取代前述第一版金盆數量；全系列總覽已同步更新。
+
+### 拉金盆與完整設計的一體感比較
+
+[三欄完整並排比較圖](brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/cohesion.png) · [原圖檢閱頁](brand/ui/v0.7-botanical/candidates/gold-basin-pull-v2/cohesion.html)。三欄各放相同 55 張現有功能原圖，只替換 A／B／C 金盆，另附 21 張品牌素材與 5 種元素特效共同基準。原圖不調色、不重畫；候選未核准。
+
+## 拉金盆 · A 方向精簡三款（最新，2026-11-04）
+
+使用者選定舊 A 的向上拉拔方向，要求更簡潔、更融入既有系列；方向選定不代表舊圖或新圖已核准。新增 A1「短箭提盆」、A2「留白上提」、A3「盆緣微箭」，均為 candidate。拿掉葉片、底部橢圓與動態線，改用奶油留白、少量暖黃與短箭頭。
+
+[新三款比較圖](brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/comparison.png) · [32／48／64 px、深淺底與既有圖示並排](brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/index.html) · [完整提示詞及來源](brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/PROMPTS.json)。全系列總覽目前顯示這三款；舊靜態金盆與 v2 三款保留追溯，不再列入有效總覽。有效原圖仍為 58 張（6 已核准、52 待審核），GoldBasin 用途仍待選定最終素材，未修改 App。
+
+## 拉金盆 · 盆形重做三款（最新，2026-11-04）
+
+v3 精簡三款盆形已遭使用者明確否決，標為 rejected 並退出目前總覽；不再作生成參考。保留向上拉拔方向，以圓形金屬盆的橢圓盆口、捲邊與曲面盆壁重新製作：1「薄緣外張盆」、2「圓腹金盆」、3「淺口寬金盆」。三款皆 candidate，尚未核准。
+
+[最新盆形比較圖](brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/comparison.png) · [小尺寸／深淺底與既有圖示並排](brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/index.html) · [完整提示詞及來源](brand/ui/v0.7-botanical/candidates/gold-basin-form-v4/PROMPTS.json)。全系列總覽已改列這三款，原始 RGBA PNG 與實際規格／hash 均保留。頁面可視大小已對齊，未改動原圖。未修改 App。
+
+## 拉金盆 · 遊戲花盆與向下拉手勢（最新，2026-11-04）
+
+依使用者提供的遊戲圖，改為圓腹金色花盆、土壤與單葉幼苗；取消所有箭頭，以獨立手勢勾住盆緣向下拉。使用者明確要求手勢，並非讓花盆長出肢體。新稿 `gold-planter-pull-down-v5` 為 candidate，未核准；舊向上箭頭稿已退出有效總覽、僅供追溯。
+
+[透明原圖](brand/ui/v0.7-botanical/candidates/gold-planter-pull-down-v5/icon.png) · [尺寸與深淺底檢閱](brand/ui/v0.7-botanical/candidates/gold-planter-pull-down-v5/index.html) · [完整提示詞](brand/ui/v0.7-botanical/candidates/gold-planter-pull-down-v5/PROMPT.json)。全系列總覽已更新，現在共 56 張有效功能原圖（6 已核准、50 候選），對應 57 項功能用途與額外地圖入口、58 張用途卡；未修改 App。
+
+## 拉金盆 · 保留盆形、改為向下滑動箭頭（最新，2026-11-04）
+
+使用者已接受 v5 的盆形，但否決手部；依指示移除手，改為盆右側的珊瑚紅向下滑動箭頭。新版 `gold-planter-swipe-down-v6` 完整圖示仍為 candidate，不能把盆形認可視為整張核准。舊手勢稿保留追溯，不列入目前總覽。
+
+[透明原圖](brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png) · [小尺寸與整套並排檢閱](brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/index.html) · [提示詞](brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/PROMPT.json)。總覽已同步更新，未修改 App。
+
+## 拉金盆正式交接 · v6 已核准（2026-11-04）
+
+使用者已核准完整 `gold-planter-swipe-down-v6` 原圖並要求推送。此前章節為設計迭代紀錄；最新核准狀態以本節、catalog 與核准紀錄為準。
+
+[核准透明原圖](brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png) · [核准與 hash](brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/approval.json)。目前有效原圖共 56 張：7 張已核准、49 張待審核；用途卡 58 張。總覽已同步更新核准標記。
+
+Claude 交接：在 `scan/FloatMenu.kt` 的 `functionEntries` 將「拉金盆」從暫用 `AppIcon.Locate` 改用獨立 `GoldBasin` 素材；既有定位用途繼續使用 Locate。本次未修改 App。此為透明 PNG，平台尺寸整理另由 App 實作處理，不是向量檔。

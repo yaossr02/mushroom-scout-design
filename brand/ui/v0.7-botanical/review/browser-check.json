@@ -1,12 +1,12 @@
 {
   "source_images_decoded": true,
-  "functional_uses": 56,
+  "functional_uses": 57,
   "additional_map_entry": 1,
-  "hero_count": 57,
-  "size_samples": 171,
-  "state_toggles": 57,
+  "hero_count": 58,
+  "size_samples": 174,
+  "state_toggles": 58,
   "chinese_and_id_search": "passed",
   "errors": [],
   "app_runtime_tested": false,
-  "browser": "154.0.8037.57"
+  "browser": "155.0.8059.79"
 }

@@ -1,0 +1,115 @@
+{
+  "status": "candidate",
+  "selection_pending": false,
+  "assets": [
+    {
+      "id": "gold-basin-minimal-a",
+      "label": "短箭提盆",
+      "status": "rejected",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/a.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        41,
+        1230,
+        1181
+      ],
+      "body_bbox_alpha128": [
+        263,
+        457,
+        990,
+        868
+      ],
+      "sha256": "c1e720cb688eb412401f20f4ac2648ed778f1eb2b064099a3a1c1a961459e555",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-52ae87e2-e77b-4cdd-a638-57744b9d6a47.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "rejection_reason": "User explicitly rejected basin forms, 2026-11-04"
+    },
+    {
+      "id": "gold-basin-minimal-b",
+      "label": "留白上提",
+      "status": "rejected",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/b.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        49,
+        35,
+        1190,
+        1222
+      ],
+      "body_bbox_alpha128": [
+        287,
+        430,
+        967,
+        880
+      ],
+      "sha256": "06e378ea78cf37724d3e3f1d45d79c08fead7b6e6f7f415b996958723956f07e",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-017cbbb3-b9be-4fc2-ae50-40da4aecea33.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "rejection_reason": "User explicitly rejected basin forms, 2026-11-04"
+    },
+    {
+      "id": "gold-basin-minimal-c",
+      "label": "盆緣微箭",
+      "status": "rejected",
+      "active_reference": false,
+      "path": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/c.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "alpha_nonzero_bbox": [
+        0,
+        29,
+        1224,
+        1200
+      ],
+      "body_bbox_alpha128": [
+        275,
+        395,
+        954,
+        834
+      ],
+      "sha256": "a6ebde8e0ab5233438dd328004e13959e061e774922a6d4a00db5483e2cc4688",
+      "date": "2026-11-04",
+      "tool": "image_gen",
+      "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-basin-minimal-v3/PROMPTS.json",
+      "generated_original": "/workspace/generated_images/exec-b59a7c03-055a-46b5-b2b1-3bd5ac4be7eb.png",
+      "vector": false,
+      "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+      "rejection_reason": "User explicitly rejected basin forms, 2026-11-04"
+    }
+  ],
+  "current_reference": false
+}

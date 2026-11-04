@@ -1,0 +1,38 @@
+{
+  "id": "gold-planter-pull-down-v5",
+  "label": "拉金盆",
+  "status": "candidate",
+  "active_reference": false,
+  "path": "brand/ui/v0.7-botanical/candidates/gold-planter-pull-down-v5/icon.png",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    0,
+    13,
+    1214,
+    1254
+  ],
+  "body_bbox_alpha128": [
+    85,
+    141,
+    1194,
+    1148
+  ],
+  "sha256": "6fc109a6daa02ca16b5aec62dada57e98dde16e7bb3d164ebc18a412986d4cec",
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-planter-pull-down-v5/PROMPT.json",
+  "generated_original": "/workspace/generated_images/exec-bf29b808-a9f3-4009-9dc5-e3cc3b407729.png",
+  "vector": false,
+  "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+  "planter_shape_accepted": true,
+  "gesture_rejected": true,
+  "review_status": "superseded-by-downward-swipe-arrow"
+}

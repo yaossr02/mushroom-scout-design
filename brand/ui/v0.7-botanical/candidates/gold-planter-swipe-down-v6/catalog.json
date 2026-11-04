@@ -1,0 +1,37 @@
+{
+  "id": "gold-planter-swipe-down-v6",
+  "label": "拉金盆",
+  "status": "approved",
+  "active_reference": true,
+  "path": "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    0,
+    21,
+    1160,
+    1254
+  ],
+  "body_bbox_alpha128": [
+    85,
+    140,
+    1109,
+    1150
+  ],
+  "sha256": "567eb40708da42e83b882d1e2491cfa56ee0a1bdc0bb0f18f773a4166b736aee",
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "prompt_file": "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/PROMPT.json",
+  "generated_original": "/workspace/generated_images/exec-a9bae2c7-3377-4869-a4da-92145903c19d.png",
+  "vector": false,
+  "selected_state": "same original PNG plus cream backing, sage border and bottom dot",
+  "revision_note": "User accepted planter shape only; remove hand and show downward swipe arrow. Full edited icon remains candidate.",
+  "approval_record": "brand/approvals/2026-11-04-gold-planter-swipe-down-v6.md"
+}

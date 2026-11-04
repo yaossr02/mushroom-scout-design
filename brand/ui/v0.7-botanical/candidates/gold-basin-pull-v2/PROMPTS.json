@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "status": "candidate",
+  "reference": "brand/ui/v0.7-botanical/png/gold-basin.png",
+  "reference_status": "previous candidate; basin identity only, no approval inherited",
+  "transparent_background": true,
+  "variants": [
+    {
+      "id": "A",
+      "label": "上拔箭頭",
+      "prompt": "Create ONE independent transparent-background mobile UI icon for 拉金盆 (pull a golden basin). B Botanical Line style matching attached reference basin: rounded deep sage #55735B contours, butter gold #FFD778 basin, cream #FFF1DB interior, one tiny sage leaf accent. Minimal smooth matte shapes, no realistic metal, no text, no faces or limbs, no background tile. Wide open oval washbasin recognizable at 32px. IMPORTANT communicate active PULLING, not a stationary bowl. Square high-resolution RGBA, centered with padding. An upright golden washbasin is being PULLED UP out of a thin ground slot. A bold coral UPWARD ARROW starts visibly attached to the basin rim center, rises above it; two short vertical rising motion strokes beside the basin and a clear separation gap under its base. Strong vertical extraction gesture. Arrow is the dominant action cue; keep bowl recognizable.",
+      "generated_original": "/workspace/generated_images/exec-aaef806b-cfda-40f4-8f1a-aa896db3402f.png"
+    },
+    {
+      "id": "B",
+      "label": "拉環提盆",
+      "prompt": "Create ONE independent transparent-background mobile UI icon for 拉金盆 (pull a golden basin). B Botanical Line style matching attached reference basin: rounded deep sage #55735B contours, butter gold #FFD778 basin, cream #FFF1DB interior, one tiny sage leaf accent. Minimal smooth matte shapes, no realistic metal, no text, no faces or limbs, no background tile. Wide open oval washbasin recognizable at 32px. IMPORTANT communicate active PULLING, not a stationary bowl. Square high-resolution RGBA, centered with padding. Golden washbasin suspended and visibly LIFTING UP, pulled by a taut sage cord connected to BOTH left and right bowl rim points, forming an inverted V to a large coral circular PULL RING at the top. Pull ring, taut twin cords, and basin connected in one coherent simple silhouette. Two short upward motion strokes at sides and no pedestal. This is a pull-ring extraction mechanism, not a bucket handle arch. Ring at top center, basin lower half.",
+      "generated_original": "/workspace/generated_images/exec-ebfd2373-4164-4e16-ae2c-a6d97a5c51a8.png"
+    },
+    {
+      "id": "C",
+      "label": "斜拉拖出",
+      "prompt": "Create ONE independent transparent-background mobile UI icon for 拉金盆 (pull a golden basin). B Botanical Line style matching attached reference basin: rounded deep sage #55735B contours, butter gold #FFD778 basin, cream #FFF1DB interior, one tiny sage leaf accent. Minimal smooth matte shapes, no realistic metal, no text, no faces or limbs, no background tile. Wide open oval washbasin recognizable at 32px. IMPORTANT communicate active PULLING, not a stationary bowl. Square high-resolution RGBA, centered with padding. A golden washbasin tilted 15 degrees is being DRAGGED diagonally UP RIGHT. A short TAUT sage rope attaches to the basin right rim, ending in a thick CORAL ARROW pointing upper right. Two short trailing motion streaks lower left under bowl; thin horizontal origin line lower left with a clear gap. Energetic diagonal traction, asymmetrical action composition. No hands, no people, no wheel or vehicle.",
+      "generated_original": "/workspace/generated_images/exec-abb7dc05-66b7-4e0a-a75a-0bbfdab99b56.png"
+    }
+  ]
+}
