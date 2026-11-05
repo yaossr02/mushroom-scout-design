@@ -1,0 +1,69 @@
+{
+  "concept": "C",
+  "title": "循環果實",
+  "subject": "one plump coral-red fruit with a single broad sage-green leaf and short warm-brown stem, cradled on the lower-left side by ONE thick honey-gold circular return arrow with a big rounded arrowhead. The fruit is the main object, the curved arrow is the only supporting detail, and the gap inside the loop stays open and readable. Read as automated feeding or repeat cycle. No bowl, no pot, no gear, no hands, no bite marks, no shine",
+  "path": "candidates/Auto-C-v2",
+  "id": "Auto",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "original": {
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      19,
+      1240,
+      1254
+    ],
+    "bbox_alpha128": [
+      73,
+      98,
+      1133,
+      1187
+    ],
+    "sha256": "bf7d9a5a4c9c7d5e83abad5c597a8c4cabd83c4610c749252ed27c85789351ec"
+  },
+  "final": {
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      43,
+      23,
+      1244,
+      1219
+    ],
+    "bbox_alpha128": [
+      114,
+      100,
+      1140,
+      1154
+    ],
+    "sha256": "cce84dab4eaf0c214d766a3318d0d77a49f61c0309be64f8d07be6783127163f"
+  },
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "mechanical_operations": {
+    "uniform_scale": 0.967860422405877,
+    "offset_px": [
+      43,
+      5
+    ],
+    "note": "Canvas resize/centering only; original shading and alpha retained. No drawing, thickening, outlines or shape edits."
+  }
+}

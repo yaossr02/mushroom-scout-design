@@ -1,3 +1,5 @@
+> 最新選用 · 2026-11-05：Auto已改採C循環果實v2。其餘四項與GoldBasin D維持。正式來源見 [現行清單](approved/current-manifest.json)；下方首批說明為歷史。
+
 # 插圖風功能圖示 · 已核准第一批
 
 2026-11-05（Asia/Taipei）。使用者以圈選圖確認 Auto A循環金盆、Tasks A緞帶紙卷、Records A紅菇圖鑑、Favorites B金色星花、Scan A放大鏡紅菇；GoldBasin沿用已核准D金盆＋粗下箭頭。

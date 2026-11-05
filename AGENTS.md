@@ -23,3 +23,7 @@
 - 2026-11-05 GoldBasin 最新選用：使用者「我選D」核准蘑菇插圖畫法 D（雙葉、粗下箭頭），正式來源 `brand/ui/approved/gold-planter-illustrated-v1/approval.json`。僅 GoldBasin 取代 v6／C-v2 選用；其他圖示不繼承核准。後續以 v0.5 紅菇／火菇霧面立體插圖作畫法參考，不對這張沿用貼紙規則。核准範圍與Claude交接見正式目錄，尚未接App。
 
 - 2026-11-05 插圖風功能首批已逐項核准：Auto A、Tasks A、Records A、Favorites B、Scan A，正式來源 `brand/ui/illustrated-v1/approved/batch1/manifest.json`；GoldBasin沿用D。後續門面插圖依 `ILLUSTRATED-STYLE.md`，每次附核准D金盆與v0.5紅菇；新功能不繼承核准，16dp小符號不在本系列。App交接 `brand/ui/illustrated-v1/CLAUDE-HANDOFF.md`，本repo不改App。
+
+- 2026-11-05 Auto最新改採C「循環果實」v2，正式來源 `brand/ui/illustrated-v1/approved/auto-C-v2/approval.json`，現行整套清單 `brand/ui/illustrated-v1/approved/current-manifest.json`。首批Auto A保留歷史，其他四項與GoldBasin D維持；A/B重設計稿仍candidate。
+
+- 使用者持續授權（2026-11-05）：「之後我核准完，你就自動推送」。未來明確核准設計後，完成固定原圖與SHA-256、核准紀錄、現行清單、Claude交接與總覽檢查，再自動commit並推送本設計repo的main，不再另外要求確認。只推核准素材及必要來源／交接，不混入未選候選或無關工作；不代表授權修改App。非快轉衝突或連線失敗時先安全處理並如實回報，不強制推送。

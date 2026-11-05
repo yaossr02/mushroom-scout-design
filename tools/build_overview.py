@@ -41,9 +41,11 @@ if floatbar_manifest.exists():
   s+=f'<div class="card approved"><div class="name">{html.escape(icon["label"])}</div><div class="pair"><span class="sample"><img src="{image}" alt="一般"></span><span class="sample selected"><img src="{image}" alt="選取示意"></span></div><div class="id">{icon["id"]}{' · D 插圖版' if selected else ''}</div><div class="status">已核准 · 浮列專用</div></div>'
  s+='</div>'
 illustrated_file=ROOT/'brand/ui/illustrated-v1/approved/batch1/manifest.json'
+current_file=ROOT/'brand/ui/illustrated-v1/approved/current-manifest.json'
+if current_file.exists():illustrated_file=current_file
 if illustrated_file.exists():
  illustrated=json.loads(illustrated_file.read_text())
- s+='<h2>05　插圖風功能圖示 · 第一批5張已核准</h2><p>Auto A、Tasks A、Records A、Favorites B、Scan A。GoldBasin沿用D；未修改App。一般／選取只表示容器狀態示意。未選候選不列入此正式交接總覽。</p><div class="grid">'
+ s+='<h2>05　插圖風功能圖示 · 第一批5張已核准</h2><p>Auto現採C循環果實v2；Tasks A、Records A、Favorites B、Scan A。GoldBasin沿用D；未修改App。一般／選取只表示容器狀態示意。未選候選不列入此正式交接總覽。</p><div class="grid">'
  for icon in illustrated['assets']:
   image=src(icon['path'])
   s+=f'<div class="card approved"><div class="name">{html.escape(icon["label"])} {icon["concept"]}</div><div class="pair"><span class="sample"><img src="{image}" alt="一般示意"></span><span class="sample selected"><img src="{image}" alt="選取示意"></span></div><div class="id">{icon["id"]} · {html.escape(icon["title"])}</div><div class="status">已核准 · 插圖版</div></div>'

@@ -10,11 +10,15 @@
 
 新增、修改或停用圖示，以及變更核准狀態時，須同步更新大圖與本節說明，保留名稱、一般／選取狀態及實際審核狀態。
 
+### Auto 重新設計 v2 · C循環果實已核准
+
+已選C循環果實作為目前Auto；A芽苗齒輪與B芽苗沙漏仍為candidate，未修改App。[Auto C核准原圖](brand/ui/illustrated-v1/approved/auto-C-v2/icon.png) · [目前組合與尺寸預覽](brand/ui/illustrated-v1/approved/current-preview.html)。
+
 ### 插圖風功能圖示 · 第一批5張已核准（2026-11-05）
 
-新系列以核准 D 金盆與 v0.5 紅菇的霧面立體插圖為樣板。地圖右側 Auto／Tasks／Records／Favorites／Scan 各 A、B 兩個概念；現已逐項核准 Auto A、Tasks A、Records A、Favorites B、Scan A，另五張仍為candidate。GoldBasin沿用D；未修改 App 或既有核准檔。
+新系列以核准 D 金盆與 v0.5 紅菇的霧面立體插圖為樣板。地圖右側 Auto／Tasks／Records／Favorites／Scan 各 A、B 兩個概念；現已逐項核准 Auto C v2、Tasks A、Records A、Favorites B、Scan A，另五張仍為candidate。GoldBasin沿用D；未修改 App 或既有核准檔。
 
-[已核准組合](brand/ui/illustrated-v1/approved/batch1/selected-set.png) · [Claude交接](brand/ui/illustrated-v1/CLAUDE-HANDOFF.md) · [系列規範](brand/ui/illustrated-v1/ILLUSTRATED-STYLE.md) · [已選直排與尺寸檢閱](brand/ui/illustrated-v1/approved/batch1/index.html) · [固定核准清單](brand/ui/illustrated-v1/approved/batch1/manifest.json)
+[已核准組合](brand/ui/illustrated-v1/approved/current-set.png) · [Claude交接](brand/ui/illustrated-v1/CLAUDE-HANDOFF.md) · [系列規範](brand/ui/illustrated-v1/ILLUSTRATED-STYLE.md) · [已選直排與尺寸檢閱](brand/ui/illustrated-v1/approved/current-preview.html) · [固定核准清單](brand/ui/illustrated-v1/approved/current-manifest.json)
 
 ### 拉金盆最新選用 · D 蘑菇插圖版（2026-11-05 已核准）
 

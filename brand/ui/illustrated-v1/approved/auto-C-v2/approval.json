@@ -1,0 +1,34 @@
+{
+  "id": "Auto",
+  "label": "自動",
+  "concept": "C",
+  "title": "循環果實",
+  "status": "approved",
+  "date": "2026-11-05",
+  "user_confirmation": "換成C",
+  "path": "brand/ui/illustrated-v1/approved/auto-C-v2/icon.png",
+  "source_candidate": "brand/ui/illustrated-v1/candidates/Auto-C-v2",
+  "approval_record": "brand/approvals/2026-11-05-illustrated-auto-C-v2.md",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_extrema": [
+    0,
+    255
+  ],
+  "bbox_alpha_nonzero": [
+    43,
+    23,
+    1244,
+    1219
+  ],
+  "bbox_alpha128": [
+    114,
+    100,
+    1140,
+    1154
+  ],
+  "sha256": "cce84dab4eaf0c214d766a3318d0d77a49f61c0309be64f8d07be6783127163f"
+}

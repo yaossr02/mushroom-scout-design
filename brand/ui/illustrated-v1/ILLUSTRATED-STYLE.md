@@ -1,3 +1,5 @@
+> 最新選用 · 2026-11-05：Auto已改採C循環果實v2。其餘四項與GoldBasin D維持。正式來源見 [現行清單](approved/current-manifest.json)；下方首批說明為歷史。
+
 > 最新核准 · 2026-11-05：Auto A、Tasks A、Records A、Favorites B、Scan A；GoldBasin沿用D。其餘五張仍candidate。以下首稿與方向確認說明保留審閱歷史，正式來源見 [核准manifest](approved/batch1/manifest.json)，程式交接見 [CLAUDE-HANDOFF.md](CLAUDE-HANDOFF.md)。
 
 # 插圖風功能圖示 · illustrated-v1
@@ -39,3 +41,7 @@
 ## 使用者確認方向 · 2026-11-05
 
 使用者看過第一批10張候選後回覆：「對! 這些都是我要的」。記錄為已確認本系列的「遊戲世界道具＋霧面立體插圖」風格方向，後續沿此方向延伸。五個功能尚未逐項指定A／B，因此本批10張仍為candidate，不將風格認可擴大為兩個概念均已核准。核准D金盆狀態不變。
+
+## 核准後自動推送 · 2026-11-05
+
+使用者已持續授權：明確核准後，完成固定PNG、SHA-256、核准紀錄、現行清單、Claude交接與總覽檢查，直接提交並推送設計repo main，不另詢問。只包含已核准成果與必要來源／交接；未選候選留本機，不自動修改App。
