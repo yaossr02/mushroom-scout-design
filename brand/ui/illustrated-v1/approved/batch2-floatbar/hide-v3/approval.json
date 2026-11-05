@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-05",
+  "status": "approved",
+  "user_confirmation": "A：睜眼＋斜線",
+  "asset": {
+    "id": "HideFloat",
+    "label": "隱藏懸浮鈕",
+    "concept": "A",
+    "version": "v3",
+    "status": "approved",
+    "date": "2026-11-05",
+    "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/hide-v3/HideFloat.png",
+    "source_candidate": "brand/ui/illustrated-v1/candidates/HideFloat-A-v3",
+    "approval_record": "brand/approvals/2026-11-05-illustrated-hide-A-v3.md",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      4,
+      10,
+      1244,
+      1213
+    ],
+    "bbox_alpha128": [
+      118,
+      192,
+      1135,
+      1062
+    ],
+    "sha256": "2abf65455003d15cf2ccfea11a98365c1f5f17c0485fc06c409dc3faf9427314"
+  },
+  "scope": "Exact HideFloat PNG visual design only; functional eye symbol, no character faces."
+}

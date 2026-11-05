@@ -31,11 +31,13 @@ if orbit_file.exists():
   s+=f'<div class="card"><div class="name">{effect["label"]}</div><img src="/{effect["composite_preview"]}" style="width:340px;height:340px;object-fit:contain" alt="{effect["label"]}環繞特效"><div class="status" style="color:#55735b">已核准</div></div>'
  s+='</div>'
 new_floatbar=ROOT/'brand/ui/illustrated-v1/approved/batch2-floatbar/manifest.json'
+float_current=ROOT/'brand/ui/illustrated-v1/approved/batch2-floatbar/current-manifest.json'
+if float_current.exists():new_floatbar=float_current
 floatbar_manifest=new_floatbar if new_floatbar.exists() else ROOT/'brand/ui/v0.7-botanical/approved/floatbar-C-v2/manifest.json'
 if floatbar_manifest.exists():
  floatbar=json.loads(floatbar_manifest.read_text())
  if new_floatbar.exists():
-  s+='<h2>04　懸浮列插圖 · 11張新核准＋D金盆（尚缺4項）</h2><p>Feed、ReturnToApp、GameReturn、HideFloat需重畫。未與舊C-v2混搭；以下只列已核准來源，不代表全套已完成替換。</p><div class="grid">'
+  s+='<h2>04　懸浮列插圖 · 12張新核准＋D金盆（尚缺3項）</h2><p>HideFloat已選睜眼＋斜線A；Feed、ReturnToApp、GameReturn仍待改稿核准。未與舊C-v2混搭；以下只列已核准來源，不代表全套已完成替換。</p><div class="grid">'
   icons=[dict(floatbar['existing_approved_reference'],label='拉金盆')]+floatbar['assets']
  else:
   s+='<h2>04　歷史遊戲懸浮功能列 · C-v2</h2><div class="grid">'

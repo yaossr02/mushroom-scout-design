@@ -31,3 +31,5 @@
 - 2026-11-05 問卷部分核准：懸浮列11張、地圖其他圓鈕4張，固定清單 `brand/ui/illustrated-v1/approved/batch2-floatbar/manifest.json` 與 `approved/batch3-map/manifest.json`。Feed、ReturnToApp、GameReturn、HideFloat、Collapse/Expand、Layers需重畫，不得視為核准；不得混舊C-v2湊成新定稿。地圖32dp插圖，懸浮列24/28dp，皆40dp暖白圓。操作符號本次選無葉A。
 
 - 2026-11-05 地圖七項已補齊：最新 `brand/ui/illustrated-v1/approved/batch3-map/current-manifest.json`；收合/展開選B綠色雙尖括號、圖層B剖面地塊。四個懸浮待重畫：餵食動作、蘑菇程式、遊戲圖示、功能性隱藏眼睛；功能眼睛是使用者明確要求，並非擬人化角色五官。
+
+- 2026-11-05 HideFloat已核准A v3睜眼＋斜線；浮列最新清單 `brand/ui/illustrated-v1/approved/batch2-floatbar/current-manifest.json`（12張＋D金盆，尚缺Feed/ReturnToApp/GameReturn）。三項最新方向：循環自動＋咬一口蘋果；ReturnToApp用B主體配A黃返回箭頭；GameReturn同款把蘑菇換手把。新改稿仍待核准。
