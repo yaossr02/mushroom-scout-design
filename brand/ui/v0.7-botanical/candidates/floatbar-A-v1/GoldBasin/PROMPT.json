@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "GoldBasin",
+  "status": "candidate",
+  "prompt": "ONE original mobile overlay icon in direction A: VERY CHUNKY two-tone Ink#2E3A2F line with exactly ONE Coral#F36C63 accent; transparent negative-space interiors, no cream fills. Strict FLAT SOLID colors, no gradient/shadow/highlight/texture.1254x1254 RGBA with8%safe border. No letters,text,face,hands,limbs. CRITICAL shape-specific correction. Create a ROUND BULBOUS PLANTER outline, with a wide EMPTY TRANSPARENT belly, rounded shoulders taper inward to smaller oval opening. A thick Ink oval rim, one simple soil horizon stroke in opening, and ONE VERY LARGE recognizable upright leaf in Ink, no leaf vein. NO filled black belly, NO cream body, NO tiny details. Detached CORAL DOWNWARD ARROW on right, shaft a massive220px wide, arrowhead340px across, gap100px to pot. Whole plant/pot on left700px wide, arrow right250px, totalwidth1054px. Mainbody outline a uniform140px, do not fill interior. Preserve approved v6 round planter silhouette; reference sets object only, not rendering.",
+  "reference": [
+    "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png"
+  ],
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-9b0b0040-8fb8-4ab7-a9d1-fd4a13c283b8.png",
+  "revision_reason": "Restore semantic silhouette or remove unrequested enclosure; first attempt retained"
+}

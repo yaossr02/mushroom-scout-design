@@ -8,4 +8,4 @@
 - [地圖主要5項](approved/current-manifest.json)。
 - [地圖其他7項](approved/batch3-map/current-manifest.json) · [32dp檢閱](approved/batch3-map/current-preview.html)。
 
-全套1254×1254透明RGBA，逐檔SHA-256固定。40dp暖白圓：地圖32dp插圖、懸浮列24／28dp插圖。16dp小操作不在此插圖系列。原始輸出、prompt、附圖來源及metadata保留在各核准目錄。舊partial manifest是歷史，不是現行來源；未選候選保留本機，未隨正式包推送。
+全套1254×1254透明RGBA，逐檔SHA-256固定。40dp暖白圓：地圖32dp插圖、懸浮列24／28dp插圖。16dp小操作不在此插圖系列。原始輸出、prompt、附圖來源及metadata保留在各核准目錄。舊partial manifest是歷史，不是現行來源；依使用者2026-11-05「全部推送」指示，未選候選與各輪歷史也已放入repo，見 [歷史入口](../HISTORY.md)；上傳不代表核准，正式來源仍是active-sets.json。

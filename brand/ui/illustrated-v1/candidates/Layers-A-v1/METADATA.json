@@ -1,0 +1,80 @@
+{
+  "batch": "map",
+  "id": "Layers",
+  "label": "圖層",
+  "concept": "A",
+  "status": "candidate",
+  "directory": "candidates/Layers-A-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Records.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Layers-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      9,
+      1238,
+      1254
+    ],
+    "bbox_alpha128": [
+      189,
+      125,
+      1069,
+      1180
+    ],
+    "sha256": "d1cbede2252bde2c0c44195b09ea7e8e2a052aa73f1fc60a0f80ebdd35c7dbc3"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Layers-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1236,
+      1228
+    ],
+    "bbox_alpha128": [
+      188,
+      100,
+      1067,
+      1154
+    ],
+    "sha256": "82e443ee3cb51cc3b017180d6287f967fc4f9212ebbb49cfe432a8d4b81a8903"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 0.9990521327014218,
+      "offset_px": [
+        -1,
+        -25
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Layers-A-v1/generation.json"
+}

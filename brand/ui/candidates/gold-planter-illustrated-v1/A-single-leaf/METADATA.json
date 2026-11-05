@@ -1,0 +1,59 @@
+{
+  "id": "A-single-leaf",
+  "status": "candidate",
+  "original": {
+    "path": "A-single-leaf/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      23,
+      1251,
+      1230
+    ],
+    "bbox_alpha128": [
+      109,
+      143,
+      1133,
+      1140
+    ],
+    "sha256": "9a5ffc489c8d91cde8f791fdfe634b1876f650511f9bb9befe1f933f3af19b6a"
+  },
+  "final": {
+    "path": "A-single-leaf/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      23,
+      1251,
+      1230
+    ],
+    "bbox_alpha128": [
+      109,
+      143,
+      1133,
+      1140
+    ],
+    "sha256": "75911c72b4a8d8e08d577ec0fb7ac7403f6e2fd92a543f4e94a10498a03ce3c6"
+  },
+  "mechanical_operations": [],
+  "limitations": [
+    "Soft shaded illustration; visual selection pending.",
+    "Model alpha edges retained, including faint edge pixels. No shape correction or outline added."
+  ]
+}

@@ -1,0 +1,9 @@
+A single game-item icon illustration of {SUBJECT}, rendered in EXACTLY the same art style as the two attached reference images (the golden flower pot and the red mushroom): soft matte clay-like 3D look, smooth rounded volumes, gentle top-left key light, soft painted shading, faint soft highlight, clean crisp silhouette with NO outline stroke, no texture noise.
+
+Palette: warm honey-gold (#F5C55A), sage green leaves like the references, warm browns, cream (#FFF1DB), and coral red (#F36C63) as the single accent color. Friendly and warm. Not shiny metal, not plastic, no glare.
+
+Must read clearly as a simple silhouette at very small size (80 px): one main object, at most one or two supporting details, big simple shapes, strong value contrast between parts. Avoid thin details and small text-like marks.
+
+Composition: centered, object fills about 84% of the canvas, about 8% safe margin, transparent background, no ground plane, no scene, no frame, no circle background; only a very faint contact shadow is allowed.
+
+Do NOT add: faces, eyes, mouth, hands, arms, characters, text, letters, numbers, sparkles, glitter, metallic reflections, thick black outlines, sticker borders, flat vector style, line-art style, emoji style.

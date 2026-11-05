@@ -1,0 +1,136 @@
+{
+  "id": "Ticket",
+  "status": "candidate",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    100,
+    240,
+    1154,
+    1013
+  ],
+  "body_bbox_alpha128": [
+    100,
+    240,
+    1154,
+    1013
+  ],
+  "sha256": "5a340606f0621c12aabb0914303e4579e5bcf69bfc14305817a1e6deceee4317",
+  "original_sha256": "fbf34f7d214ad527b1ff40c9bfe406b4e5457b8b8ae108a184ce1a4e2552b185",
+  "solid_palette_rgb": [
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ],
+    [
+      255,
+      241,
+      219
+    ]
+  ],
+  "normalization": "nearest exact palette; alpha>=128; remove speckles; restore dark interior extraction holes in B/C where criteria match; fit longest bound1054px (8% margin); no hand-drawn geometry",
+  "user_authorized_python_cleanup": true,
+  "uniform_edge_weight_cleanup": [
+    {
+      "ink_uniform_edge_offset_px": 35,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    },
+    {
+      "ink_uniform_edge_offset_px": 19,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    },
+    {
+      "ink_uniform_edge_offset_px": 12,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    },
+    {
+      "ink_uniform_edge_offset_px": 7,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    }
+  ],
+  "shape_preservation_note": null,
+  "style": "B",
+  "label": "抽獎",
+  "occupied_canvas_fraction": 0.4827,
+  "ink_ridge_width_dp20_estimate": {
+    "p10": 1.876,
+    "p50": 1.883,
+    "p90": 3.126
+  },
+  "ink_ridge_width_dp24_estimate": {
+    "p10": 2.251,
+    "p50": 2.26,
+    "p90": 3.751
+  },
+  "accent_components": [
+    {
+      "area_source_px": 90699,
+      "bbox_source_px": [
+        422,
+        434,
+        834,
+        811
+      ],
+      "bbox_min_edge_dp20": 6.013
+    }
+  ],
+  "outer_ink_fraction": 1.0,
+  "gold_basin_arrow_shaft_dp20_estimate": null,
+  "color_contrast": [
+    {
+      "rgb": [
+        255,
+        241,
+        219
+      ],
+      "contrast_on_warm_white": 1.087,
+      "role": "internal_cream"
+    },
+    {
+      "rgb": [
+        46,
+        58,
+        47
+      ],
+      "contrast_on_warm_white": 11.636,
+      "role": "main"
+    },
+    {
+      "rgb": [
+        243,
+        108,
+        99
+      ],
+      "contrast_on_warm_white": 2.874,
+      "role": "accent_exception_accepted"
+    }
+  ],
+  "qc_flags": [],
+  "min_line_width_compliance": "requires_shape_specific_review; ridge quantiles are diagnostic, not certified minima",
+  "preview_notes": "80px=20dp@xxxhdpi;96px=24dp@xxxhdpi. Antialiased derived previews may contain blend colors; source icon.png has <=3 solid colors."
+}

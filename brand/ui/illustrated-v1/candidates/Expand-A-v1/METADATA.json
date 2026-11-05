@@ -1,0 +1,77 @@
+{
+  "batch": "map",
+  "id": "Expand",
+  "label": "展開",
+  "concept": "A",
+  "status": "candidate",
+  "directory": "candidates/Expand-A-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen source + authorized mechanical vertical flip",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Expand-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      20,
+      1238,
+      1254
+    ],
+    "bbox_alpha128": [
+      201,
+      123,
+      1039,
+      1158
+    ],
+    "sha256": "c6404807e9fffbe22e618e706fdb73989aadce01f7b51a187600ce3fd464fe2b"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Expand-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      7,
+      14,
+      1245,
+      1248
+    ],
+    "bbox_alpha128": [
+      208,
+      110,
+      1046,
+      1145
+    ],
+    "sha256": "ac0d860c082ad0e36bfede7efab1a020f5df4813f070018b4889c4be062146f0"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Exact FLIP_TOP_BOTTOM of finalized Collapse RGBA",
+      "authorization": "使用者允許機械翻轉，確保完全一致；2026-11-05"
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Expand-A-v1/generation.json",
+  "derived_from": "brand/ui/illustrated-v1/candidates/Collapse-A-v1/icon.png"
+}

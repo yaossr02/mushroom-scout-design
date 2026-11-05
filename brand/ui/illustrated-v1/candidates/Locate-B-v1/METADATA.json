@@ -1,0 +1,80 @@
+{
+  "batch": "map",
+  "id": "Locate",
+  "label": "目前位置",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/Locate-B-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Scan.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Locate-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      39,
+      1241,
+      1254
+    ],
+    "bbox_alpha128": [
+      166,
+      57,
+      1054,
+      1195
+    ],
+    "sha256": "902644becc30387547001afeefc5fd0d93441f34dfd262c9653b4c740aa3d9bb"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Locate-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      62,
+      83,
+      1211,
+      1208
+    ],
+    "bbox_alpha128": [
+      216,
+      100,
+      1038,
+      1153
+    ],
+    "sha256": "aa8298a08157a4afb523f1f899a105c0885fddb995da48943c04e733e123fc59"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 0.9261862917398945,
+      "offset_px": [
+        62,
+        47
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Locate-B-v1/generation.json"
+}

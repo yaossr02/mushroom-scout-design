@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "batch": "floatbar",
+  "id": "Feed",
+  "label": "自動餵果",
+  "concept": "A",
+  "status": "candidate",
+  "directory": "candidates/Feed-A-v3",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Feed-A-v3/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      21,
+      1240,
+      1254
+    ],
+    "bbox_alpha128": [
+      190,
+      95,
+      1140,
+      1192
+    ],
+    "sha256": "b624e8a6ebac9a11b2db6a525bdf76ffc6404b86a623f5677b37d8679576b3d4"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Feed-A-v3/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      2,
+      29,
+      1180,
+      1214
+    ],
+    "bbox_alpha128": [
+      171,
+      101,
+      1083,
+      1154
+    ],
+    "sha256": "0a0edf301dc90ed6fea163541d08f16251f8879d45faf805030233722cd0173a"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform scale/transparent canvas translation only",
+      "scale": 0.9608021877848678,
+      "offset_px": [
+        -12,
+        9
+      ]
+    }
+  ]
+}

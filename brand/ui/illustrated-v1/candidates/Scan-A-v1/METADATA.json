@@ -1,0 +1,81 @@
+{
+  "id": "Scan",
+  "concept": "A",
+  "label": "掃描找蘑菇",
+  "title": "放大鏡紅菇",
+  "subject": "a single large chunky sage-green-handled magnifying glass with a warm honey-gold matte ring held diagonally over a small coral-red mushroom. The mushroom is clearly visible through the opening with its cream stem and few broad spots, lens stays clear with no shine or glare. One dominant magnifier and one small mushroom, no hands, no glass reflection",
+  "directory": "candidates/Scan-A-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Scan-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      22,
+      1236,
+      1230
+    ],
+    "bbox_alpha128": [
+      117,
+      101,
+      1125,
+      1199
+    ],
+    "sha256": "747785c6eb27da83d49d121911a696980f695df9fcdd6f523e5c5b34997025f0"
+  },
+  "final": {
+    "path": "candidates/Scan-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      31,
+      24,
+      1218,
+      1184
+    ],
+    "bbox_alpha128": [
+      143,
+      100,
+      1111,
+      1154
+    ],
+    "sha256": "330305068cbb1292dc04c5d350d5d010af828d4d60c6d3d4d0ad666e608628c9"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 0.9599271402550091,
+      "offset_px": [
+        31,
+        3
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "SkipBack",
+    "concept": "A",
+    "parts": [
+      {
+        "bbox": [
+          85,
+          356,
+          263,
+          980
+        ],
+        "centroid_x_fraction": 0.501,
+        "area": 104561
+      },
+      {
+        "bbox": [
+          296,
+          399,
+          708,
+          949
+        ],
+        "centroid_x_fraction": 0.608,
+        "area": 153124
+      },
+      {
+        "bbox": [
+          756,
+          396,
+          1185,
+          950
+        ],
+        "centroid_x_fraction": 0.611,
+        "area": 158479
+      }
+    ],
+    "hole_pixels": 0
+  },
+  {
+    "id": "SkipBack",
+    "concept": "B",
+    "parts": [
+      {
+        "bbox": [
+          102,
+          310,
+          346,
+          1018
+        ],
+        "centroid_x_fraction": 0.505,
+        "area": 115430
+      },
+      {
+        "bbox": [
+          340,
+          374,
+          738,
+          930
+        ],
+        "centroid_x_fraction": 0.616,
+        "area": 144021
+      },
+      {
+        "bbox": [
+          753,
+          374,
+          1146,
+          930
+        ],
+        "centroid_x_fraction": 0.618,
+        "area": 143695
+      }
+    ],
+    "hole_pixels": 0
+  },
+  {
+    "id": "SkipForward",
+    "concept": "A",
+    "parts": [
+      {
+        "bbox": [
+          82,
+          386,
+          491,
+          919
+        ],
+        "centroid_x_fraction": 0.39,
+        "area": 146816
+      },
+      {
+        "bbox": [
+          513,
+          386,
+          923,
+          918
+        ],
+        "centroid_x_fraction": 0.391,
+        "area": 146772
+      },
+      {
+        "bbox": [
+          966,
+          362,
+          1147,
+          937
+        ],
+        "centroid_x_fraction": 0.502,
+        "area": 96915
+      }
+    ],
+    "hole_pixels": 0
+  },
+  {
+    "id": "SkipForward",
+    "concept": "B",
+    "parts": [
+      {
+        "bbox": [
+          99,
+          374,
+          495,
+          909
+        ],
+        "centroid_x_fraction": 0.382,
+        "area": 138667
+      },
+      {
+        "bbox": [
+          517,
+          374,
+          914,
+          909
+        ],
+        "centroid_x_fraction": 0.382,
+        "area": 138911
+      },
+      {
+        "bbox": [
+          914,
+          325,
+          1167,
+          988
+        ],
+        "centroid_x_fraction": 0.492,
+        "area": 113647
+      }
+    ],
+    "hole_pixels": 0
+  },
+  {
+    "id": "Stop",
+    "concept": "A",
+    "parts": [
+      {
+        "bbox": [
+          122,
+          129,
+          1124,
+          1149
+        ],
+        "centroid_x_fraction": 0.5,
+        "area": 979361
+      }
+    ],
+    "hole_pixels": 0
+  },
+  {
+    "id": "Stop",
+    "concept": "B",
+    "parts": [
+      {
+        "bbox": [
+          118,
+          152,
+          1084,
+          1124
+        ],
+        "centroid_x_fraction": 0.515,
+        "area": 867797
+      }
+    ],
+    "hole_pixels": 0
+  }
+]

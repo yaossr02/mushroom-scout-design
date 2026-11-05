@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "Stop",
+  "status": "candidate",
+  "prompt": "Create ONE independent original mobile OVERLAY ICON, NOT a sprite or contact sheet. Optimized for 20dp and24dp inside a40dp #FFFCF6 circle over saturated green grass, flowers and mushroom game noise. Canvas EXACTLY1254x1254 RGBA with a fully TRANSPARENT background. Visible meaningful shape fits x/y100..1154 (8% safety padding), centered in an84%-width optical square. Strict FLAT SOLID spot colors, no gradient, no shading, no highlight, no shadow, no texture, no antialiased color texture, no gloss or3D. At20dp source scale62.7px/dp: ALL stroke/bridge/detail widths>=180 source px (target2.87dp, never below1.75dp), ALL accent patches both dimensions>=200px (3.19dp); arrow shaft forGoldBasin>=190px. Use few BIG readable parts, EXTREMELY chunky strokes, closer to marker slabs than thin outlines; NO fussy fine details. Consistent family: strong silhouette, round caps, rounded joins, friendly but forceful geometric proportions, similar visual area across set. No letters, text, emoji, numerals, face, anthropomorphic character, hands or limbs. No enclosing background badge unless the semantic is itself App/FloatMenu. Every visible color region must be flat; transparent negative spaces intentional. DIRECTION B SOLID CUTOUT SILHOUETTE. Dominant Ink #2E3A2F solid BIG filled masses, internal detail via wide Cream #FFF1DB negative-space cutout strokes (>=110px). ONE big Coral #F36C63 accent patch inset into/outlined by Ink, >=200x200px. At most3 colors: Ink,Cream,Coral. No hollow thin perimeter illustration. Compact recognizable blocks. Cream is interior detail, never an exposed low-contrast main silhouette. Personality from few generous cutouts.\nSEMANTIC: Stop / 停止. SHAPE: ONE chunky rounded square STOP shape with exactly one large offset accent corner. Not a tiny square in an enclosing frame.\nThe attached style master, if provided, controls this family's weight, corners, scale and rhythm; do not reproduce its four-square geometry unless this semantic is FloatMenu.",
+  "reference": [
+    "brand/ui/v0.7-botanical/candidates/floatbar-B-v1/FloatMenu/icon.png"
+  ],
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-b8a9e57c-2bd2-45b6-a525-1a62dd0b2dee.png",
+  "palette_exception": "Brand Coral retained with Ink boundary by explicit user choice; pure coral contrast2.874:1 is below3:1.",
+  "postprocess_authorization": "User explicitly permitted Python palette/alpha/canvas normalization; generated original retained."
+}

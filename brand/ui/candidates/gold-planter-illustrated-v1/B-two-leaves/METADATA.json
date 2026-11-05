@@ -1,0 +1,59 @@
+{
+  "id": "B-two-leaves",
+  "status": "candidate",
+  "original": {
+    "path": "B-two-leaves/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1226,
+      1254
+    ],
+    "bbox_alpha128": [
+      125,
+      173,
+      1141,
+      1131
+    ],
+    "sha256": "b7b2256520eaf82d534d649f845254c1bbc7e54e550d3a511eeceda02bf6385f"
+  },
+  "final": {
+    "path": "B-two-leaves/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1226,
+      1254
+    ],
+    "bbox_alpha128": [
+      125,
+      173,
+      1141,
+      1131
+    ],
+    "sha256": "a3e0b92d64fa9bb7dc50eca20039566ee968e2f2b17ce64db87962d683776af3"
+  },
+  "mechanical_operations": [],
+  "limitations": [
+    "Soft shaded illustration; visual selection pending.",
+    "Model alpha edges retained, including faint edge pixels. No shape correction or outline added."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "Dispatch",
+  "label": "自動派遣",
+  "concept": "A",
+  "status": "candidate",
+  "directory": "candidates/Dispatch-A-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Auto.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Dispatch-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      19,
+      1230,
+      1214
+    ],
+    "bbox_alpha128": [
+      80,
+      318,
+      1179,
+      967
+    ],
+    "sha256": "42cf0afd0d38b5a799812d4190e6958a790a641118f3a79e64f1bb775833fee1"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Dispatch-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      23,
+      29,
+      1203,
+      1176
+    ],
+    "bbox_alpha128": [
+      99,
+      316,
+      1154,
+      939
+    ],
+    "sha256": "85a011dc1bef36552209edd8cdd2be4abf296093e2fa4657c57a05bec500b3df"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 0.9590536851683349,
+      "offset_px": [
+        23,
+        11
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Dispatch-A-v1/generation.json"
+}

@@ -26,7 +26,7 @@
 
 ## 來源與核准
 
-每張原始模型輸出、完整實際prompt、引用附圖、日期及metadata保存於各核准批次的provenance；candidate字樣是生成歷史，現行核准以active-sets與對應approval_record為準。未選候選沒有隨正式包推送。新功能延伸須另行核准；使用者已授權核准後自動推送設計repo。
+每張原始模型輸出、完整實際prompt、引用附圖、日期及metadata保存於各核准批次的provenance；candidate字樣是生成歷史，現行核准以active-sets與對應approval_record為準。依使用者2026-11-05「全部推送」指示，repo亦包含未選候選與歷史檢閱，不能因為檔案存在就匯入；正式28項仍只按active-sets.json取圖。新功能延伸須另行核准；使用者已授權核准後自動推送設計repo。
 
 | ID | 核准來源（repo root相對路徑） | 用途 |
 |---|---|---|

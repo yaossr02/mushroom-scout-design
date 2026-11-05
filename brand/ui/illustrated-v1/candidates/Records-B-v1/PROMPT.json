@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "id": "Records",
+  "concept": "B",
+  "label": "蘑菇紀錄",
+  "title": "蘑菇收藏盒",
+  "status": "candidate",
+  "prompt": "A single game-item icon illustration of a small open rounded warm-brown wooden collecting box containing two small mushrooms, one slightly taller coral-red mushroom and a smaller honey-gold mushroom, both with cream stems and simple broad caps. One tiny sage-green leaf tucked against the box. Simplify the box to a single chunky tray, no lid, no woodgrain, no faces, rendered in EXACTLY the same art style as the two attached reference images (the golden flower pot and the red mushroom): soft matte clay-like 3D look, smooth rounded volumes, gentle top-left key light, soft painted shading, faint soft highlight, clean crisp silhouette with NO outline stroke, no texture noise.\n\nPalette: warm honey-gold (#F5C55A), sage green leaves like the references, warm browns, cream (#FFF1DB), and coral red (#F36C63) as the single accent color. Friendly and warm. Not shiny metal, not plastic, no glare.\n\nMust read clearly as a simple silhouette at very small size (80 px): one main object, at most one or two supporting details, big simple shapes, strong value contrast between parts. Avoid thin details and small text-like marks.\n\nComposition: centered, object fills about 84% of the canvas, about 8% safe margin, transparent background, no ground plane, no scene, no frame, no circle background; only a very faint contact shadow is allowed.\n\nDo NOT add: faces, eyes, mouth, hands, arms, characters, text, letters, numbers, sparkles, glitter, metallic reflections, thick black outlines, sticker borders, flat vector style, line-art style, emoji style.\n\n\nReference use: first attached image is the approved golden planter D and second is the approved red mushroom. Match their material and rendering, but draw ONLY the described subject; do not add the reference planter, arrows or mushroom unless explicitly part of this subject. Output ONE isolated icon, not a sheet, not a comparison. Requested canvas 1254x1254 transparent RGBA.\n\nCRITICAL SILHOUETTE: the collecting box must be a low RECTANGULAR wooden box/tray with four softly rounded CORNERS, visible straight horizontal front edge and flat front and side walls. NOT a bowl, NOT a basket, NOT a flower pot, NOT a circular planter. Draw only two mushrooms nested inside this rectangular container. Show three-quarter top view, retain enough straight edges to clearly distinguish the box from the Auto planter even at 80px. Reference planter is MATERIAL ONLY, not the container shape.",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "transparent_background": true,
+  "requested_dimensions_px": [
+    1254,
+    1254
+  ],
+  "revision_reason": "First generation used a round bowl silhouette; regenerate as the requested wooden box to distinguish from Auto."
+}

@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-05",
+  "status": "candidate",
+  "assets": [
+    {
+      "batch": "floatbar",
+      "id": "Feed",
+      "label": "自動餵果",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/Feed-A-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "prompt": "A single game-item icon illustration of one open honey-gold fruit half shaped as a soft rounded bowl of flesh with a pale cream cut face and one big coral-red nectar droplet hovering just above the cut face, one short sage leaf on its side. Read as nourishment being offered, not a whole red apple, not a basket. The fruit half and one droplet are the only main forms. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "floatbar",
+      "id": "Feed",
+      "label": "自動餵果",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/Feed-B-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "prompt": "A single game-item icon illustration of one small plump cream nectar feeding bottle with a short honey-gold pouring spout, a sage-green leaf stopper folded back, and one big coral-red nectar droplet at the spout. No label or text, no bottle markings, no basket or whole fruit. A broad simple game-item flask, matte not glass. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "floatbar",
+      "id": "ReturnToApp",
+      "label": "回到App",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/ReturnToApp-A-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Records.png"
+      ],
+      "prompt": "A single game-item icon illustration of one small CLOSED warm-brown field-guide book viewed slightly in three-quarter, with a single large coral-red mushroom-shaped relief on its cream cover and one separate thick honey-gold bent RETURN arrow beside the book pointing LEFT. The book is closed, not the existing open Records book, not a mushroom standing by itself or a cottage. No title or writing. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "floatbar",
+      "id": "ReturnToApp",
+      "label": "回到App",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/ReturnToApp-B-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Records.png"
+      ],
+      "prompt": "A single game-item icon illustration of one chunky closed cream field-guide satchel shaped like a rounded book sleeve, with a broad sage-green leaf flap and one small coral-red mushroom wax stamp, plus one thick honey-gold leftward RETURN arrow emerging beside it. No house or standalone mushroom, no letters, no straps or tiny clasps, only a simple recognizable book case. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "floatbar",
+      "id": "GameReturn",
+      "label": "回到遊戲",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/GameReturn-A-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Scan.png"
+      ],
+      "prompt": "A single game-item icon illustration of one small rounded floating sage-green grass tile with one broad honey-gold path across its top and one chunky coral-red FORWARD arrow lying along the path and pointing RIGHT. No door, no arch, no planter, no mushroom, no separate sprout. A simple game-world pathway item with a short thick warm-brown soil base. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "floatbar",
+      "id": "GameReturn",
+      "label": "回到遊戲",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/GameReturn-B-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Scan.png"
+      ],
+      "prompt": "A single game-item icon illustration of one pair of broad sage-green leaf panels opened asymmetrically like a tiny garden entrance, revealing a short honey-gold path that exits to the RIGHT with a clear coral-red rightward arrowhead on its end. No wooden posts or arch, no house, no pot, no character; keep only two thick leaf panels and one path. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "floatbar",
+      "id": "HideFloat",
+      "label": "隱藏懸浮鈕",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/HideFloat-A-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Tasks.png"
+      ],
+      "prompt": "A single game-item icon illustration of one small soft sage-green leaf pouch almost drawn closed at the top, with just the upper edge of a honey-gold round token disappearing inside it. One short thick warm-brown drawstring knot. Not a leaf laid across a button; the enclosing pouch is the main silhouette. No eyes, arms, text or tiny stitching. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "floatbar",
+      "id": "HideFloat",
+      "label": "隱藏懸浮鈕",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/HideFloat-B-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Tasks.png"
+      ],
+      "prompt": "A single game-item icon illustration of one small thick rounded warm-brown sliding hatch with a sage-green leaf handle, partly closing over a shallow dark-brown recess and hiding all but a tiny edge of one coral-red seed. No plant sinking into soil, no arrow, no pot. One chunky cover plate moving over one opening, no hinges or complex mechanism. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "map",
+      "id": "Collapse",
+      "label": "收合",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/Collapse-A-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "prompt": "A single game-item icon illustration of one standard UP chevron made as a single thick honey-gold bent clay bar, rounded ends and rounded apex, apex at TOP and the two ends angled down-left and down-right. A simple broad inverted V control shape, no shaft, no leaf, no fruit, no decoration. Straight front view, no perspective tilt. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "map",
+      "id": "Collapse",
+      "label": "收合",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/Collapse-B-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "prompt": "A single game-item icon illustration of exactly TWO thick sage-green UP chevrons stacked vertically with a clearly open transparent gap, both apexes point TOP, rounded ends and broad strokes. Standard double-up control shape, no shaft, no leaf decoration, no curled leaf, no other objects. Straight front view. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "map",
+      "id": "Layers",
+      "label": "圖層",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/Layers-A-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Records.png"
+      ],
+      "prompt": "A single game-item icon illustration of exactly THREE small chunky rounded-square floating terrain slabs stacked in parallel with clearly visible transparent gaps: top slab sage-green grass, middle honey-gold earth, bottom warm-brown earth, same footprint with broad visible thickness. One tiny coral-red map pin on the top slab. Not leaves, not paper sheets, no maps printed on them, no detailed texture. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    },
+    {
+      "batch": "map",
+      "id": "Layers",
+      "label": "圖層",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/Layers-B-v2",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Records.png"
+      ],
+      "prompt": "A single game-item icon illustration of one small rounded cutaway chunk of game-world terrain seen in three-quarter, showing exactly THREE broad clean horizontal strata through the front face: sage-green grassy top, pale cream middle and warm-brown bottom. One short coral-red location peg on top. No leaves stacked or paper maps, no glass, no detailed rocks; read as three distinct layers of one terrain item. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+      "transparent_background": true
+    }
+  ],
+  "derived_ids": [
+    "Expand-A-v2",
+    "Expand-B-v2"
+  ],
+  "flip_authorization": "User explicitly authorized exact mechanical vertical flip for Collapse/Expand on 2026-11-05; same pair continued in v2.",
+  "base_decisions": "review/batch2-batch3-v1/QUESTIONNAIRE-DECISIONS.json"
+}

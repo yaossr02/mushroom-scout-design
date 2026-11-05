@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "FloatMenu",
+  "status": "candidate",
+  "prompt": "Create ONE independent mobile overlay icon, FloatMenu (main floating menu): four large rounded square blocks arranged in a compact 2-by-2 grid. Direction A BOLD TWO-TONE LINE style: Ink #2E3A2F VERY THICK smooth rounded outlines; interiors TRANSPARENT except the upper right block is ONE solid LeafFill #6E8F5E accent. Exactly TWO solid colors plus transparent background. Distinctively friendly squat rounded geometry, bold at 20dp; no decorative tiny details, not thin botanical illustration. Strictly flat solid colors, no gradients, no shadows, no highlights, no texture, no cream body. Canvas EXACTLY 1254x1254 RGBA transparent PNG; visible bounds from x/y=100 to1154 (~8% safe margins), consistent square optical size. Minimum stroke width 120 source pixels (1.91dp when scaled to20dp); accent solid block at least240 pixels wide; rounded corners radius90px. Transparent central gaps at least110px. No letters, no text, no badge/tile/background, no face, no hand, no person. One centered icon only, no contact sheet.",
+  "reference": [],
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-9e475532-d960-4b86-8161-59f0b122caa4.png"
+}

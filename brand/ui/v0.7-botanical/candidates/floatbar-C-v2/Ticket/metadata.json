@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-04",
+  "id": "Ticket",
+  "label": "抽獎",
+  "status": "approved",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "bbox": [
+    100,
+    271,
+    1154,
+    982
+  ],
+  "sha256": "d72a1687f6cb6c781d9afcb654e78cb0a8bb8d635fc83e5d1a5ecab6bf885d0d",
+  "palette_rgb": [
+    [
+      255,
+      241,
+      219
+    ],
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "ink_width_p10_dp20_estimate": 0.478,
+  "ink_width_p10_dp24_estimate": 0.574,
+  "accent_min_bbox_edge_dp20": 2.759,
+  "coral_component_count": 1,
+  "qc_flags": [
+    "ink_width_p10_estimate_below_1.75dp",
+    "accent_bbox_min_edge_below_3dp"
+  ],
+  "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+  "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+  "reused_unchanged": false,
+  "original_sha256": "1f5239867941fe471defd1789af36efda6aa95e24fba5313ca6effb058f78e93",
+  "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+  "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Ticket.png"
+}

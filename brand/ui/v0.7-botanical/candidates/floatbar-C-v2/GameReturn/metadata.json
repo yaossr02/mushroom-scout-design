@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-04",
+  "id": "GameReturn",
+  "label": "回到遊戲",
+  "status": "approved",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "bbox": [
+    100,
+    257,
+    1154,
+    996
+  ],
+  "sha256": "e9dbbb22bbff1aca6cbff0be474babb3755a62f39da779bf47c7b95e79d33acd",
+  "palette_rgb": [
+    [
+      255,
+      241,
+      219
+    ],
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "ink_width_p10_dp20_estimate": 0.478,
+  "ink_width_p10_dp24_estimate": 0.574,
+  "accent_min_bbox_edge_dp20": 4.147,
+  "coral_component_count": 1,
+  "qc_flags": [
+    "ink_width_p10_estimate_below_1.75dp"
+  ],
+  "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+  "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+  "reused_unchanged": false,
+  "original_sha256": "76789445c9208919d77707b849e6ae8c008f9a0816ebbb6a1fa432a72f168d42",
+  "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+  "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/GameReturn.png"
+}

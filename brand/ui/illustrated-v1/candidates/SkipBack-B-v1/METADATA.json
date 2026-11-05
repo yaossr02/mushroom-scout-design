@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "SkipBack",
+  "label": "上一株",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/SkipBack-B-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Auto.png"
+  ],
+  "kind": "operation",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/SkipBack-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      39,
+      35,
+      1243,
+      1226
+    ],
+    "bbox_alpha128": [
+      102,
+      310,
+      1146,
+      1018
+    ],
+    "sha256": "3194c9c0c5a617869e26e471cbec5481e7e35ff2114b18dcd3c1edb8b436973c"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/SkipBack-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      42,
+      0,
+      1246,
+      1189
+    ],
+    "bbox_alpha128": [
+      105,
+      273,
+      1149,
+      981
+    ],
+    "sha256": "7893252423d5738543da02cf7e4c82b060c6d9175cf7d491ca788670a443c5a4"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 1.0,
+      "offset_px": [
+        3,
+        -37
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/SkipBack-B-v1/generation.json"
+}

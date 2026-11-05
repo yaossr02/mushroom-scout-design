@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "Close",
+  "label": "關閉",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/Close-B-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "kind": "operation",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Close-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      20,
+      1238,
+      1254
+    ],
+    "bbox_alpha128": [
+      148,
+      194,
+      1116,
+      1074
+    ],
+    "sha256": "4754aab400a22795c1295228242b2ebf3b84d3a91b3989a0034ec65a2dbfc16e"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Close-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      36,
+      13,
+      1233,
+      1247
+    ],
+    "bbox_alpha128": [
+      143,
+      187,
+      1111,
+      1067
+    ],
+    "sha256": "265dd74246d3102cc94e3522f1324dd98ed95b4ae91430ac4c017d24b5aa1653"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 1.0,
+      "offset_px": [
+        -5,
+        -7
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Close-B-v1/generation.json"
+}

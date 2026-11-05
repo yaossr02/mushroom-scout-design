@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "HideFloat",
+  "label": "隱藏懸浮鈕",
+  "concept": "A",
+  "status": "candidate",
+  "directory": "candidates/HideFloat-A-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/HideFloat-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      21,
+      1238,
+      1254
+    ],
+    "bbox_alpha128": [
+      176,
+      146,
+      1102,
+      1113
+    ],
+    "sha256": "a21e971e5b3bc0a07854d73dcadc72a34ae6b137d3a2bfba01ccfb2b5295f4be"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/HideFloat-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      19,
+      1226,
+      1252
+    ],
+    "bbox_alpha128": [
+      164,
+      144,
+      1090,
+      1111
+    ],
+    "sha256": "ed07484833c94d1a9710ad03dcbd698b87fc9ae4b272fb0615a5837448754ff2"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 1.0,
+      "offset_px": [
+        -12,
+        -2
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/HideFloat-A-v1/generation.json"
+}

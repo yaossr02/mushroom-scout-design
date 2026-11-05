@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-05",
+  "status": "candidate",
+  "assets": [
+    {
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "id": "Feed",
+      "label": "自動餵果",
+      "concept": "A",
+      "version": "v4",
+      "status": "candidate",
+      "tool": "image_gen",
+      "directory": "candidates/Feed-A-v4",
+      "prompt": "Use the same approved illustrated-v1 rendering: soft matte clay-like 3D, smooth rounded volumes, gently painted shading, soft top-left light, no outlines or texture noise, no metallic shine or plastic glare. Palette warm honey-gold #F5C55A, sage green, cream #FFF1DB, warm brown and coral red #F36C63. Square transparent RGBA, requested1254x1254, centered with about8% safe margin; no scene, background circle, ground plane or cast shadow. No faces, eyes, mouths, hands, arms, characters, text, letters, numbers, sparkles, glitter, thick outlines, sticker border, flat vector or line art. Only ONE icon. Create AUTO FEED as one plump coral-red APPLE WITH A BIG BITE TAKEN OUT of its UPPER-RIGHT side, with one sage-green leaf and a short brown stem. The bite is unmistakable in the outer silhouette: a missing chunk with three big rounded tooth scallops and a broad exposed pale-cream flesh edge. A clearly separate THICK honey-gold CIRCULAR REPEAT arrow wraps around the apple at left/bottom, ending at lower-right, expressing AUTOMATIC cycling. The repeat arrow must never cover the bitten upper-right region. Match the last attached Auto C icon material and arrangement, but the apple is visibly already BITTEN. This is not a whole apple; no spoon, dish, basket, bottle or droplets. Keep the bite large enough to read at96px. First two references are style; third is approved batch1 Auto reference; fourth is current Auto C (whole apple) for comparison only.",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Auto.png",
+        "brand/ui/illustrated-v1/approved/auto-C-v2/icon.png"
+      ],
+      "transparent_background": true
+    },
+    {
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "id": "ReturnToApp",
+      "label": "回到App",
+      "concept": "A",
+      "version": "v4",
+      "status": "candidate",
+      "tool": "image_gen",
+      "directory": "candidates/ReturnToApp-A-v4",
+      "prompt": "Use the same approved illustrated-v1 rendering: soft matte clay-like 3D, smooth rounded volumes, gently painted shading, soft top-left light, no outlines or texture noise, no metallic shine or plastic glare. Palette warm honey-gold #F5C55A, sage green, cream #FFF1DB, warm brown and coral red #F36C63. Square transparent RGBA, requested1254x1254, centered with about8% safe margin; no scene, background circle, ground plane or cast shadow. No faces, eyes, mouths, hands, arms, characters, text, letters, numbers, sparkles, glitter, thick outlines, sticker border, flat vector or line art. Only ONE icon. EDIT / COMBINE the two final attached candidates. Use reference4 (v3 B) as the BASE: retain its thick honey-gold rounded-square frame, sage-green inset panel, coral-red mushroom and cream stem/spot relief. REMOVE ONLY its straight cream inward arrow. Replace that arrow with the YELLOW CURVED RETURN ARROW from reference5 (v3 A): a chunky honey-gold U-turn arrow outside the lower-right of the tile, bending downward then left, large rounded LEFT-pointing arrowhead at the bottom. Match the v3 A curved arrow SHAPE, not just its color. Retain B body proportions, mushroom, green panel and gold border as closely as possible. No book, pages, cover, binding, satchel, house, straight arrow or white arrow. First3 references are approved style; fourth is B body target; fifth is A arrow source.",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Records.png",
+        "brand/ui/illustrated-v1/candidates/ReturnToApp-B-v3/icon.png",
+        "brand/ui/illustrated-v1/candidates/ReturnToApp-A-v3/icon.png"
+      ],
+      "transparent_background": true
+    },
+    {
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "id": "GameReturn",
+      "label": "回到遊戲",
+      "concept": "A",
+      "version": "v4",
+      "status": "candidate",
+      "tool": "image_gen",
+      "directory": "candidates/GameReturn-A-v4",
+      "prompt": "Use the same approved illustrated-v1 rendering: soft matte clay-like 3D, smooth rounded volumes, gently painted shading, soft top-left light, no outlines or texture noise, no metallic shine or plastic glare. Palette warm honey-gold #F5C55A, sage green, cream #FFF1DB, warm brown and coral red #F36C63. Square transparent RGBA, requested1254x1254, centered with about8% safe margin; no scene, background circle, ground plane or cast shadow. No faces, eyes, mouths, hands, arms, characters, text, letters, numbers, sparkles, glitter, thick outlines, sticker border, flat vector or line art. Only ONE icon. EDIT the final attached newly combined ReturnToApp v4 icon. Preserve the SAME honey-gold rounded-square app frame, SAME sage-green inset panel, SAME chunky honey-gold CURVED U-TURN return arrow outside its lower-right, with the same LEFT-pointing arrowhead and placement. Change ONLY the central emblem: replace the mushroom with one cream and honey-gold GAME CONTROLLER with two rounded grips, one sage-green left plus directional pad, and one coral-red right round button. This is the paired GAME PROGRAM version of the mushroom-program icon; body, colors, material and return arrow must stay the same. No mushroom, leaf tuft, straight arrow, right-pointing arrow, book, scene or characters. Last reference is the exact paired body and arrow target; other3 are approved style references.",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Scan.png",
+        "brand/ui/illustrated-v1/candidates/ReturnToApp-A-v4/generated-original.png"
+      ],
+      "transparent_background": true
+    }
+  ],
+  "generation_order": "Feed and ReturnToApp first; inspect combined ReturnToApp output, then GameReturn uses it as actual attached edit reference.",
+  "user_directions": {
+    "Feed": "自動＋被吃一口的蘋果",
+    "ReturnToApp": "B主體換成A黃色返回箭頭",
+    "GameReturn": "同款只把蘑菇換遊戲手把"
+  }
+}

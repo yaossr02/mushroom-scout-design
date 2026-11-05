@@ -1,0 +1,96 @@
+{
+  "id": "GoldBasin",
+  "status": "candidate",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    100,
+    102,
+    1154,
+    1151
+  ],
+  "body_bbox_alpha128": [
+    100,
+    102,
+    1154,
+    1151
+  ],
+  "sha256": "61cd03aa35a0896146de8ba405a99b18fd33b1591c82c0b068eca901a1b3a706",
+  "original_sha256": "f3e79d24e3669765157e481a736bb15f90f888a9af1b88b1665a74d5b58b535e",
+  "solid_palette_rgb": [
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "normalization": "nearest exact palette; alpha>=128; remove speckles; restore dark interior extraction holes in B/C where criteria match; fit longest bound1054px (8% margin); no hand-drawn geometry",
+  "user_authorized_python_cleanup": true,
+  "uniform_edge_weight_cleanup": [],
+  "shape_preservation_note": "GoldBasin exempted from global edge inflation because it merged the planter opening and arrow gap; remaining width failures are reported, not suppressed.",
+  "style": "A",
+  "label": "金盆",
+  "occupied_canvas_fraction": 0.1956,
+  "ink_ridge_width_dp20_estimate": {
+    "p10": 0.67,
+    "p50": 0.899,
+    "p90": 0.97
+  },
+  "ink_ridge_width_dp24_estimate": {
+    "p10": 0.804,
+    "p50": 1.079,
+    "p90": 1.164
+  },
+  "accent_components": [
+    {
+      "area_source_px": 77045,
+      "bbox_source_px": [
+        851,
+        413,
+        1132,
+        964
+      ],
+      "bbox_min_edge_dp20": 4.482
+    }
+  ],
+  "outer_ink_fraction": 1.0,
+  "gold_basin_arrow_shaft_dp20_estimate": 1.946,
+  "color_contrast": [
+    {
+      "rgb": [
+        46,
+        58,
+        47
+      ],
+      "contrast_on_warm_white": 11.636,
+      "role": "main"
+    },
+    {
+      "rgb": [
+        243,
+        108,
+        99
+      ],
+      "contrast_on_warm_white": 2.874,
+      "role": "accent_exception_accepted"
+    }
+  ],
+  "qc_flags": [
+    "ink_ridge_p10_below_1.75dp_review_required",
+    "gold_basin_arrow_shaft_below_3dp"
+  ],
+  "min_line_width_compliance": "requires_shape_specific_review; ridge quantiles are diagnostic, not certified minima",
+  "preview_notes": "80px=20dp@xxxhdpi;96px=24dp@xxxhdpi. Antialiased derived previews may contain blend colors; source icon.png has <=3 solid colors."
+}

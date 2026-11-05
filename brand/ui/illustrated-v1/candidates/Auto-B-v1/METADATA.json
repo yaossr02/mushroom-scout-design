@@ -1,0 +1,81 @@
+{
+  "id": "Auto",
+  "concept": "B",
+  "label": "自動",
+  "title": "發條花苗",
+  "subject": "a small young two-leaf plant growing from a compact warm brown soil plug with one large rounded honey-gold winding key visibly attached behind it, like a wind-up botanical game item. Show the plant and the broad winding key clearly as two simple forms; a single small coral-red collar at the key base is the accent. No face, no character limbs",
+  "directory": "candidates/Auto-B-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Auto-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      27,
+      37,
+      1226,
+      1254
+    ],
+    "bbox_alpha128": [
+      107,
+      194,
+      1149,
+      1084
+    ],
+    "sha256": "8607ee5acbcd58ef6987236d7934a968be3eae589cf31fee58273486d053b77d"
+  },
+  "final": {
+    "path": "candidates/Auto-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      26,
+      25,
+      1225,
+      1242
+    ],
+    "bbox_alpha128": [
+      106,
+      182,
+      1148,
+      1072
+    ],
+    "sha256": "0023f89f3dc44d670c287c8babd9b5c808a0229f3698363ca6ada14e1933369c"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 1.0,
+      "offset_px": [
+        -1,
+        -12
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}

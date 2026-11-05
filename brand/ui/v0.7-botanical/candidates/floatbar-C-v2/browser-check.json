@@ -1,0 +1,18 @@
+{
+  "status": "approved",
+  "new_icons": 15,
+  "reused_gold_basin": 1,
+  "cards": 16,
+  "thumbnail_samples": 48,
+  "layout_circle_css_px": 40,
+  "icon_css_px": [
+    20,
+    24
+  ],
+  "xxxhdpi_capture_dpr": 4,
+  "images_decoded": true,
+  "errors": [],
+  "app_runtime_tested": false,
+  "game_background": "simulated; actual screenshots not received",
+  "browser": "155.0.8059.79"
+}

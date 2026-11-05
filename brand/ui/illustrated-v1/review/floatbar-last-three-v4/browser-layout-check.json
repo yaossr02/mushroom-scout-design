@@ -1,0 +1,18 @@
+{
+  "images": 54,
+  "broken": 0,
+  "circles": [
+    40
+  ],
+  "counts": [
+    16,
+    16
+  ],
+  "iconSizes": [
+    24,
+    28
+  ],
+  "status": "passed",
+  "pageErrors": [],
+  "date": "2026-11-05"
+}

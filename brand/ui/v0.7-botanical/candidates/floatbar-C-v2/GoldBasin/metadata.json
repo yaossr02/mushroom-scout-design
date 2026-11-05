@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-04",
+  "id": "GoldBasin",
+  "label": "金盆（沿用基準）",
+  "status": "approved",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "bbox": [
+    100,
+    118,
+    1154,
+    1135
+  ],
+  "sha256": "97427412554d33f5b75ff61ff6ed3beb024941618dcc10668abc67c1b3238501",
+  "palette_rgb": [
+    [
+      255,
+      241,
+      219
+    ],
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "ink_width_p10_dp20_estimate": 0.478,
+  "ink_width_p10_dp24_estimate": 0.574,
+  "accent_min_bbox_edge_dp20": 2.504,
+  "coral_component_count": 1,
+  "qc_flags": [
+    "ink_width_p10_estimate_below_1.75dp",
+    "accent_bbox_min_edge_below_3dp",
+    "reused_reference_retains_prior_geometry_limits"
+  ],
+  "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+  "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+  "reused_unchanged": true,
+  "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+  "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/GoldBasin.png"
+}

@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "SkipBack",
+  "status": "candidate",
+  "prompt": "EDIT attached sticker icon only to correct the backward-skip action. Keep the EXACT C sticker style, flat Ink#2E3A2F,Cream#FFF1DB,Coral#F36C63,rounded corners,cream rim and dark outer keyline. The vertical stop BAR must stay on the LEFT. The play TRIANGLE must be on the RIGHT OF THAT BAR but point LEFT TOWARD THE BAR. Its sharp rounded TIP faces the LEFT edge, and its long vertical BASE faces the RIGHT edge. This is |◀ arrangement, not |▶ and not ▶|. Do not draw the example symbols or any text. Fill the left-pointing triangle coral as now. No other changes.1254x1254 transparent RGBA,8%safe margins,no gradients,shadow,texture orhands.",
+  "reference": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/SkipBack/attempts/first/icon.png",
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-e6e04b09-d15c-45c7-918a-13afe886c95e.png",
+  "revision_reason": "Correct triangle direction toward left stop bar"
+}

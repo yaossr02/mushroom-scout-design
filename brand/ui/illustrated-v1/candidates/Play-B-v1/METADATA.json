@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "Play",
+  "label": "繼續",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/Play-B-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "kind": "operation",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Play-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      23,
+      1206,
+      1196
+    ],
+    "bbox_alpha128": [
+      177,
+      160,
+      1075,
+      1131
+    ],
+    "sha256": "f9390a8454c4336f5fc7b1e2c22b1e29d853993198b437f30c96d5bc6dab35a6"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Play-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      1,
+      5,
+      1207,
+      1178
+    ],
+    "bbox_alpha128": [
+      178,
+      142,
+      1076,
+      1113
+    ],
+    "sha256": "5b72236c7d56a74018539a7e4f904d946e83503ff515e02ceb669d3bb6d3696f"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 1.0,
+      "offset_px": [
+        1,
+        -18
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Play-B-v1/generation.json"
+}

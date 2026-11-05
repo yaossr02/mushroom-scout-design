@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "ReturnToApp",
+  "label": "回到App",
+  "concept": "A",
+  "status": "candidate",
+  "directory": "candidates/ReturnToApp-A-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Records.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/ReturnToApp-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      41,
+      29,
+      1190,
+      1206
+    ],
+    "bbox_alpha128": [
+      122,
+      154,
+      1104,
+      1165
+    ],
+    "sha256": "862c63d91ecc3ba83e54149752973c744b18544485420b9289a8ce5120eaad2d"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/ReturnToApp-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      55,
+      2,
+      1204,
+      1174
+    ],
+    "bbox_alpha128": [
+      136,
+      122,
+      1118,
+      1133
+    ],
+    "sha256": "a052eab49c03fa10691db12185b8b72764f9c1dd6ee2ea42b5685ffcd5024a1b"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 1.0,
+      "offset_px": [
+        14,
+        -32
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/ReturnToApp-A-v1/generation.json"
+}

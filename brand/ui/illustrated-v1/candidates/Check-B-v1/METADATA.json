@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "Check",
+  "label": "確定完成",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/Check-B-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "kind": "operation",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Check-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1238,
+      1254
+    ],
+    "bbox_alpha128": [
+      140,
+      230,
+      1132,
+      1078
+    ],
+    "sha256": "18707e5abb2f41109bbc8bb37dd46e016fd180c71b1799b6070f2c044a167c8f"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Check-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      16,
+      0,
+      1229,
+      1227
+    ],
+    "bbox_alpha128": [
+      131,
+      203,
+      1123,
+      1051
+    ],
+    "sha256": "b72811e190972435135d5355aa70795469f7fac94dde76549b5b5e671fb6af54"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 1.0,
+      "offset_px": [
+        -9,
+        -27
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Check-B-v1/generation.json"
+}

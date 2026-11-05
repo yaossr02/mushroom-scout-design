@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "id": "GameReturn",
+  "label": "回到遊戲",
+  "concept": "A",
+  "version": "v4",
+  "status": "candidate",
+  "tool": "image_gen",
+  "directory": "candidates/GameReturn-A-v4",
+  "prompt": "Use the same approved illustrated-v1 rendering: soft matte clay-like 3D, smooth rounded volumes, gently painted shading, soft top-left light, no outlines or texture noise, no metallic shine or plastic glare. Palette warm honey-gold #F5C55A, sage green, cream #FFF1DB, warm brown and coral red #F36C63. Square transparent RGBA, requested1254x1254, centered with about8% safe margin; no scene, background circle, ground plane or cast shadow. No faces, eyes, mouths, hands, arms, characters, text, letters, numbers, sparkles, glitter, thick outlines, sticker border, flat vector or line art. Only ONE icon. EDIT the final attached newly combined ReturnToApp v4 icon. Preserve the SAME honey-gold rounded-square app frame, SAME sage-green inset panel, SAME chunky honey-gold CURVED U-TURN return arrow outside its lower-right, with the same LEFT-pointing arrowhead and placement. Change ONLY the central emblem: replace the mushroom with one cream and honey-gold GAME CONTROLLER with two rounded grips, one sage-green left plus directional pad, and one coral-red right round button. This is the paired GAME PROGRAM version of the mushroom-program icon; body, colors, material and return arrow must stay the same. No mushroom, leaf tuft, straight arrow, right-pointing arrow, book, scene or characters. Last reference is the exact paired body and arrow target; other3 are approved style references.",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Scan.png",
+    "brand/ui/illustrated-v1/candidates/ReturnToApp-A-v4/generated-original.png"
+  ],
+  "transparent_background": true
+}

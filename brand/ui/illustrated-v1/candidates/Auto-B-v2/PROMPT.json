@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "id": "Auto",
+  "concept": "B",
+  "title": "芽苗沙漏",
+  "status": "candidate",
+  "prompt": "A single game-item icon illustration of a small friendly botanical hourglass timer with rounded honey-gold top and bottom caps, two short thick sage-green side supports, and a clear open hourglass-shaped center showing one broad warm-brown sand mound and one thick simple falling sand stream. A short sage two-leaf sprout rises from the top cap, and one small coral-red rounded timer button is inset in the base. This is an open matte game-item hourglass, no glass glare, no writing, no clockface, no tiny sand grains, no planter, no arrows. Match the rendering of the TWO ATTACHED approved references, the golden planter and red mushroom: soft matte clay-like 3D, plump simple rounded volumes, gentle top-left key light, softly painted shading and a faint highlight, crisp clean silhouette with NO outline stroke and no texture noise. Palette: honey-gold #F5C55A, sage green, warm brown, cream #FFF1DB, coral red #F36C63 as the single accent. Not shiny metal, not plastic. One main object with at most one or two supporting details, broad shapes that read at 80px. Centered on a square transparent canvas, object fills about 84%, 8% safe margin all sides, no ground plane, no cast shadow outside object except faint contact shadow. Requested 1254x1254 RGBA PNG. NO faces, eyes, mouths, hands, arms, characters, letters, numbers, text, text-like marks, sparkles, glitter, reflections, thick dark outlines, sticker borders, flat vector, line-art or emoji style. The references are for STYLE ONLY: do NOT draw their pot or downward arrow unless explicitly requested. Only one isolated icon; no comparison sheet.",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "transparent_background": true
+}

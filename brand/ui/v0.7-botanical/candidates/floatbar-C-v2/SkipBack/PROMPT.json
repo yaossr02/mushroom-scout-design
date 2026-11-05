@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "SkipBack",
+  "status": "candidate",
+  "prompt": "EDIT: HORIZONTALLY MIRROR the ENTIRE attached icon to create a BACKWARD-SKIP icon. Mirror EVERYTHING together, including outer silhouette, cream rim, coral triangle, and vertical bar. Result MUST have the vertical stop bar on the LEFT, and a LEFT-POINTING triangle immediately to its RIGHT. BOTH the outer triangle outline AND the coral inner triangle must point LEFT; their left tips face the left bar, their straight vertical bases are on the right. This is the exact horizontal mirror of the supplied forward-skip icon. Do not keep any right-pointing outer outline. Keep the same 3 flat colors Ink#2E3A2F,Cream#FFF1DB,Coral#F36C63, shape thickness,rounded corners and transparent background.1254x1254RGBA,8%padding,no gradients,shadows,text,faces orhands. No extra shapes.",
+  "reference": "brand/ui/v0.7-botanical/candidates/floatbar-C-v2/SkipForward/icon.png",
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-f3ddc532-3755-429f-b6c3-495057518412.png",
+  "revision_reason": "Mirror complete forward-skip silhouette; earlier edit corrected only inner triangle and was rejected in review"
+}

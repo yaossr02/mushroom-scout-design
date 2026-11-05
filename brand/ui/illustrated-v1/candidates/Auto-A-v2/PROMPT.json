@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "id": "Auto",
+  "concept": "A",
+  "title": "芽苗齒輪",
+  "status": "candidate",
+  "prompt": "A single game-item icon illustration of a chunky honey-gold mechanical cogwheel with exactly six broad softly rounded teeth, viewed almost front-on but slightly three-quarter so the clay volume is visible. A single short sage-green two-leaf sprout grows from its warm-brown circular center, and one small coral-red rounded activation stud sits on the lower-right tooth. The wheel is the main solid silhouette and the sprout is its one clear natural detail. No planter, no extra gears, no loop arrow. Match the rendering of the TWO ATTACHED approved references, the golden planter and red mushroom: soft matte clay-like 3D, plump simple rounded volumes, gentle top-left key light, softly painted shading and a faint highlight, crisp clean silhouette with NO outline stroke and no texture noise. Palette: honey-gold #F5C55A, sage green, warm brown, cream #FFF1DB, coral red #F36C63 as the single accent. Not shiny metal, not plastic. One main object with at most one or two supporting details, broad shapes that read at 80px. Centered on a square transparent canvas, object fills about 84%, 8% safe margin all sides, no ground plane, no cast shadow outside object except faint contact shadow. Requested 1254x1254 RGBA PNG. NO faces, eyes, mouths, hands, arms, characters, letters, numbers, text, text-like marks, sparkles, glitter, reflections, thick dark outlines, sticker borders, flat vector, line-art or emoji style. The references are for STYLE ONLY: do NOT draw their pot or downward arrow unless explicitly requested. Only one isolated icon; no comparison sheet.",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "transparent_background": true
+}

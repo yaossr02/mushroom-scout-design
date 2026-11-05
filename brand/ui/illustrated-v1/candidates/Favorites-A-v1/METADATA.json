@@ -1,0 +1,81 @@
+{
+  "id": "Favorites",
+  "concept": "A",
+  "label": "常用地點",
+  "title": "插旗紅菇",
+  "subject": "a single squat coral-red mushroom with a plain cream stem and few broad cream cap spots, with one small coral-red triangular location flag planted at the rear of the cap on a short thick warm-brown mast. Flag visibly rises above the mushroom cap, and the flag has no symbol or text. A low sage-green leaf tuft at the base, like the reference red mushroom",
+  "directory": "candidates/Favorites-A-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Favorites-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      31,
+      1218,
+      1254
+    ],
+    "bbox_alpha128": [
+      154,
+      81,
+      1085,
+      1189
+    ],
+    "sha256": "6ed21c3aebfa66ce9a6c32e303ce34abb32e07b13a4f876fbbb49ff94af547ba"
+  },
+  "final": {
+    "path": "candidates/Favorites-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      38,
+      52,
+      1197,
+      1216
+    ],
+    "bbox_alpha128": [
+      185,
+      100,
+      1071,
+      1154
+    ],
+    "sha256": "756819fec5dffdc1fc05f2b420491efc64fa99fa15e8bf098e384556ed171591"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 0.9512635379061372,
+      "offset_px": [
+        38,
+        23
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}

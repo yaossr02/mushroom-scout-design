@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-04",
+  "id": "Pause",
+  "label": "暫停",
+  "status": "approved",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "bbox": [
+    150,
+    100,
+    1104,
+    1154
+  ],
+  "sha256": "3a574a102d11e4fc9d5bec5e55ddf2c0a1a7e8b71163960a558a9a38d2ce24b0",
+  "palette_rgb": [
+    [
+      255,
+      241,
+      219
+    ],
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "ink_width_p10_dp20_estimate": 0.478,
+  "ink_width_p10_dp24_estimate": 0.574,
+  "accent_min_bbox_edge_dp20": 4.179,
+  "coral_component_count": 2,
+  "qc_flags": [
+    "ink_width_p10_estimate_below_1.75dp",
+    "multiple_coral_components_review_required"
+  ],
+  "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+  "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+  "reused_unchanged": false,
+  "original_sha256": "2f08bcf30227aa03630e60935f1cb198f12536148655ccbe3c870b0a15afa73a",
+  "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+  "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Pause.png"
+}

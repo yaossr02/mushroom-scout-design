@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-04",
+  "id": "HideFloat",
+  "label": "隱藏",
+  "status": "approved",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "bbox": [
+    100,
+    206,
+    1154,
+    1048
+  ],
+  "sha256": "903113d9c5f4926b08556aa903e11a8ec3234c3586a101ae1cee75e67f80af7f",
+  "palette_rgb": [
+    [
+      255,
+      241,
+      219
+    ],
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "ink_width_p10_dp20_estimate": 0.478,
+  "ink_width_p10_dp24_estimate": 0.574,
+  "accent_min_bbox_edge_dp20": 4.019,
+  "coral_component_count": 2,
+  "qc_flags": [
+    "ink_width_p10_estimate_below_1.75dp",
+    "multiple_coral_components_review_required"
+  ],
+  "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+  "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+  "reused_unchanged": false,
+  "original_sha256": "bc10160f27642814673a9a7462f2fa60743352009d397dab0dd0e64bec46e939",
+  "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+  "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/HideFloat.png"
+}

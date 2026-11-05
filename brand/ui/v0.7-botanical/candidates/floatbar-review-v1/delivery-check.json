@@ -1,0 +1,29 @@
+{
+  "status": "candidate",
+  "source_format_checks_passed": 48,
+  "all_hard_geometry_passed": false,
+  "geometry_screening": {
+    "A": {
+      "count": 16,
+      "flagged": [
+        "GoldBasin"
+      ]
+    },
+    "B": {
+      "count": 16,
+      "flagged": [
+        "GoldBasin",
+        "Pause",
+        "Stop"
+      ]
+    },
+    "C": {
+      "count": 16,
+      "flagged": [
+        "GoldBasin"
+      ]
+    }
+  },
+  "approved_source_unchanged": true,
+  "actual_device_tested": false
+}

@@ -1,0 +1,118 @@
+{
+  "id": "Close",
+  "status": "candidate",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    106,
+    100,
+    1148,
+    1154
+  ],
+  "body_bbox_alpha128": [
+    106,
+    100,
+    1148,
+    1154
+  ],
+  "sha256": "e5f0ae8df0d4d2b70258f01812c3aabe04a65b706f5b8072382c80d1cfb3c0cc",
+  "original_sha256": "ae8565be0f988a16bf270d6bbb9877a8abb9ad8be95e65a5eef1fad5668ababf",
+  "solid_palette_rgb": [
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ],
+    [
+      255,
+      241,
+      219
+    ]
+  ],
+  "normalization": "nearest exact palette; alpha>=128; remove speckles; restore dark interior extraction holes in B/C where criteria match; fit longest bound1054px (8% margin); no hand-drawn geometry",
+  "user_authorized_python_cleanup": true,
+  "uniform_edge_weight_cleanup": [
+    {
+      "ink_uniform_edge_offset_px": 36,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    }
+  ],
+  "shape_preservation_note": null,
+  "style": "B",
+  "label": "關閉",
+  "occupied_canvas_fraction": 0.5257,
+  "ink_ridge_width_dp20_estimate": {
+    "p10": 2.239,
+    "p50": 2.315,
+    "p90": 2.504
+  },
+  "ink_ridge_width_dp24_estimate": {
+    "p10": 2.687,
+    "p50": 2.778,
+    "p90": 3.005
+  },
+  "accent_components": [
+    {
+      "area_source_px": 76952,
+      "bbox_source_px": [
+        588,
+        256,
+        992,
+        635
+      ],
+      "bbox_min_edge_dp20": 6.045
+    }
+  ],
+  "outer_ink_fraction": 1.0,
+  "gold_basin_arrow_shaft_dp20_estimate": null,
+  "color_contrast": [
+    {
+      "rgb": [
+        255,
+        241,
+        219
+      ],
+      "contrast_on_warm_white": 1.087,
+      "role": "internal_cream"
+    },
+    {
+      "rgb": [
+        46,
+        58,
+        47
+      ],
+      "contrast_on_warm_white": 11.636,
+      "role": "main"
+    },
+    {
+      "rgb": [
+        243,
+        108,
+        99
+      ],
+      "contrast_on_warm_white": 2.874,
+      "role": "accent_exception_accepted"
+    }
+  ],
+  "qc_flags": [],
+  "min_line_width_compliance": "requires_shape_specific_review; ridge quantiles are diagnostic, not certified minima",
+  "preview_notes": "80px=20dp@xxxhdpi;96px=24dp@xxxhdpi. Antialiased derived previews may contain blend colors; source icon.png has <=3 solid colors."
+}

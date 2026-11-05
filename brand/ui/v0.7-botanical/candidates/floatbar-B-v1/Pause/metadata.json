@@ -1,0 +1,99 @@
+{
+  "id": "Pause",
+  "status": "candidate",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    142,
+    100,
+    1112,
+    1154
+  ],
+  "body_bbox_alpha128": [
+    142,
+    100,
+    1112,
+    1154
+  ],
+  "sha256": "3cbe7efab4065570089a39889d800525ec3057c33edfaaa12f8f20d1c237b206",
+  "original_sha256": "a515678b222bf991dc16bf3532a1b1624b7159a1af6c10634a8e2cef6e4c149a",
+  "solid_palette_rgb": [
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "normalization": "nearest exact palette; alpha>=128; remove speckles; restore dark interior extraction holes in B/C where criteria match; fit longest bound1054px (8% margin); no hand-drawn geometry",
+  "user_authorized_python_cleanup": true,
+  "uniform_edge_weight_cleanup": [
+    {
+      "accent_boundary_uniform_offset_px": 160
+    }
+  ],
+  "shape_preservation_note": null,
+  "style": "B",
+  "label": "暫停",
+  "occupied_canvas_fraction": 0.5707,
+  "ink_ridge_width_dp20_estimate": {
+    "p10": 1.34,
+    "p50": 1.34,
+    "p90": 7.815
+  },
+  "ink_ridge_width_dp24_estimate": {
+    "p10": 1.608,
+    "p50": 1.608,
+    "p90": 9.378
+  },
+  "accent_components": [
+    {
+      "area_source_px": 310411,
+      "bbox_source_px": [
+        631,
+        214,
+        1028,
+        1040
+      ],
+      "bbox_min_edge_dp20": 6.332
+    }
+  ],
+  "outer_ink_fraction": 1.0,
+  "gold_basin_arrow_shaft_dp20_estimate": null,
+  "color_contrast": [
+    {
+      "rgb": [
+        46,
+        58,
+        47
+      ],
+      "contrast_on_warm_white": 11.636,
+      "role": "main"
+    },
+    {
+      "rgb": [
+        243,
+        108,
+        99
+      ],
+      "contrast_on_warm_white": 2.874,
+      "role": "accent_exception_accepted"
+    }
+  ],
+  "qc_flags": [
+    "ink_ridge_p10_below_1.75dp_review_required"
+  ],
+  "min_line_width_compliance": "requires_shape_specific_review; ridge quantiles are diagnostic, not certified minima",
+  "preview_notes": "80px=20dp@xxxhdpi;96px=24dp@xxxhdpi. Antialiased derived previews may contain blend colors; source icon.png has <=3 solid colors."
+}

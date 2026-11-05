@@ -1,0 +1,136 @@
+{
+  "id": "GameReturn",
+  "status": "candidate",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    100,
+    251,
+    1154,
+    1002
+  ],
+  "body_bbox_alpha128": [
+    100,
+    251,
+    1154,
+    1002
+  ],
+  "sha256": "5e480371bd54748d7ebe0ca48fbca567adbddda8f82b96fd696b4a1b8c4eeeab",
+  "original_sha256": "ebffa753ba0eacb905c6197678d35502f014b64dc821e96e3e7f3271f1384fde",
+  "solid_palette_rgb": [
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ],
+    [
+      255,
+      241,
+      219
+    ]
+  ],
+  "normalization": "nearest exact palette; alpha>=128; remove speckles; restore dark interior extraction holes in B/C where criteria match; fit longest bound1054px (8% margin); no hand-drawn geometry",
+  "user_authorized_python_cleanup": true,
+  "uniform_edge_weight_cleanup": [
+    {
+      "ink_uniform_edge_offset_px": 41,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    },
+    {
+      "ink_uniform_edge_offset_px": 6,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    },
+    {
+      "ink_uniform_edge_offset_px": 2,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    },
+    {
+      "ink_uniform_edge_offset_px": 1,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    }
+  ],
+  "shape_preservation_note": null,
+  "style": "B",
+  "label": "回到遊戲",
+  "occupied_canvas_fraction": 0.4036,
+  "ink_ridge_width_dp20_estimate": {
+    "p10": 2.01,
+    "p50": 2.552,
+    "p90": 2.807
+  },
+  "ink_ridge_width_dp24_estimate": {
+    "p10": 2.412,
+    "p50": 3.062,
+    "p90": 3.368
+  },
+  "accent_components": [
+    {
+      "area_source_px": 70850,
+      "bbox_source_px": [
+        668,
+        411,
+        965,
+        716
+      ],
+      "bbox_min_edge_dp20": 4.737
+    }
+  ],
+  "outer_ink_fraction": 1.0,
+  "gold_basin_arrow_shaft_dp20_estimate": null,
+  "color_contrast": [
+    {
+      "rgb": [
+        255,
+        241,
+        219
+      ],
+      "contrast_on_warm_white": 1.087,
+      "role": "internal_cream"
+    },
+    {
+      "rgb": [
+        46,
+        58,
+        47
+      ],
+      "contrast_on_warm_white": 11.636,
+      "role": "main"
+    },
+    {
+      "rgb": [
+        243,
+        108,
+        99
+      ],
+      "contrast_on_warm_white": 2.874,
+      "role": "accent_exception_accepted"
+    }
+  ],
+  "qc_flags": [],
+  "min_line_width_compliance": "requires_shape_specific_review; ridge quantiles are diagnostic, not certified minima",
+  "preview_notes": "80px=20dp@xxxhdpi;96px=24dp@xxxhdpi. Antialiased derived previews may contain blend colors; source icon.png has <=3 solid colors."
+}

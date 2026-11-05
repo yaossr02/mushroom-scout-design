@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-04",
+  "id": "Close",
+  "label": "關閉",
+  "status": "approved",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "bbox": [
+    100,
+    104,
+    1154,
+    1149
+  ],
+  "sha256": "44dfa5a1d2b8b611732ed6058e3b6f351978ab64d7a388145380a3b2560f8d44",
+  "palette_rgb": [
+    [
+      255,
+      241,
+      219
+    ],
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "ink_width_p10_dp20_estimate": 0.496,
+  "ink_width_p10_dp24_estimate": 0.595,
+  "accent_min_bbox_edge_dp20": 6.539,
+  "coral_component_count": 1,
+  "qc_flags": [
+    "ink_width_p10_estimate_below_1.75dp"
+  ],
+  "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+  "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+  "reused_unchanged": false,
+  "original_sha256": "8587940164372356f375d4ee0c154533ab6311a728570e2a71e39eaf7a455b2d",
+  "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+  "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Close.png"
+}

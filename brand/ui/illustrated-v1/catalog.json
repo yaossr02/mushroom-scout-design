@@ -1,0 +1,915 @@
+{
+  "date": "2026-11-05",
+  "version": "illustrated-v1",
+  "status": "partially-approved",
+  "scope": "Five selected visual designs approved; other five concepts remain candidate. No App integration.",
+  "references": [
+    {
+      "source": "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+      "path": "references/approved-gold.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        0,
+        0,
+        1234,
+        1254
+      ],
+      "bbox_alpha128": [
+        97,
+        148,
+        1158,
+        1137
+      ],
+      "sha256": "b6967fa63f1844ffc17ba55a808f3e4c5a95e49cd233b3b8e014addbfb35b1a2"
+    },
+    {
+      "source": "brand/approved/v0.5/red-mushroom.png",
+      "path": "references/red-mushroom.png",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        0,
+        39,
+        1202,
+        1238
+      ],
+      "bbox_alpha128": [
+        116,
+        181,
+        1139,
+        1097
+      ],
+      "sha256": "9cff895b0a2a49ba1bf3775d7fd5f54f13b0daebdc5381435874f206a68c43db"
+    }
+  ],
+  "assets": [
+    {
+      "id": "Auto",
+      "concept": "A",
+      "label": "自動",
+      "title": "循環金盆",
+      "subject": "a small round-bellied honey-gold planter with a fresh sprout in brown soil, with one thick coral-red circular cycling arrow curving around beside the planter. The arrow is a simple chunky looping clay form with a clearly readable arrowhead. Keep the pot shape from the gold reference but replace its downward arrow with this looping arrow",
+      "directory": "candidates/Auto-A-v1",
+      "status": "approved",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Auto-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          9,
+          1230,
+          1254
+        ],
+        "bbox_alpha128": [
+          91,
+          141,
+          1173,
+          1136
+        ],
+        "sha256": "322c0b4011e9f0db247a7a90f08ddfec95a619886ef99f1090668a33a53cafe1"
+      },
+      "final": {
+        "path": "candidates/Auto-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          11,
+          14,
+          1210,
+          1227
+        ],
+        "bbox_alpha128": [
+          99,
+          143,
+          1154,
+          1112
+        ],
+        "sha256": "1ca80d316222a3a9ad973c2d7e1676cd1963f82f2f5dbae808e3817c333097e9"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 0.9741219963031423,
+          "offset_px": [
+            11,
+            5
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ],
+      "approved_path": "brand/ui/illustrated-v1/approved/batch1/Auto.png",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    },
+    {
+      "id": "Auto",
+      "concept": "B",
+      "label": "自動",
+      "title": "發條花苗",
+      "subject": "a small young two-leaf plant growing from a compact warm brown soil plug with one large rounded honey-gold winding key visibly attached behind it, like a wind-up botanical game item. Show the plant and the broad winding key clearly as two simple forms; a single small coral-red collar at the key base is the accent. No face, no character limbs",
+      "directory": "candidates/Auto-B-v1",
+      "status": "candidate",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Auto-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          27,
+          37,
+          1226,
+          1254
+        ],
+        "bbox_alpha128": [
+          107,
+          194,
+          1149,
+          1084
+        ],
+        "sha256": "8607ee5acbcd58ef6987236d7934a968be3eae589cf31fee58273486d053b77d"
+      },
+      "final": {
+        "path": "candidates/Auto-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          26,
+          25,
+          1225,
+          1242
+        ],
+        "bbox_alpha128": [
+          106,
+          182,
+          1148,
+          1072
+        ],
+        "sha256": "0023f89f3dc44d670c287c8babd9b5c808a0229f3698363ca6ada14e1933369c"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 1.0,
+          "offset_px": [
+            -1,
+            -12
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ]
+    },
+    {
+      "id": "Tasks",
+      "concept": "A",
+      "label": "任務清單",
+      "title": "緞帶紙卷",
+      "subject": "a cream task parchment scroll half rolled at the bottom, softly curled and tilted slightly, tied with one broad sage-green ribbon and one small coral-red wax seal. The parchment is completely BLANK with no writing, checkmarks, ticks, lines or text-like marks; one dominant cream scroll, one broad green ribbon",
+      "directory": "candidates/Tasks-A-v1",
+      "status": "approved",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Tasks-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          0,
+          1216,
+          1254
+        ],
+        "bbox_alpha128": [
+          98,
+          79,
+          1139,
+          1202
+        ],
+        "sha256": "5857e508960e8ceffd0ba53f08401fffb7208ed917d2d63edbee3cf1ee85c189"
+      },
+      "final": {
+        "path": "candidates/Tasks-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          47,
+          26,
+          1188,
+          1203
+        ],
+        "bbox_alpha128": [
+          139,
+          100,
+          1116,
+          1154
+        ],
+        "sha256": "d189b6551fda328cee38ce309857c6bb664da059ad1736a42efbac41756645b1"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 0.9385574354407836,
+          "offset_px": [
+            47,
+            26
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ],
+      "approved_path": "brand/ui/illustrated-v1/approved/batch1/Tasks.png",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    },
+    {
+      "id": "Tasks",
+      "concept": "B",
+      "label": "任務清單",
+      "title": "葉籤木牌",
+      "subject": "a small rounded warm-brown wooden task board with a pale cream blank inset and a broad sage-green leaf bookmark tucked under its top clamp. A small coral-red clay pin is the only accent. A plain broad wooden form, no realistic grain, no writing, ticks, lines, checkboxes, letters or decorative scratch marks",
+      "directory": "candidates/Tasks-B-v1",
+      "status": "candidate",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Tasks-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          35,
+          1253,
+          1230
+        ],
+        "bbox_alpha128": [
+          162,
+          64,
+          1070,
+          1204
+        ],
+        "sha256": "1d565593ed9061782fbb2a10d42fd617be7cc0c6a72a8c4e5f9a60dd1b977586"
+      },
+      "final": {
+        "path": "candidates/Tasks-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          57,
+          73,
+          1215,
+          1178
+        ],
+        "bbox_alpha128": [
+          207,
+          100,
+          1046,
+          1154
+        ],
+        "sha256": "bd105342e9c3342018bbf6cdd4f22107c0854053d3ef68c61ea165c0de4727b0"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 0.9245614035087719,
+          "offset_px": [
+            57,
+            41
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ]
+    },
+    {
+      "id": "Records",
+      "concept": "A",
+      "label": "蘑菇紀錄",
+      "title": "紅菇圖鑑",
+      "subject": "a small open cream field-guide book with a warm brown rounded cover, its inner page showing one large simple coral-red mushroom illustration with cream stem and spots. One broad sage-green leaf bookmark at the spine. No writing, no page lines, no letters; thick simple rounded pages and one bold mushroom illustration",
+      "directory": "candidates/Records-A-v1",
+      "status": "approved",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Records-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          33,
+          1228,
+          1254
+        ],
+        "bbox_alpha128": [
+          26,
+          155,
+          1213,
+          1131
+        ],
+        "sha256": "5fa091ee3fcf614d4d815692e536d839a0f613ec3da9d7bab754f8ccd82f38f7"
+      },
+      "final": {
+        "path": "candidates/Records-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          77,
+          85,
+          1167,
+          1169
+        ],
+        "bbox_alpha128": [
+          100,
+          193,
+          1154,
+          1060
+        ],
+        "sha256": "85ac880e34209ee1d0844cb1cb1927e81a0e5dbec45115001f9142952897a50a"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 0.8879528222409435,
+          "offset_px": [
+            77,
+            56
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ],
+      "approved_path": "brand/ui/illustrated-v1/approved/batch1/Records.png",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    },
+    {
+      "id": "Records",
+      "concept": "B",
+      "label": "蘑菇紀錄",
+      "title": "蘑菇收藏盒",
+      "subject": "a small open rounded warm-brown wooden collecting box containing two small mushrooms, one slightly taller coral-red mushroom and a smaller honey-gold mushroom, both with cream stems and simple broad caps. One tiny sage-green leaf tucked against the box. Simplify the box to a single chunky tray, no lid, no woodgrain, no faces",
+      "directory": "candidates/Records-B-v1",
+      "status": "candidate",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Records-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          19,
+          1236,
+          1254
+        ],
+        "bbox_alpha128": [
+          111,
+          177,
+          1117,
+          1093
+        ],
+        "sha256": "80c30b3293b6846f56376d71c78c2240826f76596a9638dea56aa85c91ecb576"
+      },
+      "final": {
+        "path": "candidates/Records-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          13,
+          11,
+          1249,
+          1246
+        ],
+        "bbox_alpha128": [
+          124,
+          169,
+          1130,
+          1085
+        ],
+        "sha256": "7e2dbc9a4ff34b0aec28766bae40909f9da35e5b2734e5b29a854e8fe2914c0b"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 1.0,
+          "offset_px": [
+            13,
+            -8
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ]
+    },
+    {
+      "id": "Favorites",
+      "concept": "A",
+      "label": "常用地點",
+      "title": "插旗紅菇",
+      "subject": "a single squat coral-red mushroom with a plain cream stem and few broad cream cap spots, with one small coral-red triangular location flag planted at the rear of the cap on a short thick warm-brown mast. Flag visibly rises above the mushroom cap, and the flag has no symbol or text. A low sage-green leaf tuft at the base, like the reference red mushroom",
+      "directory": "candidates/Favorites-A-v1",
+      "status": "candidate",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Favorites-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          31,
+          1218,
+          1254
+        ],
+        "bbox_alpha128": [
+          154,
+          81,
+          1085,
+          1189
+        ],
+        "sha256": "6ed21c3aebfa66ce9a6c32e303ce34abb32e07b13a4f876fbbb49ff94af547ba"
+      },
+      "final": {
+        "path": "candidates/Favorites-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          38,
+          52,
+          1197,
+          1216
+        ],
+        "bbox_alpha128": [
+          185,
+          100,
+          1071,
+          1154
+        ],
+        "sha256": "756819fec5dffdc1fc05f2b420491efc64fa99fa15e8bf098e384556ed171591"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 0.9512635379061372,
+          "offset_px": [
+            38,
+            23
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ]
+    },
+    {
+      "id": "Favorites",
+      "concept": "B",
+      "label": "常用地點",
+      "title": "金色星花",
+      "subject": "a small five-pointed honey-gold star-shaped flower with plump softly rounded petals and a tiny warm coral-red circular flower center, growing on one short thick sage-green stem with a single broad leaf. The star flower is the large main object, no other flowers, no sparkle, not a metallic star badge, no face",
+      "directory": "candidates/Favorites-B-v1",
+      "status": "approved",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Favorites-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          24,
+          1240,
+          1232
+        ],
+        "bbox_alpha128": [
+          155,
+          68,
+          1050,
+          1189
+        ],
+        "sha256": "ff08f31389372943cefd7c7d7c8650f348d7a7dd92bf6ce28e2aa982e4b226de"
+      },
+      "final": {
+        "path": "candidates/Favorites-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          61,
+          58,
+          1227,
+          1194
+        ],
+        "bbox_alpha128": [
+          207,
+          100,
+          1048,
+          1154
+        ],
+        "sha256": "6b64bf4f172edff1ddf6ef07f4a9525d9b1a31c8b983e21cf583912abdd5ed45"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 0.9402319357716324,
+          "offset_px": [
+            61,
+            36
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ],
+      "approved_path": "brand/ui/illustrated-v1/approved/batch1/Favorites.png",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    },
+    {
+      "id": "Scan",
+      "concept": "A",
+      "label": "掃描找蘑菇",
+      "title": "放大鏡紅菇",
+      "subject": "a single large chunky sage-green-handled magnifying glass with a warm honey-gold matte ring held diagonally over a small coral-red mushroom. The mushroom is clearly visible through the opening with its cream stem and few broad spots, lens stays clear with no shine or glare. One dominant magnifier and one small mushroom, no hands, no glass reflection",
+      "directory": "candidates/Scan-A-v1",
+      "status": "approved",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Scan-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          22,
+          1236,
+          1230
+        ],
+        "bbox_alpha128": [
+          117,
+          101,
+          1125,
+          1199
+        ],
+        "sha256": "747785c6eb27da83d49d121911a696980f695df9fcdd6f523e5c5b34997025f0"
+      },
+      "final": {
+        "path": "candidates/Scan-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          31,
+          24,
+          1218,
+          1184
+        ],
+        "bbox_alpha128": [
+          143,
+          100,
+          1111,
+          1154
+        ],
+        "sha256": "330305068cbb1292dc04c5d350d5d010af828d4d60c6d3d4d0ad666e608628c9"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 0.9599271402550091,
+          "offset_px": [
+            31,
+            3
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ],
+      "approved_path": "brand/ui/illustrated-v1/approved/batch1/Scan.png",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    },
+    {
+      "id": "Scan",
+      "concept": "B",
+      "label": "掃描找蘑菇",
+      "title": "草叢掃描弧",
+      "subject": "a squat coral-red mushroom with a plain cream stem peeking out from one simple low sage-green leaf clump, with one broad smooth honey-gold scanning arc sweeping above the cap, separated by a small clear gap. Arc is a solid soft matte clay form, not a glowing neon beam, no transparency glow, no extra concentric arcs",
+      "directory": "candidates/Scan-B-v1",
+      "status": "candidate",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "original": {
+        "path": "candidates/Scan-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          0,
+          1240,
+          1236
+        ],
+        "bbox_alpha128": [
+          132,
+          109,
+          1088,
+          1181
+        ],
+        "sha256": "cc6c188e8b55389e6b33113885fd8754650a16a2ed1aed30a100052629a853a8"
+      },
+      "final": {
+        "path": "candidates/Scan-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          51,
+          2,
+          1246,
+          1208
+        ],
+        "bbox_alpha128": [
+          157,
+          101,
+          1097,
+          1155
+        ],
+        "sha256": "f2211f833daa4bd0be07b655e3393e3283505dd6d2bf366d1c38f30c05ccd233"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+          "scale": 0.9832089552238806,
+          "offset_px": [
+            27,
+            -7
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+      "limitations": [
+        "Generated soft shading and edge alpha require visual review.",
+        "20dp/24dp browser mockups are not Android device tests."
+      ]
+    }
+  ],
+  "historical_attempts": [
+    {
+      "status": "candidate",
+      "include_in_review": false,
+      "date": "2026-11-05",
+      "original": {
+        "path": "candidates/Records-B-v1/attempts/01-round-container/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          48,
+          1224,
+          1229
+        ],
+        "bbox_alpha128": [
+          142,
+          149,
+          1107,
+          1136
+        ],
+        "sha256": "7b0602e93ab00d82edba96f2a83da4618e052c98e547c5c97cd3963bf27ae9da"
+      },
+      "reason": "Earlier shape attempt retained for provenance; current candidate uses regenerated wooden box."
+    }
+  ]
+}

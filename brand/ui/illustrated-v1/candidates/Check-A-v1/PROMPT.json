@@ -1,0 +1,19 @@
+{
+  "batch": "floatbar",
+  "id": "Check",
+  "label": "確定完成",
+  "concept": "A",
+  "status": "candidate",
+  "directory": "candidates/Check-A-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "prompt": "A single game-item icon illustration of one thick plump sage-green check mark, a short stroke down-right meeting a longer stroke up-right, standard correct check geometry, no surrounding circle. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. STANDARD CONTROL SHAPE: orientation and count must be exactly correct. Face the symbol straight toward viewer with only subtle thickness visible, no perspective distortion or diagonal tilting. Do not turn it into a gadget, toy, frame or outlined shape. The reference objects are style-only.",
+  "kind": "operation",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true
+}

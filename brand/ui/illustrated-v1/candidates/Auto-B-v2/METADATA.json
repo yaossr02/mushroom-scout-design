@@ -1,0 +1,69 @@
+{
+  "concept": "B",
+  "title": "芽苗沙漏",
+  "subject": "a small friendly botanical hourglass timer with rounded honey-gold top and bottom caps, two short thick sage-green side supports, and a clear open hourglass-shaped center showing one broad warm-brown sand mound and one thick simple falling sand stream. A short sage two-leaf sprout rises from the top cap, and one small coral-red rounded timer button is inset in the base. This is an open matte game-item hourglass, no glass glare, no writing, no clockface, no tiny sand grains, no planter, no arrows",
+  "path": "candidates/Auto-B-v2",
+  "id": "Auto",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "original": {
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      3,
+      1246,
+      1254
+    ],
+    "bbox_alpha128": [
+      225,
+      51,
+      994,
+      1211
+    ],
+    "sha256": "440e678752236ed7a1c15165509683db498fb6ba4ef5b64024939befe44a82b1"
+  },
+  "final": {
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      73,
+      57,
+      1205,
+      1193
+    ],
+    "bbox_alpha128": [
+      277,
+      100,
+      976,
+      1154
+    ],
+    "sha256": "4dd02c405cac811e49a8a294649b96c50660cd788409a3344a0ca49288ad90a6"
+  },
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "mechanical_operations": {
+    "uniform_scale": 0.9086206896551724,
+    "offset_px": [
+      73,
+      54
+    ],
+    "note": "Canvas resize/centering only; original shading and alpha retained. No drawing, thickening, outlines or shape edits."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "batch": "floatbar",
+  "id": "ReturnToApp",
+  "label": "回到App",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/ReturnToApp-B-v2",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Records.png"
+  ],
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/ReturnToApp-B-v2/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      23,
+      1208,
+      1254
+    ],
+    "bbox_alpha128": [
+      99,
+      169,
+      1111,
+      1124
+    ],
+    "sha256": "6ceaf751a6705d7a82b9df15194b14b87e591b345d13506468f8896a6b93ce67"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/ReturnToApp-B-v2/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      22,
+      3,
+      1230,
+      1234
+    ],
+    "bbox_alpha128": [
+      121,
+      149,
+      1133,
+      1104
+    ],
+    "sha256": "2cbccb1012d442da06e8ee95b1bd316e7083833a51e243e79096dfda935f9c4b"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform scale/transparent canvas translation only",
+      "scale": 1.0,
+      "offset_px": [
+        22,
+        -20
+      ]
+    }
+  ]
+}

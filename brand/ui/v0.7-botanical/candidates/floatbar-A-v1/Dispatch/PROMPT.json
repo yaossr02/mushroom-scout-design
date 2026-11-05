@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "Dispatch",
+  "status": "candidate",
+  "prompt": "ONE original mobile overlay icon in direction A: VERY CHUNKY two-tone Ink#2E3A2F line with exactly ONE Coral#F36C63 accent; transparent negative-space interiors, no cream fills. Strict FLAT SOLID colors, no gradient/shadow/highlight/texture.1254x1254 RGBA with8%safe border. No letters,text,face,hands,limbs. CRITICAL shape-specific correction. ONE non-anthropomorphic mushroom with a broad low dome cap and thick short rounded stem, with ONE detached short RIGHTWARD ARROW on its right. NO circle, ring, medallion, enclosing shape or background. Mushroom cap is a thick Ink outline with TRANSPARENT interior; stem Ink, arrow Coral with Ink boundary. Two distinct simple shapes. No face, no feet, no walking pose. At20dp, main outlines140px source and arrow minimum220px thick. Individual mushroom plus arrow, NOT a mushroom enclosed in a red disk.",
+  "reference": [],
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-86b852fa-f275-4a9f-94fb-fe0f029400f1.png",
+  "revision_reason": "Restore semantic silhouette or remove unrequested enclosure; first attempt retained"
+}

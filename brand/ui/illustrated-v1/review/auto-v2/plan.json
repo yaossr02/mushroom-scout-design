@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-05",
+  "status": "candidate",
+  "id": "Auto",
+  "version": "v2",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "concepts": [
+    {
+      "concept": "A",
+      "title": "芽苗齒輪",
+      "subject": "a chunky honey-gold mechanical cogwheel with exactly six broad softly rounded teeth, viewed almost front-on but slightly three-quarter so the clay volume is visible. A single short sage-green two-leaf sprout grows from its warm-brown circular center, and one small coral-red rounded activation stud sits on the lower-right tooth. The wheel is the main solid silhouette and the sprout is its one clear natural detail. No planter, no extra gears, no loop arrow",
+      "path": "candidates/Auto-A-v2"
+    },
+    {
+      "concept": "B",
+      "title": "芽苗沙漏",
+      "subject": "a small friendly botanical hourglass timer with rounded honey-gold top and bottom caps, two short thick sage-green side supports, and a clear open hourglass-shaped center showing one broad warm-brown sand mound and one thick simple falling sand stream. A short sage two-leaf sprout rises from the top cap, and one small coral-red rounded timer button is inset in the base. This is an open matte game-item hourglass, no glass glare, no writing, no clockface, no tiny sand grains, no planter, no arrows",
+      "path": "candidates/Auto-B-v2"
+    },
+    {
+      "concept": "C",
+      "title": "循環果實",
+      "subject": "one plump coral-red fruit with a single broad sage-green leaf and short warm-brown stem, cradled on the lower-left side by ONE thick honey-gold circular return arrow with a big rounded arrowhead. The fruit is the main object, the curved arrow is the only supporting detail, and the gap inside the loop stays open and readable. Read as automated feeding or repeat cycle. No bowl, no pot, no gear, no hands, no bite marks, no shine",
+      "path": "candidates/Auto-C-v2"
+    }
+  ]
+}

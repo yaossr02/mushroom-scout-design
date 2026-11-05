@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "id": "Feed",
+  "label": "自動餵果",
+  "concept": "A",
+  "version": "v4",
+  "status": "candidate",
+  "tool": "image_gen",
+  "directory": "candidates/Feed-A-v4",
+  "prompt": "Use the same approved illustrated-v1 rendering: soft matte clay-like 3D, smooth rounded volumes, gently painted shading, soft top-left light, no outlines or texture noise, no metallic shine or plastic glare. Palette warm honey-gold #F5C55A, sage green, cream #FFF1DB, warm brown and coral red #F36C63. Square transparent RGBA, requested1254x1254, centered with about8% safe margin; no scene, background circle, ground plane or cast shadow. No faces, eyes, mouths, hands, arms, characters, text, letters, numbers, sparkles, glitter, thick outlines, sticker border, flat vector or line art. Only ONE icon. Create AUTO FEED as one plump coral-red APPLE WITH A BIG BITE TAKEN OUT of its UPPER-RIGHT side, with one sage-green leaf and a short brown stem. The bite is unmistakable in the outer silhouette: a missing chunk with three big rounded tooth scallops and a broad exposed pale-cream flesh edge. A clearly separate THICK honey-gold CIRCULAR REPEAT arrow wraps around the apple at left/bottom, ending at lower-right, expressing AUTOMATIC cycling. The repeat arrow must never cover the bitten upper-right region. Match the last attached Auto C icon material and arrangement, but the apple is visibly already BITTEN. This is not a whole apple; no spoon, dish, basket, bottle or droplets. Keep the bite large enough to read at96px. First two references are style; third is approved batch1 Auto reference; fourth is current Auto C (whole apple) for comparison only.",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Auto.png",
+    "brand/ui/illustrated-v1/approved/auto-C-v2/icon.png"
+  ],
+  "transparent_background": true
+}

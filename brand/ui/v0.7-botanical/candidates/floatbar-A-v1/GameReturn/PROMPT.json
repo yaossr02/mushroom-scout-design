@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "GameReturn",
+  "status": "candidate",
+  "prompt": "ONE original mobile overlay icon in direction A: VERY CHUNKY two-tone Ink#2E3A2F line with exactly ONE Coral#F36C63 accent; transparent negative-space interiors, no cream fills. Strict FLAT SOLID colors, no gradient/shadow/highlight/texture.1254x1254 RGBA with8%safe border. No letters,text,face,hands,limbs. CRITICAL shape-specific correction. ONE chunky horizontal GAMEPAD silhouette with two short rounded grips, no enclosure. Main outline Ink140px wide, interior transparent, ONE large simple Ink plus-shaped D-pad on left and ONE Coral220px round button with Ink rim on right. NO outer circle, badge, ring, medallion, background tile, wire or tiny extra buttons. Keep holes large and simple. Recognizable standalone gamepad, not gamepad inside a circle.",
+  "reference": [],
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-10e5fff8-326f-4c44-9e01-cc3c870c1ee2.png",
+  "revision_reason": "Remove unrequested enclosing circle; first attempt retained"
+}

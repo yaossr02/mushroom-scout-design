@@ -1,0 +1,59 @@
+{
+  "id": "C-wide-belly",
+  "status": "candidate",
+  "original": {
+    "path": "C-wide-belly/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      6,
+      1232,
+      1254
+    ],
+    "bbox_alpha128": [
+      108,
+      153,
+      1146,
+      1135
+    ],
+    "sha256": "1c2808598d76e54c852fc315ebdff63d2abd889c5ac03d6cb6e39b069cd3d346"
+  },
+  "final": {
+    "path": "C-wide-belly/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      6,
+      1232,
+      1254
+    ],
+    "bbox_alpha128": [
+      108,
+      153,
+      1146,
+      1135
+    ],
+    "sha256": "d26f8590298ca8ba759cd88f9c24f90b24fdf31f700b1539bb7e74490163a7bd"
+  },
+  "mechanical_operations": [],
+  "limitations": [
+    "Soft shaded illustration; visual selection pending.",
+    "Model alpha edges retained, including faint edge pixels. No shape correction or outline added."
+  ]
+}

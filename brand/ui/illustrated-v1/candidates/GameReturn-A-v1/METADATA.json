@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "GameReturn",
+  "label": "回到遊戲",
+  "concept": "A",
+  "status": "candidate",
+  "directory": "candidates/GameReturn-A-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Auto.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/GameReturn-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      8,
+      1238,
+      1254
+    ],
+    "bbox_alpha128": [
+      116,
+      233,
+      1164,
+      1039
+    ],
+    "sha256": "8e33e9b5c260181cad9a8df6d76d130964e5192a66d3cbadb30a2275810d8404"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/GameReturn-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1225,
+      1245
+    ],
+    "bbox_alpha128": [
+      103,
+      224,
+      1151,
+      1030
+    ],
+    "sha256": "30748a64e293ba60f4b508397f0bfa8b7c034fda03ef7b867993ab1dedf24175"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 1.0,
+      "offset_px": [
+        -13,
+        -9
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/GameReturn-A-v1/generation.json"
+}

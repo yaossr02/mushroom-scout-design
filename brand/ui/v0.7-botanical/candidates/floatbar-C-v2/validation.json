@@ -1,0 +1,845 @@
+{
+  "status": "approved",
+  "new_generated": 15,
+  "reused_reference": 1,
+  "all_hard_geometry_certified": false,
+  "records": [
+    {
+      "date": "2026-11-04",
+      "id": "HideFloat",
+      "label": "隱藏",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        206,
+        1154,
+        1048
+      ],
+      "sha256": "903113d9c5f4926b08556aa903e11a8ec3234c3586a101ae1cee75e67f80af7f",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.478,
+      "ink_width_p10_dp24_estimate": 0.574,
+      "accent_min_bbox_edge_dp20": 4.019,
+      "coral_component_count": 2,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "multiple_coral_components_review_required"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "bc10160f27642814673a9a7462f2fa60743352009d397dab0dd0e64bec46e939",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/HideFloat.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "GoldBasin",
+      "label": "金盆（沿用基準）",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        118,
+        1154,
+        1135
+      ],
+      "sha256": "97427412554d33f5b75ff61ff6ed3beb024941618dcc10668abc67c1b3238501",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.478,
+      "ink_width_p10_dp24_estimate": 0.574,
+      "accent_min_bbox_edge_dp20": 2.504,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "accent_bbox_min_edge_below_3dp",
+        "reused_reference_retains_prior_geometry_limits"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": true,
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/GoldBasin.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "Ticket",
+      "label": "抽獎",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        271,
+        1154,
+        982
+      ],
+      "sha256": "d72a1687f6cb6c781d9afcb654e78cb0a8bb8d635fc83e5d1a5ecab6bf885d0d",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.478,
+      "ink_width_p10_dp24_estimate": 0.574,
+      "accent_min_bbox_edge_dp20": 2.759,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "accent_bbox_min_edge_below_3dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "1f5239867941fe471defd1789af36efda6aa95e24fba5313ca6effb058f78e93",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Ticket.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "Dispatch",
+      "label": "派遣",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        208,
+        1154,
+        1045
+      ],
+      "sha256": "cdf071626762953845c91fc25425708d936c9eaf5f324cc56f68c0173274c6a5",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.478,
+      "ink_width_p10_dp24_estimate": 0.574,
+      "accent_min_bbox_edge_dp20": 4.147,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "930f421774c975b90506c2b5d82664327f64e60401a6a25c1b6af63426195829",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Dispatch.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "Feed",
+      "label": "餵果",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        200,
+        100,
+        1054,
+        1154
+      ],
+      "sha256": "058a894adb09dcf2418ed8dacb548968767a92526366472f5eaad5080ee55961",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.552,
+      "ink_width_p10_dp24_estimate": 0.662,
+      "accent_min_bbox_edge_dp20": 5.327,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "b957cbb846ae5d50eb6f93dbefde92d3a201b1997064e8e2205785a74557fc0e",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Feed.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "LightSpeed",
+      "label": "光速",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        228,
+        100,
+        1026,
+        1154
+      ],
+      "sha256": "eea0611f25dc707dc422374924320353c4e829301c58e1902ee21c23f7bf49a0",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.478,
+      "ink_width_p10_dp24_estimate": 0.574,
+      "accent_min_bbox_edge_dp20": 7.081,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "46b26771c4c418df27b3641e5b4620c3997c5b6fe3321353b5bd50a4a9aa226a",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/LightSpeed.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "ReturnToApp",
+      "label": "回到 App",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        203,
+        1154,
+        1050
+      ],
+      "sha256": "882eb3489541e4bcbc4750ed26d06a396ec427e87ce36b2ad82a2bbfcc184a5b",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.478,
+      "ink_width_p10_dp24_estimate": 0.574,
+      "accent_min_bbox_edge_dp20": 5.582,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "52002af7a09d9a178b4f329ef3bd7c1485c56a0680b3459237c4fde0587390e8",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/ReturnToApp.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "Close",
+      "label": "關閉",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        104,
+        1154,
+        1149
+      ],
+      "sha256": "44dfa5a1d2b8b611732ed6058e3b6f351978ab64d7a388145380a3b2560f8d44",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.496,
+      "ink_width_p10_dp24_estimate": 0.595,
+      "accent_min_bbox_edge_dp20": 6.539,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "8587940164372356f375d4ee0c154533ab6311a728570e2a71e39eaf7a455b2d",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Close.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "FloatMenu",
+      "label": "主鈕",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        101,
+        100,
+        1153,
+        1154
+      ],
+      "sha256": "a8f7807c432814d8a83c8fec912d6c10b59b2af5d202275b54b7a9428274cbc0",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.478,
+      "ink_width_p10_dp24_estimate": 0.574,
+      "accent_min_bbox_edge_dp20": 5.582,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "7a0ba2fa2ea7d50c9c01910ca0bd2f07e55413eb85e83c9592b27f7e27e0560f",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/FloatMenu.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "Play",
+      "label": "開始",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        161,
+        100,
+        1092,
+        1154
+      ],
+      "sha256": "505a3680e93605bfd03eee0d2bd71d165e3c9cbe61d409b4877b41aa6079a860",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.568,
+      "ink_width_p10_dp24_estimate": 0.682,
+      "accent_min_bbox_edge_dp20": 9.665,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "00980826ae367e83cdb8d4e8a4c3daaec0648544b40c0a6e778f71cc92b7a89e",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Play.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "Pause",
+      "label": "暫停",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        150,
+        100,
+        1104,
+        1154
+      ],
+      "sha256": "3a574a102d11e4fc9d5bec5e55ddf2c0a1a7e8b71163960a558a9a38d2ce24b0",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.478,
+      "ink_width_p10_dp24_estimate": 0.574,
+      "accent_min_bbox_edge_dp20": 4.179,
+      "coral_component_count": 2,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "multiple_coral_components_review_required"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "2f08bcf30227aa03630e60935f1cb198f12536148655ccbe3c870b0a15afa73a",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Pause.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "SkipBack",
+      "label": "上一步",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        166,
+        1154,
+        1088
+      ],
+      "sha256": "8378d5405e50cf576d13e91882a342f7bb658ec35d86b25a1b8aca1dbe896996",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.676,
+      "ink_width_p10_dp24_estimate": 0.811,
+      "accent_min_bbox_edge_dp20": 7.305,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "fe1903e205e01da4b8a664bc7e3e6c31cc2e0b5382d7e3617869a91a3c087f96",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/SkipBack.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "SkipForward",
+      "label": "下一步",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        175,
+        1154,
+        1078
+      ],
+      "sha256": "841b9588676468c0edae84238645f0fb1495df5b17ca5eebb4705c248e5682e3",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.638,
+      "ink_width_p10_dp24_estimate": 0.766,
+      "accent_min_bbox_edge_dp20": 7.161,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "2bd30e063627e60477b763747cc711a27431aaef8169170fa2f24d276c124f5e",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/SkipForward.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "Stop",
+      "label": "停止",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        101,
+        100,
+        1152,
+        1154
+      ],
+      "sha256": "8eeb07a2d62b385ff7df52ac5cb79782930c040b8f7b64b521f9844a64f4591d",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.504,
+      "ink_width_p10_dp24_estimate": 0.605,
+      "accent_min_bbox_edge_dp20": 7.592,
+      "coral_component_count": 2,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp",
+        "multiple_coral_components_review_required"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "8d68ba2c36b5f84dc94f8e7d9fd0c35fd0a11129981af4b3be043689309d8315",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Stop.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "GameReturn",
+      "label": "回到遊戲",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        257,
+        1154,
+        996
+      ],
+      "sha256": "e9dbbb22bbff1aca6cbff0be474babb3755a62f39da779bf47c7b95e79d33acd",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.478,
+      "ink_width_p10_dp24_estimate": 0.574,
+      "accent_min_bbox_edge_dp20": 4.147,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "76789445c9208919d77707b849e6ae8c008f9a0816ebbb6a1fa432a72f168d42",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/GameReturn.png"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "Check",
+      "label": "確認",
+      "status": "approved",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "bbox": [
+        100,
+        201,
+        1154,
+        1053
+      ],
+      "sha256": "7a6854ad8128644a7d33878f97bcf01f0eb81af7cb11e63a0ac5ebf24fec9cbf",
+      "palette_rgb": [
+        [
+          255,
+          241,
+          219
+        ],
+        [
+          46,
+          58,
+          47
+        ],
+        [
+          243,
+          108,
+          99
+        ]
+      ],
+      "ink_width_p10_dp20_estimate": 0.496,
+      "ink_width_p10_dp24_estimate": 0.595,
+      "accent_min_bbox_edge_dp20": 5.423,
+      "coral_component_count": 1,
+      "qc_flags": [
+        "ink_width_p10_estimate_below_1.75dp"
+      ],
+      "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+      "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+      "reused_unchanged": false,
+      "original_sha256": "ee563b7e69c01b67a1c1fd0d2896df5c8ea62baa126c66adb98d51cd96ab86cc",
+      "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+      "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/Check.png"
+    }
+  ]
+}

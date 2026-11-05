@@ -1,0 +1,80 @@
+{
+  "batch": "map",
+  "id": "Teleport",
+  "label": "傳送準星",
+  "concept": "A",
+  "status": "candidate",
+  "directory": "candidates/Teleport-A-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Scan.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Teleport-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      83,
+      1216,
+      1180
+    ],
+    "bbox_alpha128": [
+      186,
+      90,
+      1042,
+      1175
+    ],
+    "sha256": "77f8efad27d39ce406b4685435d36fd95918938bce2a2d3dd29c5beef011b990"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Teleport-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      31,
+      94,
+      1212,
+      1159
+    ],
+    "bbox_alpha128": [
+      212,
+      100,
+      1043,
+      1154
+    ],
+    "sha256": "a0e9682094e2ed3457f08ce813002c79528e1e2eff2ba3d22ce6a497dd2f5ebe"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 0.9714285714285714,
+      "offset_px": [
+        31,
+        13
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Teleport-A-v1/generation.json"
+}

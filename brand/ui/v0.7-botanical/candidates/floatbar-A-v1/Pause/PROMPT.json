@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "Pause",
+  "status": "candidate",
+  "prompt": "ONE original mobile overlay icon in direction A: VERY CHUNKY two-tone Ink#2E3A2F line with exactly ONE Coral#F36C63 accent; transparent negative-space interiors, no cream fills. Strict FLAT SOLID colors, no gradient/shadow/highlight/texture.1254x1254 RGBA with8%safe border. No letters,text,face,hands,limbs. CRITICAL shape-specific correction. ONLY TWO EQUAL broad VERTICAL ROUNDED RECTANGULAR BARS, arranged side by side. Each bar300px wide and900px tall, generous200px gap. Left bar Ink #2E3A2F, right bar mostly Ink with ONE big Coral rectangle inset by110px dark frame. NO CIRCLE OR RING OR ENCLOSING FRAME OR BACKGROUND, no other shapes. Negative space between bars transparent. If shape thickness constraints compete, prioritize two bold separated bars.",
+  "reference": [],
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-b913adc5-a4db-4668-9b19-42750350f8a2.png",
+  "revision_reason": "Restore semantic silhouette or remove unrequested enclosure; first attempt retained"
+}

@@ -1,0 +1,49 @@
+{
+  "status": "candidate",
+  "browser": "155.0.8059.79",
+  "reviews": [
+    {
+      "style": "A",
+      "cards": 16,
+      "main_and_control_cells": 16,
+      "thumbnail_samples": 48,
+      "layout_circle_css_px": 40,
+      "icon_css_px": [
+        20,
+        24
+      ],
+      "xxxhdpi_capture_dpr": 4,
+      "images_decoded": true
+    },
+    {
+      "style": "B",
+      "cards": 16,
+      "main_and_control_cells": 16,
+      "thumbnail_samples": 48,
+      "layout_circle_css_px": 40,
+      "icon_css_px": [
+        20,
+        24
+      ],
+      "xxxhdpi_capture_dpr": 4,
+      "images_decoded": true
+    },
+    {
+      "style": "C",
+      "cards": 16,
+      "main_and_control_cells": 16,
+      "thumbnail_samples": 48,
+      "layout_circle_css_px": 40,
+      "icon_css_px": [
+        20,
+        24
+      ],
+      "xxxhdpi_capture_dpr": 4,
+      "images_decoded": true
+    }
+  ],
+  "overview_directions": 3,
+  "http_or_script_errors": [],
+  "game_background": "simulated; real screenshots1/2 not received",
+  "app_runtime_tested": false
+}

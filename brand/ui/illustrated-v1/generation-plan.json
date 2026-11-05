@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "status": "candidate",
+  "references": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "concepts": [
+    {
+      "id": "Auto",
+      "concept": "A",
+      "label": "自動",
+      "title": "循環金盆",
+      "subject": "a small round-bellied honey-gold planter with a fresh sprout in brown soil, with one thick coral-red circular cycling arrow curving around beside the planter. The arrow is a simple chunky looping clay form with a clearly readable arrowhead. Keep the pot shape from the gold reference but replace its downward arrow with this looping arrow",
+      "directory": "candidates/Auto-A-v1"
+    },
+    {
+      "id": "Auto",
+      "concept": "B",
+      "label": "自動",
+      "title": "發條花苗",
+      "subject": "a small young two-leaf plant growing from a compact warm brown soil plug with one large rounded honey-gold winding key visibly attached behind it, like a wind-up botanical game item. Show the plant and the broad winding key clearly as two simple forms; a single small coral-red collar at the key base is the accent. No face, no character limbs",
+      "directory": "candidates/Auto-B-v1"
+    },
+    {
+      "id": "Tasks",
+      "concept": "A",
+      "label": "任務清單",
+      "title": "緞帶紙卷",
+      "subject": "a cream task parchment scroll half rolled at the bottom, softly curled and tilted slightly, tied with one broad sage-green ribbon and one small coral-red wax seal. The parchment is completely BLANK with no writing, checkmarks, ticks, lines or text-like marks; one dominant cream scroll, one broad green ribbon",
+      "directory": "candidates/Tasks-A-v1"
+    },
+    {
+      "id": "Tasks",
+      "concept": "B",
+      "label": "任務清單",
+      "title": "葉籤木牌",
+      "subject": "a small rounded warm-brown wooden task board with a pale cream blank inset and a broad sage-green leaf bookmark tucked under its top clamp. A small coral-red clay pin is the only accent. A plain broad wooden form, no realistic grain, no writing, ticks, lines, checkboxes, letters or decorative scratch marks",
+      "directory": "candidates/Tasks-B-v1"
+    },
+    {
+      "id": "Records",
+      "concept": "A",
+      "label": "蘑菇紀錄",
+      "title": "紅菇圖鑑",
+      "subject": "a small open cream field-guide book with a warm brown rounded cover, its inner page showing one large simple coral-red mushroom illustration with cream stem and spots. One broad sage-green leaf bookmark at the spine. No writing, no page lines, no letters; thick simple rounded pages and one bold mushroom illustration",
+      "directory": "candidates/Records-A-v1"
+    },
+    {
+      "id": "Records",
+      "concept": "B",
+      "label": "蘑菇紀錄",
+      "title": "蘑菇收藏盒",
+      "subject": "a small open rounded warm-brown wooden collecting box containing two small mushrooms, one slightly taller coral-red mushroom and a smaller honey-gold mushroom, both with cream stems and simple broad caps. One tiny sage-green leaf tucked against the box. Simplify the box to a single chunky tray, no lid, no woodgrain, no faces",
+      "directory": "candidates/Records-B-v1"
+    },
+    {
+      "id": "Favorites",
+      "concept": "A",
+      "label": "常用地點",
+      "title": "插旗紅菇",
+      "subject": "a single squat coral-red mushroom with a plain cream stem and few broad cream cap spots, with one small coral-red triangular location flag planted at the rear of the cap on a short thick warm-brown mast. Flag visibly rises above the mushroom cap, and the flag has no symbol or text. A low sage-green leaf tuft at the base, like the reference red mushroom",
+      "directory": "candidates/Favorites-A-v1"
+    },
+    {
+      "id": "Favorites",
+      "concept": "B",
+      "label": "常用地點",
+      "title": "金色星花",
+      "subject": "a small five-pointed honey-gold star-shaped flower with plump softly rounded petals and a tiny warm coral-red circular flower center, growing on one short thick sage-green stem with a single broad leaf. The star flower is the large main object, no other flowers, no sparkle, not a metallic star badge, no face",
+      "directory": "candidates/Favorites-B-v1"
+    },
+    {
+      "id": "Scan",
+      "concept": "A",
+      "label": "掃描找蘑菇",
+      "title": "放大鏡紅菇",
+      "subject": "a single large chunky sage-green-handled magnifying glass with a warm honey-gold matte ring held diagonally over a small coral-red mushroom. The mushroom is clearly visible through the opening with its cream stem and few broad spots, lens stays clear with no shine or glare. One dominant magnifier and one small mushroom, no hands, no glass reflection",
+      "directory": "candidates/Scan-A-v1"
+    },
+    {
+      "id": "Scan",
+      "concept": "B",
+      "label": "掃描找蘑菇",
+      "title": "草叢掃描弧",
+      "subject": "a squat coral-red mushroom with a plain cream stem peeking out from one simple low sage-green leaf clump, with one broad smooth honey-gold scanning arc sweeping above the cap, separated by a small clear gap. Arc is a solid soft matte clay form, not a glowing neon beam, no transparency glow, no extra concentric arcs",
+      "directory": "candidates/Scan-B-v1"
+    }
+  ]
+}

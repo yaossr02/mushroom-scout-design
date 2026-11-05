@@ -1,0 +1,104 @@
+{
+  "id": "Dispatch",
+  "status": "candidate",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    100,
+    336,
+    1154,
+    918
+  ],
+  "body_bbox_alpha128": [
+    100,
+    336,
+    1154,
+    918
+  ],
+  "sha256": "030ea9c329791db8cabb4604de0c5a945d39d3efb3d67d8c919a8b01d1160b0a",
+  "original_sha256": "d5a122db10282f03b390dd67e912b7da95d17c0c240178f9872819c45994effd",
+  "solid_palette_rgb": [
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "normalization": "nearest exact palette; alpha>=128; remove speckles; restore dark interior extraction holes in B/C where criteria match; fit longest bound1054px (8% margin); no hand-drawn geometry",
+  "user_authorized_python_cleanup": true,
+  "uniform_edge_weight_cleanup": [
+    {
+      "ink_uniform_edge_offset_px": 42,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    }
+  ],
+  "shape_preservation_note": null,
+  "style": "A",
+  "label": "派遣",
+  "occupied_canvas_fraction": 0.2608,
+  "ink_ridge_width_dp20_estimate": {
+    "p10": 1.978,
+    "p50": 2.03,
+    "p90": 2.471
+  },
+  "ink_ridge_width_dp24_estimate": {
+    "p10": 2.374,
+    "p50": 2.436,
+    "p90": 2.965
+  },
+  "accent_components": [
+    {
+      "area_source_px": 29320,
+      "bbox_source_px": [
+        727,
+        529,
+        999,
+        763
+      ],
+      "bbox_min_edge_dp20": 3.732
+    }
+  ],
+  "outer_ink_fraction": 1.0,
+  "gold_basin_arrow_shaft_dp20_estimate": null,
+  "color_contrast": [
+    {
+      "rgb": [
+        46,
+        58,
+        47
+      ],
+      "contrast_on_warm_white": 11.636,
+      "role": "main"
+    },
+    {
+      "rgb": [
+        243,
+        108,
+        99
+      ],
+      "contrast_on_warm_white": 2.874,
+      "role": "accent_exception_accepted"
+    }
+  ],
+  "qc_flags": [],
+  "min_line_width_compliance": "requires_shape_specific_review; ridge quantiles are diagnostic, not certified minima",
+  "preview_notes": "80px=20dp@xxxhdpi;96px=24dp@xxxhdpi. Antialiased derived previews may contain blend colors; source icon.png has <=3 solid colors."
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-05",
+  "tool": "image_gen",
+  "id": "D-bold-arrow",
+  "status": "candidate",
+  "prompt": "A single game-item illustration of a round golden flower pot with a small sprout, rendered in EXACTLY the same art style as the attached red mushroom illustration: soft matte clay-like 3D look, smooth rounded volumes, gentle top-left key light, soft painted shading and a subtle core shadow, a faint soft highlight, clean crisp silhouette with NO outline stroke, no texture noise.\n\nShape (follow the attached gold planter v6 closely): a round-bellied pot whose belly is wider than its mouth, a thick rolled rim, a short ring foot at the bottom. Inside the rim, dark rich brown soil. One young sprout with a single (or two) fresh green leaf rising from the soil, slightly tilted. A few low sage-green leaf tufts at the base, same as the leaf tufts under the attached mushroom.\n\nColor: warm honey-gold pot (#F5C55A mid, lighter #FFE7A0 on the lit side, deeper #C98F2A in shadow), warm and friendly, NOT shiny metal, NOT chrome, no specular glare, no gradients that look like plastic. Leaves sage green like the mushroom tufts. Soil warm dark brown.\n\nTo the right of the pot, a separate rounded coral-red (#F36C63) downward arrow (thick rounded shaft, soft rounded arrowhead), drawn in the same soft clay 3D style, meaning \"swipe down\". The arrow is a clearly separate element, about 70% of the pot height.\n\nComposition: centered, pot plus arrow fill about 84% of the canvas width, about 8% safe margin on every side, transparent background, no ground plane, no cast shadow outside the object (a very faint contact shadow under the foot is ok), no scene, no frame, no circle background.\n\nDo NOT add: faces, eyes, mouth, hands, arms, characters, text, letters, numbers, sparkles, glitter, coins, treasure, metallic reflections, thick black outlines, sticker borders, flat vector style, line-art style, emoji style.\n\n\nVariant instruction: D: two leaves on a short sprout; round v6 belly; bolder separate downward arrow with shaft about 8% of total canvas, keep clear gap from pot.\nReference order: image 1 is SHAPE ONLY (remove its outlines); image 2 is PRIMARY RENDERING STYLE; image 3 supports the same rendering style. Render ONLY ONE pot and ONE down arrow. Output square transparent RGBA.",
+  "reference": [
+    "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/approved/v0.5/fire-mushroom.png"
+  ],
+  "transparent_background": true,
+  "variation": "D: two leaves on a short sprout; round v6 belly; bolder separate downward arrow with shaft about 8% of total canvas, keep clear gap from pot."
+}

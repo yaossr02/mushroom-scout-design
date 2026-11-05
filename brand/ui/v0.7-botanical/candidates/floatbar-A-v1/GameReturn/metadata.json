@@ -1,0 +1,110 @@
+{
+  "id": "GameReturn",
+  "status": "candidate",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    100,
+    298,
+    1154,
+    955
+  ],
+  "body_bbox_alpha128": [
+    100,
+    298,
+    1154,
+    955
+  ],
+  "sha256": "18cb7e5f9a5f7398bfb2a346c3cda9cde841301d7be84a6a40abb6e00ae6898a",
+  "original_sha256": "577700159bd00f59ea3cbaba8500a23c95006749707e7684d974daf291ee095f",
+  "solid_palette_rgb": [
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "normalization": "nearest exact palette; alpha>=128; remove speckles; restore dark interior extraction holes in B/C where criteria match; fit longest bound1054px (8% margin); no hand-drawn geometry",
+  "user_authorized_python_cleanup": true,
+  "uniform_edge_weight_cleanup": [
+    {
+      "accent_uniform_edge_offset_px": 8
+    },
+    {
+      "ink_uniform_edge_offset_px": 42,
+      "external_only": false
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    },
+    {
+      "accent_uniform_edge_offset_px": 7
+    },
+    {
+      "accent_boundary_uniform_offset_px": 160
+    }
+  ],
+  "shape_preservation_note": null,
+  "style": "A",
+  "label": "回到遊戲",
+  "occupied_canvas_fraction": 0.342,
+  "ink_ridge_width_dp20_estimate": {
+    "p10": 2.125,
+    "p50": 2.169,
+    "p90": 2.825
+  },
+  "ink_ridge_width_dp24_estimate": {
+    "p10": 2.55,
+    "p50": 2.603,
+    "p90": 3.39
+  },
+  "accent_components": [
+    {
+      "area_source_px": 36245,
+      "bbox_source_px": [
+        716,
+        467,
+        929,
+        687
+      ],
+      "bbox_min_edge_dp20": 3.397
+    }
+  ],
+  "outer_ink_fraction": 1.0,
+  "gold_basin_arrow_shaft_dp20_estimate": null,
+  "color_contrast": [
+    {
+      "rgb": [
+        46,
+        58,
+        47
+      ],
+      "contrast_on_warm_white": 11.636,
+      "role": "main"
+    },
+    {
+      "rgb": [
+        243,
+        108,
+        99
+      ],
+      "contrast_on_warm_white": 2.874,
+      "role": "accent_exception_accepted"
+    }
+  ],
+  "qc_flags": [],
+  "min_line_width_compliance": "requires_shape_specific_review; ridge quantiles are diagnostic, not certified minima",
+  "preview_notes": "80px=20dp@xxxhdpi;96px=24dp@xxxhdpi. Antialiased derived previews may contain blend colors; source icon.png has <=3 solid colors."
+}

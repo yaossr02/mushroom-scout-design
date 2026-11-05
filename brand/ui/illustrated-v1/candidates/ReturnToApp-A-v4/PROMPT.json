@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "id": "ReturnToApp",
+  "label": "回到App",
+  "concept": "A",
+  "version": "v4",
+  "status": "candidate",
+  "tool": "image_gen",
+  "directory": "candidates/ReturnToApp-A-v4",
+  "prompt": "Use the same approved illustrated-v1 rendering: soft matte clay-like 3D, smooth rounded volumes, gently painted shading, soft top-left light, no outlines or texture noise, no metallic shine or plastic glare. Palette warm honey-gold #F5C55A, sage green, cream #FFF1DB, warm brown and coral red #F36C63. Square transparent RGBA, requested1254x1254, centered with about8% safe margin; no scene, background circle, ground plane or cast shadow. No faces, eyes, mouths, hands, arms, characters, text, letters, numbers, sparkles, glitter, thick outlines, sticker border, flat vector or line art. Only ONE icon. EDIT / COMBINE the two final attached candidates. Use reference4 (v3 B) as the BASE: retain its thick honey-gold rounded-square frame, sage-green inset panel, coral-red mushroom and cream stem/spot relief. REMOVE ONLY its straight cream inward arrow. Replace that arrow with the YELLOW CURVED RETURN ARROW from reference5 (v3 A): a chunky honey-gold U-turn arrow outside the lower-right of the tile, bending downward then left, large rounded LEFT-pointing arrowhead at the bottom. Match the v3 A curved arrow SHAPE, not just its color. Retain B body proportions, mushroom, green panel and gold border as closely as possible. No book, pages, cover, binding, satchel, house, straight arrow or white arrow. First3 references are approved style; fourth is B body target; fifth is A arrow source.",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Records.png",
+    "brand/ui/illustrated-v1/candidates/ReturnToApp-B-v3/icon.png",
+    "brand/ui/illustrated-v1/candidates/ReturnToApp-A-v3/icon.png"
+  ],
+  "transparent_background": true
+}

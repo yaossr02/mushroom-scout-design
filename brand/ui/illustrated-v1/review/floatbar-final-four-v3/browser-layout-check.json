@@ -1,0 +1,26 @@
+{
+  "images": 105,
+  "broken": 0,
+  "circles": [
+    40
+  ],
+  "floatCounts": [
+    16,
+    16
+  ],
+  "floatIcons": [
+    24,
+    28
+  ],
+  "mapRight": [
+    9,
+    9
+  ],
+  "mapIcons": [
+    32
+  ],
+  "status": "passed",
+  "date": "2026-11-05",
+  "pageErrors": [],
+  "feedSwitch": "passed"
+}

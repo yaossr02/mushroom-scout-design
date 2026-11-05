@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "Stop",
+  "status": "candidate",
+  "prompt": "Create ONE independent original mobile OVERLAY ICON, NOT a sprite or contact sheet. Optimized for 20dp and24dp inside a40dp #FFFCF6 circle over saturated green grass, flowers and mushroom game noise. Canvas EXACTLY1254x1254 RGBA with a fully TRANSPARENT background. Visible meaningful shape fits x/y100..1154 (8% safety padding), centered in an84%-width optical square. Strict FLAT SOLID spot colors, no gradient, no shading, no highlight, no shadow, no texture, no antialiased color texture, no gloss or3D. At20dp source scale62.7px/dp: ALL stroke/bridge/detail widths>=180 source px (target2.87dp, never below1.75dp), ALL accent patches both dimensions>=200px (3.19dp); arrow shaft forGoldBasin>=190px. Use few BIG readable parts, EXTREMELY chunky strokes, closer to marker slabs than thin outlines; NO fussy fine details. Consistent family: strong silhouette, round caps, rounded joins, friendly but forceful geometric proportions, similar visual area across set. No letters, text, emoji, numerals, face, anthropomorphic character, hands or limbs. No enclosing background badge unless the semantic is itself App/FloatMenu. Every visible color region must be flat; transparent negative spaces intentional. DIRECTION A BOLD TWO-TONE LINE. Ink #2E3A2F very thick rounded contour strokes, interiors TRANSPARENT (do not fill cream bodies). ONE single accent patch in LeafFill #6E8F5E OR brand Coral #F36C63, not both. Default accent coral; FloatMenu uses LeafFill. At most2 colors. Coral must have a thick Ink outline or be backed/connected by Ink so it remains readable; pure brand coral contrast is intentionally accepted as2.87:1. No hairlines. Personality from chunky organic geometry, not generic SaaS glyphs.\nSEMANTIC: Stop / 停止. SHAPE: ONE chunky rounded square STOP shape with exactly one large offset accent corner. Not a tiny square in an enclosing frame.\nThe attached style master, if provided, controls this family's weight, corners, scale and rhythm; do not reproduce its four-square geometry unless this semantic is FloatMenu.",
+  "reference": [
+    "brand/ui/v0.7-botanical/candidates/floatbar-A-v1/FloatMenu/icon.png"
+  ],
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-f951a0b1-1f79-403a-88a4-87af7e6c996f.png",
+  "palette_exception": "Brand Coral retained with Ink boundary by explicit user choice; pure coral contrast2.874:1 is below3:1.",
+  "postprocess_authorization": "User explicitly permitted Python palette/alpha/canvas normalization; generated original retained."
+}

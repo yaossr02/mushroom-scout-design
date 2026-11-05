@@ -1,0 +1,81 @@
+{
+  "id": "Tasks",
+  "concept": "A",
+  "label": "任務清單",
+  "title": "緞帶紙卷",
+  "subject": "a cream task parchment scroll half rolled at the bottom, softly curled and tilted slightly, tied with one broad sage-green ribbon and one small coral-red wax seal. The parchment is completely BLANK with no writing, checkmarks, ticks, lines or text-like marks; one dominant cream scroll, one broad green ribbon",
+  "directory": "candidates/Tasks-A-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Tasks-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1216,
+      1254
+    ],
+    "bbox_alpha128": [
+      98,
+      79,
+      1139,
+      1202
+    ],
+    "sha256": "5857e508960e8ceffd0ba53f08401fffb7208ed917d2d63edbee3cf1ee85c189"
+  },
+  "final": {
+    "path": "candidates/Tasks-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      47,
+      26,
+      1188,
+      1203
+    ],
+    "bbox_alpha128": [
+      139,
+      100,
+      1116,
+      1154
+    ],
+    "sha256": "d189b6551fda328cee38ce309857c6bb664da059ad1736a42efbac41756645b1"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 0.9385574354407836,
+      "offset_px": [
+        47,
+        26
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "Tasks",
+  "concept": "B",
+  "label": "任務清單",
+  "title": "葉籤木牌",
+  "subject": "a small rounded warm-brown wooden task board with a pale cream blank inset and a broad sage-green leaf bookmark tucked under its top clamp. A small coral-red clay pin is the only accent. A plain broad wooden form, no realistic grain, no writing, ticks, lines, checkboxes, letters or decorative scratch marks",
+  "directory": "candidates/Tasks-B-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Tasks-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      35,
+      1253,
+      1230
+    ],
+    "bbox_alpha128": [
+      162,
+      64,
+      1070,
+      1204
+    ],
+    "sha256": "1d565593ed9061782fbb2a10d42fd617be7cc0c6a72a8c4e5f9a60dd1b977586"
+  },
+  "final": {
+    "path": "candidates/Tasks-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      57,
+      73,
+      1215,
+      1178
+    ],
+    "bbox_alpha128": [
+      207,
+      100,
+      1046,
+      1154
+    ],
+    "sha256": "bd105342e9c3342018bbf6cdd4f22107c0854053d3ef68c61ea165c0de4727b0"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 0.9245614035087719,
+      "offset_px": [
+        57,
+        41
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}

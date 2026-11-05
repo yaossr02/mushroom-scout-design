@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "Pause",
+  "label": "暫停",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/Pause-B-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Tasks.png"
+  ],
+  "kind": "operation",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Pause-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1230,
+      1254
+    ],
+    "bbox_alpha128": [
+      149,
+      201,
+      982,
+      1117
+    ],
+    "sha256": "f070af5754b9fab3317027ca9b35b601b751190ca3c955ac33d25863da3c0615"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Pause-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      62,
+      0,
+      1254,
+      1222
+    ],
+    "bbox_alpha128": [
+      211,
+      169,
+      1044,
+      1085
+    ],
+    "sha256": "b92eb9276b50e9fb378bd5439db076413c459b6e84afcc5e87e2cdc434836799"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 1.0,
+      "offset_px": [
+        62,
+        -32
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Pause-B-v1/generation.json"
+}

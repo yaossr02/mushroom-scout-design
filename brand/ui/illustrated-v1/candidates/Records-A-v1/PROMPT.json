@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "id": "Records",
+  "concept": "A",
+  "label": "蘑菇紀錄",
+  "title": "紅菇圖鑑",
+  "status": "candidate",
+  "prompt": "A single game-item icon illustration of a small open cream field-guide book with a warm brown rounded cover, its inner page showing one large simple coral-red mushroom illustration with cream stem and spots. One broad sage-green leaf bookmark at the spine. No writing, no page lines, no letters; thick simple rounded pages and one bold mushroom illustration, rendered in EXACTLY the same art style as the two attached reference images (the golden flower pot and the red mushroom): soft matte clay-like 3D look, smooth rounded volumes, gentle top-left key light, soft painted shading, faint soft highlight, clean crisp silhouette with NO outline stroke, no texture noise.\n\nPalette: warm honey-gold (#F5C55A), sage green leaves like the references, warm browns, cream (#FFF1DB), and coral red (#F36C63) as the single accent color. Friendly and warm. Not shiny metal, not plastic, no glare.\n\nMust read clearly as a simple silhouette at very small size (80 px): one main object, at most one or two supporting details, big simple shapes, strong value contrast between parts. Avoid thin details and small text-like marks.\n\nComposition: centered, object fills about 84% of the canvas, about 8% safe margin, transparent background, no ground plane, no scene, no frame, no circle background; only a very faint contact shadow is allowed.\n\nDo NOT add: faces, eyes, mouth, hands, arms, characters, text, letters, numbers, sparkles, glitter, metallic reflections, thick black outlines, sticker borders, flat vector style, line-art style, emoji style.\n\n\nReference use: first attached image is the approved golden planter D and second is the approved red mushroom. Match their material and rendering, but draw ONLY the described subject; do not add the reference planter, arrows or mushroom unless explicitly part of this subject. Output ONE isolated icon, not a sheet, not a comparison. Requested canvas 1254x1254 transparent RGBA.",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "transparent_background": true,
+  "requested_dimensions_px": [
+    1254,
+    1254
+  ]
+}

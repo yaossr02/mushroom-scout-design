@@ -1,0 +1,80 @@
+{
+  "batch": "map",
+  "id": "More",
+  "label": "更多",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/More-B-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/More-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      32,
+      1214,
+      1235
+    ],
+    "bbox_alpha128": [
+      70,
+      369,
+      1176,
+      914
+    ],
+    "sha256": "2a0742e7e41ccfa35b7dc98bc088431f2a2a47bb3cc06ae9f613cb6fdb7cb827"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/More-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      33,
+      46,
+      1190,
+      1193
+    ],
+    "bbox_alpha128": [
+      99,
+      367,
+      1154,
+      887
+    ],
+    "sha256": "cbfc8548bf57c33682420140ac296ae160797d9d96dea3a550b099601d24abd2"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 0.9529837251356239,
+      "offset_px": [
+        33,
+        16
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/More-B-v1/generation.json"
+}

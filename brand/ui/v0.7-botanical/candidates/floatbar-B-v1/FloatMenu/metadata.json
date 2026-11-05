@@ -1,0 +1,97 @@
+{
+  "id": "FloatMenu",
+  "status": "candidate",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    100,
+    111,
+    1154,
+    1142
+  ],
+  "body_bbox_alpha128": [
+    100,
+    111,
+    1154,
+    1142
+  ],
+  "sha256": "b8e2ca6007c5570880a72f80a1ff9d9f8f980968c1e269b81edf7b52a843b01d",
+  "original_sha256": "62ccf21f016ed02a71277f16fb6c55e1e29b16550a2daaa970fdd0ed9b1dfa08",
+  "solid_palette_rgb": [
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "normalization": "nearest exact palette; alpha>=128; remove speckles; restore dark interior extraction holes in B/C where criteria match; fit longest bound1054px (8% margin); no hand-drawn geometry",
+  "user_authorized_python_cleanup": true,
+  "uniform_edge_weight_cleanup": [
+    {
+      "accent_boundary_uniform_offset_px": 160
+    }
+  ],
+  "shape_preservation_note": null,
+  "style": "B",
+  "label": "主鈕",
+  "occupied_canvas_fraction": 0.6042,
+  "ink_ridge_width_dp20_estimate": {
+    "p10": 2.431,
+    "p50": 2.456,
+    "p90": 7.879
+  },
+  "ink_ridge_width_dp24_estimate": {
+    "p10": 2.917,
+    "p50": 2.947,
+    "p90": 9.455
+  },
+  "accent_components": [
+    {
+      "area_source_px": 78446,
+      "bbox_source_px": [
+        722,
+        264,
+        1001,
+        548
+      ],
+      "bbox_min_edge_dp20": 4.45
+    }
+  ],
+  "outer_ink_fraction": 1.0,
+  "gold_basin_arrow_shaft_dp20_estimate": null,
+  "color_contrast": [
+    {
+      "rgb": [
+        46,
+        58,
+        47
+      ],
+      "contrast_on_warm_white": 11.636,
+      "role": "main"
+    },
+    {
+      "rgb": [
+        243,
+        108,
+        99
+      ],
+      "contrast_on_warm_white": 2.874,
+      "role": "accent_exception_accepted"
+    }
+  ],
+  "qc_flags": [],
+  "min_line_width_compliance": "requires_shape_specific_review; ridge quantiles are diagnostic, not certified minima",
+  "preview_notes": "80px=20dp@xxxhdpi;96px=24dp@xxxhdpi. Antialiased derived previews may contain blend colors; source icon.png has <=3 solid colors."
+}

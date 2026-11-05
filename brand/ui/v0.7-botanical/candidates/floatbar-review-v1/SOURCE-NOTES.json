@@ -1,0 +1,20 @@
+{
+  "phosphor": {
+    "package": "@phosphor-icons/core",
+    "version": "2.1.1",
+    "license": "MIT",
+    "source": "official npm package",
+    "comparison_scope": "Official Bold semantic references; actual App resource files were not read per user restriction. GoldBasin uses crosshair as temporary Locate semantic reference; exact App parity not claimed.",
+    "npm_integrity": "sha512-v4ARvrip4qBCImOE5rmPUylOEK4iiED9ZyKjcvzuezqMaiRASCHKcRIuvvxL/twvLpkfnEODCOJp5dM4eZilxQ=="
+  },
+  "screenshots": {
+    "attachments_1_and_2": "not received",
+    "background": "image_gen simulated busy green meadow; not real-device screenshot"
+  },
+  "user_choices": {
+    "coral": "keep #F36C63 with Ink boundary; pure color contrast2.874<3 accepted explicitly",
+    "python_cleanup": "explicitly allowed mechanical palette/alpha/canvas cleanup; no programmatic redrawing"
+  },
+  "scope": "new candidate directories only; no catalog, active_reference or approved-file updates",
+  "delivery_stage": "48 complete style candidates, not all hard geometric gates certified; see validation.json flags"
+}

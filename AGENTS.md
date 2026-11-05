@@ -35,3 +35,5 @@
 - 2026-11-05 HideFloat已核准A v3睜眼＋斜線；浮列最新清單 `brand/ui/illustrated-v1/approved/batch2-floatbar/current-manifest.json`（12張＋D金盆，尚缺Feed/ReturnToApp/GameReturn）。三項最新方向：循環自動＋咬一口蘋果；ReturnToApp用B主體配A黃返回箭頭；GameReturn同款把蘑菇換手把。新改稿仍待核准。
 
 - 2026-11-05 illustrated-v1完整28個ID已核准：正式入口 `brand/ui/illustrated-v1/approved/active-sets.json`。浮列16項用 `approved/batch2-floatbar/completion-v4/manifest.json`，地圖主要5項用approved/current-manifest.json，其他7項用batch3-map/current-manifest.json。Feed為循環箭頭＋咬一口蘋果；ReturnToApp/GameReturn同金框綠底與黃色彎曲返回箭頭，中央分別蘑菇/手把。不得用舊partial或混C-v2。未改App；核准後自動推送授權維持。
+
+- 2026-11-05 使用者另明確指示「全部推送」：本次也發佈所有本機候選、原始模型輸出與歷史檢閱，入口brand/ui/HISTORY.md。此為發佈範圍授權，不是新素材核准或舊方向重新啟用；正式選用仍只有illustrated-v1/approved/active-sets.json中的28項。

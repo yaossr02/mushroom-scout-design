@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-04",
+  "id": "LightSpeed",
+  "label": "光速",
+  "status": "approved",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "bbox": [
+    228,
+    100,
+    1026,
+    1154
+  ],
+  "sha256": "eea0611f25dc707dc422374924320353c4e829301c58e1902ee21c23f7bf49a0",
+  "palette_rgb": [
+    [
+      255,
+      241,
+      219
+    ],
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ]
+  ],
+  "ink_width_p10_dp20_estimate": 0.478,
+  "ink_width_p10_dp24_estimate": 0.574,
+  "accent_min_bbox_edge_dp20": 7.081,
+  "coral_component_count": 1,
+  "qc_flags": [
+    "ink_width_p10_estimate_below_1.75dp"
+  ],
+  "cleanup": "Exact palette, alpha threshold/speckle cleanup, enclosed dark alpha-hole repair, 8% canvas fit only. No contour inflation or shape redesign by code.",
+  "measurement_limit": "Ridge percentile is screening, not certified minimum stroke width.",
+  "reused_unchanged": false,
+  "original_sha256": "46b26771c4c418df27b3641e5b4620c3997c5b6fe3321353b5bd50a4a9aa226a",
+  "approval_record": "brand/approvals/2026-11-04-floatbar-C-v2.md",
+  "approved_delivery_path": "brand/ui/v0.7-botanical/approved/floatbar-C-v2/LightSpeed.png"
+}

@@ -1,0 +1,7 @@
+{
+  "date": "2026-11-05",
+  "tool": "Pillow FLIP_TOP_BOTTOM; image_gen source inherited",
+  "source_model_generation": "brand/ui/illustrated-v1/candidates/Collapse-B-v1/generation.json",
+  "raw_original_policy": "Byte-identical copy of source Collapse model output; not an independently generated Expand image.",
+  "authorization": "使用者允許機械翻轉，確保完全一致；2026-11-05"
+}

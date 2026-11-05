@@ -1,0 +1,47 @@
+# 無文字辨識答案
+先看blind-test.png；由上到下、每列由左到右。
+
+- 第1列第1欄：Stop B — 停止
+- 第1列第2欄：Play A — 繼續
+- 第1列第3欄：Expand A — 展開
+- 第1列第4欄：SkipForward B — 下一株
+- 第1列第5欄：Locate B — 目前位置
+- 第1列第6欄：HideFloat A — 隱藏懸浮鈕
+- 第2列第1欄：FloatMenu A — 展開功能列
+- 第2列第2欄：SkipForward A — 下一株
+- 第2列第3欄：Collapse B — 收合
+- 第2列第4欄：Settings B — 設定
+- 第2列第5欄：HideFloat B — 隱藏懸浮鈕
+- 第2列第6欄：Locate A — 目前位置
+- 第3列第1欄：Dispatch B — 自動派遣
+- 第3列第2欄：Play B — 繼續
+- 第3列第3欄：LightSpeed A — 光速移動
+- 第3列第4欄：Close A — 關閉
+- 第3列第5欄：Expand B — 展開
+- 第3列第6欄：ReturnToApp A — 回到App
+- 第4列第1欄：GameReturn B — 回到遊戲
+- 第4列第2欄：Feed A — 自動餵果
+- 第4列第3欄：LightSpeed B — 光速移動
+- 第4列第4欄：Check B — 確定完成
+- 第4列第5欄：Teleport A — 傳送準星
+- 第4列第6欄：Collapse A — 收合
+- 第5列第1欄：Pause B — 暫停
+- 第5列第2欄：More B — 更多
+- 第5列第3欄：Settings A — 設定
+- 第5列第4欄：FloatMenu B — 展開功能列
+- 第5列第5欄：ReturnToApp B — 回到App
+- 第5列第6欄：GameReturn A — 回到遊戲
+- 第6列第1欄：More A — 更多
+- 第6列第2欄：Ticket A — 活動抽獎
+- 第6列第3欄：Ticket B — 活動抽獎
+- 第6列第4欄：Pause A — 暫停
+- 第6列第5欄：Check A — 確定完成
+- 第6列第6欄：Close B — 關閉
+- 第7列第1欄：SkipBack B — 上一株
+- 第7列第2欄：Teleport B — 傳送準星
+- 第7列第3欄：Dispatch A — 自動派遣
+- 第7列第4欄：Layers B — 圖層
+- 第7列第5欄：SkipBack A — 上一株
+- 第7列第6欄：Stop A — 停止
+- 第8列第1欄：Feed B — 自動餵果
+- 第8列第2欄：Layers A — 圖層

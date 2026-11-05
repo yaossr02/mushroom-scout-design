@@ -1,0 +1,77 @@
+{
+  "batch": "floatbar",
+  "id": "HideFloat",
+  "label": "隱藏懸浮鈕",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/HideFloat-B-v2",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Tasks.png"
+  ],
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/HideFloat-B-v2/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      49,
+      1186,
+      1172
+    ],
+    "bbox_alpha128": [
+      113,
+      229,
+      1123,
+      1083
+    ],
+    "sha256": "7d339473402a64ac32246c44481ef5fe01c45da93503e6c732f0e3f90fe28a72"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/HideFloat-B-v2/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      9,
+      20,
+      1195,
+      1143
+    ],
+    "bbox_alpha128": [
+      122,
+      200,
+      1132,
+      1054
+    ],
+    "sha256": "873dbb631d244564c75decad4328be38dcdba77473cce02824dd4d374388cd52"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform scale/transparent canvas translation only",
+      "scale": 1.0,
+      "offset_px": [
+        9,
+        -29
+      ]
+    }
+  ]
+}

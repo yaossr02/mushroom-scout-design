@@ -1,0 +1,31 @@
+{
+  "status": "candidate",
+  "include_in_review": false,
+  "date": "2026-11-05",
+  "original": {
+    "path": "candidates/Records-B-v1/attempts/01-round-container/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      48,
+      1224,
+      1229
+    ],
+    "bbox_alpha128": [
+      142,
+      149,
+      1107,
+      1136
+    ],
+    "sha256": "7b0602e93ab00d82edba96f2a83da4618e052c98e547c5c97cd3963bf27ae9da"
+  },
+  "reason": "Earlier shape attempt retained for provenance; current candidate uses regenerated wooden box."
+}

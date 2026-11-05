@@ -1,0 +1,81 @@
+{
+  "id": "Scan",
+  "concept": "B",
+  "label": "掃描找蘑菇",
+  "title": "草叢掃描弧",
+  "subject": "a squat coral-red mushroom with a plain cream stem peeking out from one simple low sage-green leaf clump, with one broad smooth honey-gold scanning arc sweeping above the cap, separated by a small clear gap. Arc is a solid soft matte clay form, not a glowing neon beam, no transparency glow, no extra concentric arcs",
+  "directory": "candidates/Scan-B-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Scan-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1240,
+      1236
+    ],
+    "bbox_alpha128": [
+      132,
+      109,
+      1088,
+      1181
+    ],
+    "sha256": "cc6c188e8b55389e6b33113885fd8754650a16a2ed1aed30a100052629a853a8"
+  },
+  "final": {
+    "path": "candidates/Scan-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      51,
+      2,
+      1246,
+      1208
+    ],
+    "bbox_alpha128": [
+      157,
+      101,
+      1097,
+      1155
+    ],
+    "sha256": "f2211f833daa4bd0be07b655e3393e3283505dd6d2bf366d1c38f30c05ccd233"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 0.9832089552238806,
+      "offset_px": [
+        27,
+        -7
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}

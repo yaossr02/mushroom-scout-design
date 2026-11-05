@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-05",
+  "status": "passed",
+  "images": 112,
+  "broken": 0,
+  "circleWidths": [
+    40
+  ],
+  "iconWidths": [
+    20,
+    24
+  ],
+  "circleCounts": [
+    5,
+    5,
+    5,
+    5
+  ],
+  "sceneSizes": [
+    [
+      360,
+      320
+    ],
+    [
+      360,
+      320
+    ],
+    [
+      360,
+      320
+    ],
+    [
+      360,
+      320
+    ]
+  ],
+  "blindImages": 10,
+  "answersHidden": true,
+  "switchAllB": "passed",
+  "switchIndividualA": "passed",
+  "pageErrors": []
+}

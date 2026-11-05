@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-04",
+  "tool": "image_gen",
+  "id": "GoldBasin",
+  "status": "candidate",
+  "prompt": "Create ONE clean direction B SOLID CUTOUT SILHOUETTE overlay icon,1254x1254 RGBA transparent with8%safe margins. Preserve attached approved v6 round bulbous planter silhouette (NOT a bowl): round belly, narrowed shoulder, oval rim, ONE large upright leaf. Use ONLY solid Ink#2E3A2F, Cream#FFF1DB, Coral#F36C63, no shading/gradient/texture/highlight/shadow. Make pot Ink filled round belly. CRITICAL provide a LARGE CREAM OVAL OPENING near top, at least480px wide and250px high, clearly separating rim from belly so shape reads as planter, not black blob. Soil is simplified as one thick Ink horizontal division inside cream opening. ONE big leaf of at least220x280px above opening, connected by wide stem140px, no veins or extra leaves. Downward CORAL arrow detached on RIGHT with shaft220px wide and Ink surround60px, arrowhead360px across; generous100px gap from pot. Total design width1054px, planter+leaf left700px and arrow right250px. Internal cream details must stay large and open at20dp. No hand, face, limb, words, symbols other than down arrow. Preserve recognizable original pot form and coherent few components. This is a new unapproved style candidate, not v6 approval inheritance.",
+  "reference": [
+    "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png"
+  ],
+  "transparent_background": true,
+  "generated_original": "/workspace/generated_images/exec-3ca7100a-1cf2-41ad-b73b-3f63fca84b5f.png",
+  "revision_reason": "Restore semantic silhouette or remove unrequested enclosure; first attempt retained"
+}

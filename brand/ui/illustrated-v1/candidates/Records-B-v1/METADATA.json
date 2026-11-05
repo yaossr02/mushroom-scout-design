@@ -1,0 +1,81 @@
+{
+  "id": "Records",
+  "concept": "B",
+  "label": "蘑菇紀錄",
+  "title": "蘑菇收藏盒",
+  "subject": "a small open rounded warm-brown wooden collecting box containing two small mushrooms, one slightly taller coral-red mushroom and a smaller honey-gold mushroom, both with cream stems and simple broad caps. One tiny sage-green leaf tucked against the box. Simplify the box to a single chunky tray, no lid, no woodgrain, no faces",
+  "directory": "candidates/Records-B-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Records-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      19,
+      1236,
+      1254
+    ],
+    "bbox_alpha128": [
+      111,
+      177,
+      1117,
+      1093
+    ],
+    "sha256": "80c30b3293b6846f56376d71c78c2240826f76596a9638dea56aa85c91ecb576"
+  },
+  "final": {
+    "path": "candidates/Records-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      13,
+      11,
+      1249,
+      1246
+    ],
+    "bbox_alpha128": [
+      124,
+      169,
+      1130,
+      1085
+    ],
+    "sha256": "7e2dbc9a4ff34b0aec28766bae40909f9da35e5b2734e5b29a854e8fe2914c0b"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 1.0,
+      "offset_px": [
+        13,
+        -8
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}

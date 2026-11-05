@@ -1,0 +1,1121 @@
+{
+  "date": "2026-11-05",
+  "status": "candidate",
+  "assets": [
+    {
+      "batch": "map",
+      "id": "Collapse",
+      "label": "收合",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/Collapse-A-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Collapse-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          20,
+          1238,
+          1254
+        ],
+        "bbox_alpha128": [
+          201,
+          123,
+          1039,
+          1158
+        ],
+        "sha256": "c6404807e9fffbe22e618e706fdb73989aadce01f7b51a187600ce3fd464fe2b"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Collapse-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          7,
+          6,
+          1245,
+          1240
+        ],
+        "bbox_alpha128": [
+          208,
+          109,
+          1046,
+          1144
+        ],
+        "sha256": "a315ee98caeb4a5d89d36c0fb453e70659b0a4f5281a222336776e1971b8e8d5"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 1.0,
+          "offset_px": [
+            7,
+            -14
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Collapse-A-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Collapse",
+      "label": "收合",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/Collapse-B-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Collapse-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          19,
+          1240,
+          1254
+        ],
+        "bbox_alpha128": [
+          165,
+          145,
+          1084,
+          1113
+        ],
+        "sha256": "0f4efc405a2ba3d33f78ea6f07a233305f10a972bf70936a29b8e3d150a137aa"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Collapse-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          2,
+          17,
+          1242,
+          1252
+        ],
+        "bbox_alpha128": [
+          167,
+          143,
+          1086,
+          1111
+        ],
+        "sha256": "178c061fcc1990800bcbfaf86501560b393284c6fdaf3cf923d80cb0339cba4b"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 1.0,
+          "offset_px": [
+            2,
+            -2
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Collapse-B-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Locate",
+      "label": "目前位置",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/Locate-A-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Scan.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Locate-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          35,
+          1238,
+          1198
+        ],
+        "bbox_alpha128": [
+          249,
+          111,
+          995,
+          1163
+        ],
+        "sha256": "61db3615dc3fd18f9ffaeec9c82bea3ab96b4d96f329c952b9191421f4d5198a"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Locate-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          5,
+          25,
+          1243,
+          1188
+        ],
+        "bbox_alpha128": [
+          254,
+          101,
+          1000,
+          1153
+        ],
+        "sha256": "b83f8bd7d4a265715566df4cecd23072a74c8daf5ebf0bb826f0f421dffe9788"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 1.0,
+          "offset_px": [
+            5,
+            -10
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Locate-A-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Locate",
+      "label": "目前位置",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/Locate-B-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Scan.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Locate-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          39,
+          1241,
+          1254
+        ],
+        "bbox_alpha128": [
+          166,
+          57,
+          1054,
+          1195
+        ],
+        "sha256": "902644becc30387547001afeefc5fd0d93441f34dfd262c9653b4c740aa3d9bb"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Locate-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          62,
+          83,
+          1211,
+          1208
+        ],
+        "bbox_alpha128": [
+          216,
+          100,
+          1038,
+          1153
+        ],
+        "sha256": "aa8298a08157a4afb523f1f899a105c0885fddb995da48943c04e733e123fc59"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 0.9261862917398945,
+          "offset_px": [
+            62,
+            47
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Locate-B-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Teleport",
+      "label": "傳送準星",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/Teleport-A-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Scan.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Teleport-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          83,
+          1216,
+          1180
+        ],
+        "bbox_alpha128": [
+          186,
+          90,
+          1042,
+          1175
+        ],
+        "sha256": "77f8efad27d39ce406b4685435d36fd95918938bce2a2d3dd29c5beef011b990"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Teleport-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          31,
+          94,
+          1212,
+          1159
+        ],
+        "bbox_alpha128": [
+          212,
+          100,
+          1043,
+          1154
+        ],
+        "sha256": "a0e9682094e2ed3457f08ce813002c79528e1e2eff2ba3d22ce6a497dd2f5ebe"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 0.9714285714285714,
+          "offset_px": [
+            31,
+            13
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Teleport-A-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Teleport",
+      "label": "傳送準星",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/Teleport-B-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Scan.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Teleport-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          17,
+          1236,
+          1254
+        ],
+        "bbox_alpha128": [
+          159,
+          93,
+          1067,
+          1197
+        ],
+        "sha256": "7340618aa64ff6274a5e86d3658e6f47a9fe3ae21554cec8b21c3f0aec87caa2"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Teleport-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          42,
+          27,
+          1222,
+          1208
+        ],
+        "bbox_alpha128": [
+          194,
+          100,
+          1061,
+          1154
+        ],
+        "sha256": "e7e19ed862595007cdcd315eda0b2aaee7f1b77d32bd621395f7e535b078cc2c"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 0.9547101449275363,
+          "offset_px": [
+            42,
+            11
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Teleport-B-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Layers",
+      "label": "圖層",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/Layers-A-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Records.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Layers-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          9,
+          1238,
+          1254
+        ],
+        "bbox_alpha128": [
+          189,
+          125,
+          1069,
+          1180
+        ],
+        "sha256": "d1cbede2252bde2c0c44195b09ea7e8e2a052aa73f1fc60a0f80ebdd35c7dbc3"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Layers-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          0,
+          1236,
+          1228
+        ],
+        "bbox_alpha128": [
+          188,
+          100,
+          1067,
+          1154
+        ],
+        "sha256": "82e443ee3cb51cc3b017180d6287f967fc4f9212ebbb49cfe432a8d4b81a8903"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 0.9990521327014218,
+          "offset_px": [
+            -1,
+            -25
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Layers-A-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Layers",
+      "label": "圖層",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/Layers-B-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Records.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Layers-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          23,
+          1238,
+          1254
+        ],
+        "bbox_alpha128": [
+          104,
+          151,
+          1165,
+          1200
+        ],
+        "sha256": "141e862954a1ebcd990f398dfdcfb015b616b3ec581ae1618b4f0e86ca2939b8"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Layers-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          42,
+          1227,
+          1202
+        ],
+        "bbox_alpha128": [
+          101,
+          106,
+          1155,
+          1148
+        ],
+        "sha256": "a5eb58c6f871d4d230625a4033c2e6140dc8f5336bf5b5e3f43ab75ea518ff00"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 0.9934024505183789,
+          "offset_px": [
+            -3,
+            -44
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Layers-B-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Settings",
+      "label": "設定",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/Settings-A-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Auto.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Settings-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          17,
+          1234,
+          1254
+        ],
+        "bbox_alpha128": [
+          108,
+          109,
+          1134,
+          1169
+        ],
+        "sha256": "26b3ee24660ec32eb4c7f01c4e1bab5c829fdffd56a119218899e21969f04511"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Settings-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          10,
+          9,
+          1237,
+          1239
+        ],
+        "bbox_alpha128": [
+          117,
+          100,
+          1138,
+          1155
+        ],
+        "sha256": "05e14f55adede28a294c094ba9ed6250ca774673236b37d7e979662fe159fed9"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 0.9943396226415094,
+          "offset_px": [
+            10,
+            -8
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Settings-A-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Settings",
+      "label": "設定",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/Settings-B-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Auto.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Settings-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          0,
+          1190,
+          1235
+        ],
+        "bbox_alpha128": [
+          131,
+          126,
+          1120,
+          1166
+        ],
+        "sha256": "f2841b6b7d1e3ce44e0176184b68ab1f59b8894dfc0f3ec6fd9966a38a8f6539"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Settings-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          2,
+          0,
+          1192,
+          1216
+        ],
+        "bbox_alpha128": [
+          133,
+          107,
+          1122,
+          1147
+        ],
+        "sha256": "e39ed7dd35ef3aefc42dd657fbbade8895c2d6816796cb252e9b7d8e3006f391"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 1.0,
+          "offset_px": [
+            2,
+            -19
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Settings-B-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "More",
+      "label": "更多",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/More-A-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/More-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          21,
+          1240,
+          1234
+        ],
+        "bbox_alpha128": [
+          33,
+          377,
+          1216,
+          892
+        ],
+        "sha256": "295b6351ffc04b411288d40beae7d76bf33e65a2a7e9a49061094d8ff901891b"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/More-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          71,
+          81,
+          1176,
+          1161
+        ],
+        "bbox_alpha128": [
+          101,
+          398,
+          1154,
+          856
+        ],
+        "sha256": "25ca7c5d74956a3d56405988a832596a42cf66f868d06371eb89618577c347c0"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 0.8909551986475064,
+          "offset_px": [
+            71,
+            62
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/More-A-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "More",
+      "label": "更多",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/More-B-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/More-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          32,
+          1214,
+          1235
+        ],
+        "bbox_alpha128": [
+          70,
+          369,
+          1176,
+          914
+        ],
+        "sha256": "2a0742e7e41ccfa35b7dc98bc088431f2a2a47bb3cc06ae9f613cb6fdb7cb827"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/More-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          33,
+          46,
+          1190,
+          1193
+        ],
+        "bbox_alpha128": [
+          99,
+          367,
+          1154,
+          887
+        ],
+        "sha256": "cbfc8548bf57c33682420140ac296ae160797d9d96dea3a550b099601d24abd2"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+          "scale": 0.9529837251356239,
+          "offset_px": [
+            33,
+            16
+          ]
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/More-B-v1/generation.json"
+    },
+    {
+      "batch": "map",
+      "id": "Expand",
+      "label": "展開",
+      "concept": "A",
+      "status": "candidate",
+      "directory": "candidates/Expand-A-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen source + authorized mechanical vertical flip",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Expand-A-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          20,
+          1238,
+          1254
+        ],
+        "bbox_alpha128": [
+          201,
+          123,
+          1039,
+          1158
+        ],
+        "sha256": "c6404807e9fffbe22e618e706fdb73989aadce01f7b51a187600ce3fd464fe2b"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Expand-A-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          7,
+          14,
+          1245,
+          1248
+        ],
+        "bbox_alpha128": [
+          208,
+          110,
+          1046,
+          1145
+        ],
+        "sha256": "ac0d860c082ad0e36bfede7efab1a020f5df4813f070018b4889c4be062146f0"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Exact FLIP_TOP_BOTTOM of finalized Collapse RGBA",
+          "authorization": "使用者允許機械翻轉，確保完全一致；2026-11-05"
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Expand-A-v1/generation.json",
+      "derived_from": "brand/ui/illustrated-v1/candidates/Collapse-A-v1/icon.png"
+    },
+    {
+      "batch": "map",
+      "id": "Expand",
+      "label": "展開",
+      "concept": "B",
+      "status": "candidate",
+      "directory": "candidates/Expand-B-v1",
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png",
+        "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+      ],
+      "kind": "game-item",
+      "date": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "tool": "image_gen source + authorized mechanical vertical flip",
+      "transparent_background": true,
+      "original": {
+        "path": "brand/ui/illustrated-v1/candidates/Expand-B-v1/generated-original.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          19,
+          1240,
+          1254
+        ],
+        "bbox_alpha128": [
+          165,
+          145,
+          1084,
+          1113
+        ],
+        "sha256": "0f4efc405a2ba3d33f78ea6f07a233305f10a972bf70936a29b8e3d150a137aa"
+      },
+      "final": {
+        "path": "brand/ui/illustrated-v1/candidates/Expand-B-v1/icon.png",
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          2,
+          2,
+          1242,
+          1237
+        ],
+        "bbox_alpha128": [
+          167,
+          143,
+          1086,
+          1111
+        ],
+        "sha256": "6ac1270eb9961ad2d35cf6da764e9b01f18c5eae288c27aa20ff9e40fed425b2"
+      },
+      "mechanical_operations": [
+        {
+          "operation": "Exact FLIP_TOP_BOTTOM of finalized Collapse RGBA",
+          "authorization": "使用者允許機械翻轉，確保完全一致；2026-11-05"
+        }
+      ],
+      "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+      "generation_record": "brand/ui/illustrated-v1/candidates/Expand-B-v1/generation.json",
+      "derived_from": "brand/ui/illustrated-v1/candidates/Collapse-B-v1/icon.png"
+    }
+  ],
+  "approved_reference": null
+}

@@ -1,0 +1,112 @@
+{
+  "id": "GoldBasin",
+  "status": "candidate",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_range": [
+    0,
+    255
+  ],
+  "alpha_nonzero_bbox": [
+    100,
+    118,
+    1154,
+    1135
+  ],
+  "body_bbox_alpha128": [
+    100,
+    118,
+    1154,
+    1135
+  ],
+  "sha256": "97427412554d33f5b75ff61ff6ed3beb024941618dcc10668abc67c1b3238501",
+  "original_sha256": "e06c95dbd486188753a72aa64ccc42b4694c6778916bd69943b81737ff7a2231",
+  "solid_palette_rgb": [
+    [
+      46,
+      58,
+      47
+    ],
+    [
+      243,
+      108,
+      99
+    ],
+    [
+      255,
+      241,
+      219
+    ]
+  ],
+  "normalization": "nearest exact palette; alpha>=128; remove speckles; restore dark interior extraction holes in B/C where criteria match; fit longest bound1054px (8% margin); no hand-drawn geometry",
+  "user_authorized_python_cleanup": true,
+  "uniform_edge_weight_cleanup": [],
+  "shape_preservation_note": "GoldBasin exempted from global edge inflation because it merged the planter opening and arrow gap; remaining width failures are reported, not suppressed.",
+  "style": "C",
+  "label": "金盆",
+  "occupied_canvas_fraction": 0.4432,
+  "ink_ridge_width_dp20_estimate": {
+    "p10": 0.478,
+    "p50": 0.499,
+    "p90": 0.861
+  },
+  "ink_ridge_width_dp24_estimate": {
+    "p10": 0.574,
+    "p50": 0.599,
+    "p90": 1.033
+  },
+  "accent_components": [
+    {
+      "area_source_px": 25183,
+      "bbox_source_px": [
+        917,
+        437,
+        1074,
+        875
+      ],
+      "bbox_min_edge_dp20": 2.504
+    }
+  ],
+  "outer_ink_fraction": 1.0,
+  "gold_basin_arrow_shaft_dp20_estimate": 0.702,
+  "color_contrast": [
+    {
+      "rgb": [
+        255,
+        241,
+        219
+      ],
+      "contrast_on_warm_white": 1.087,
+      "role": "internal_cream"
+    },
+    {
+      "rgb": [
+        46,
+        58,
+        47
+      ],
+      "contrast_on_warm_white": 11.636,
+      "role": "main"
+    },
+    {
+      "rgb": [
+        243,
+        108,
+        99
+      ],
+      "contrast_on_warm_white": 2.874,
+      "role": "accent_exception_accepted"
+    }
+  ],
+  "qc_flags": [
+    "ink_ridge_p10_below_1.75dp_review_required",
+    "largest_accent_bbox_min_edge_below_3dp",
+    "gold_basin_arrow_shaft_below_3dp",
+    "gold_basin_arrow_gap_not_clear"
+  ],
+  "min_line_width_compliance": "requires_shape_specific_review; ridge quantiles are diagnostic, not certified minima",
+  "preview_notes": "80px=20dp@xxxhdpi;96px=24dp@xxxhdpi. Antialiased derived previews may contain blend colors; source icon.png has <=3 solid colors."
+}

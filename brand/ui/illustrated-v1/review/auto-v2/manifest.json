@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-05",
+  "status": "partially-approved",
+  "assets": [
+    {
+      "concept": "A",
+      "title": "芽苗齒輪",
+      "subject": "a chunky honey-gold mechanical cogwheel with exactly six broad softly rounded teeth, viewed almost front-on but slightly three-quarter so the clay volume is visible. A single short sage-green two-leaf sprout grows from its warm-brown circular center, and one small coral-red rounded activation stud sits on the lower-right tooth. The wheel is the main solid silhouette and the sprout is its one clear natural detail. No planter, no extra gears, no loop arrow",
+      "path": "candidates/Auto-A-v2",
+      "id": "Auto",
+      "status": "candidate",
+      "date": "2026-11-05",
+      "original": {
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          25,
+          1234,
+          1254
+        ],
+        "bbox_alpha128": [
+          111,
+          111,
+          1122,
+          1167
+        ],
+        "sha256": "feb96ec0983e08259c0193892a0721c93ad082a623c60565b59421d2f869d1f8"
+      },
+      "final": {
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          12,
+          14,
+          1244,
+          1241
+        ],
+        "bbox_alpha128": [
+          123,
+          100,
+          1133,
+          1154
+        ],
+        "sha256": "1b9be5d507deec9dae075124f871d46230136b8f086da9a3a758d724134fa915"
+      },
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "mechanical_operations": {
+        "uniform_scale": 0.9981060606060606,
+        "offset_px": [
+          12,
+          -11
+        ],
+        "note": "Canvas resize/centering only; original shading and alpha retained. No drawing, thickening, outlines or shape edits."
+      }
+    },
+    {
+      "concept": "B",
+      "title": "芽苗沙漏",
+      "subject": "a small friendly botanical hourglass timer with rounded honey-gold top and bottom caps, two short thick sage-green side supports, and a clear open hourglass-shaped center showing one broad warm-brown sand mound and one thick simple falling sand stream. A short sage two-leaf sprout rises from the top cap, and one small coral-red rounded timer button is inset in the base. This is an open matte game-item hourglass, no glass glare, no writing, no clockface, no tiny sand grains, no planter, no arrows",
+      "path": "candidates/Auto-B-v2",
+      "id": "Auto",
+      "status": "candidate",
+      "date": "2026-11-05",
+      "original": {
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          3,
+          1246,
+          1254
+        ],
+        "bbox_alpha128": [
+          225,
+          51,
+          994,
+          1211
+        ],
+        "sha256": "440e678752236ed7a1c15165509683db498fb6ba4ef5b64024939befe44a82b1"
+      },
+      "final": {
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          73,
+          57,
+          1205,
+          1193
+        ],
+        "bbox_alpha128": [
+          277,
+          100,
+          976,
+          1154
+        ],
+        "sha256": "4dd02c405cac811e49a8a294649b96c50660cd788409a3344a0ca49288ad90a6"
+      },
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "mechanical_operations": {
+        "uniform_scale": 0.9086206896551724,
+        "offset_px": [
+          73,
+          54
+        ],
+        "note": "Canvas resize/centering only; original shading and alpha retained. No drawing, thickening, outlines or shape edits."
+      }
+    },
+    {
+      "concept": "C",
+      "title": "循環果實",
+      "subject": "one plump coral-red fruit with a single broad sage-green leaf and short warm-brown stem, cradled on the lower-left side by ONE thick honey-gold circular return arrow with a big rounded arrowhead. The fruit is the main object, the curved arrow is the only supporting detail, and the gap inside the loop stays open and readable. Read as automated feeding or repeat cycle. No bowl, no pot, no gear, no hands, no bite marks, no shine",
+      "path": "candidates/Auto-C-v2",
+      "id": "Auto",
+      "status": "approved",
+      "date": "2026-11-05",
+      "original": {
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          0,
+          19,
+          1240,
+          1254
+        ],
+        "bbox_alpha128": [
+          73,
+          98,
+          1133,
+          1187
+        ],
+        "sha256": "bf7d9a5a4c9c7d5e83abad5c597a8c4cabd83c4610c749252ed27c85789351ec"
+      },
+      "final": {
+        "dimensions_px": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bbox_alpha_nonzero": [
+          43,
+          23,
+          1244,
+          1219
+        ],
+        "bbox_alpha128": [
+          114,
+          100,
+          1140,
+          1154
+        ],
+        "sha256": "cce84dab4eaf0c214d766a3318d0d77a49f61c0309be64f8d07be6783127163f"
+      },
+      "reference": [
+        "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+        "brand/approved/v0.5/red-mushroom.png"
+      ],
+      "mechanical_operations": {
+        "uniform_scale": 0.967860422405877,
+        "offset_px": [
+          43,
+          5
+        ],
+        "note": "Canvas resize/centering only; original shading and alpha retained. No drawing, thickening, outlines or shape edits."
+      },
+      "approved_path": "brand/ui/illustrated-v1/approved/auto-C-v2/icon.png",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-auto-C-v2.md"
+    }
+  ]
+}

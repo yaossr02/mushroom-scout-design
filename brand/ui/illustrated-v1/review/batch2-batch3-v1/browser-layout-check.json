@@ -1,0 +1,38 @@
+{
+  "imageCount": 364,
+  "broken": 0,
+  "circles": [
+    40
+  ],
+  "floatbarCounts": [
+    16,
+    16
+  ],
+  "floatIconSizes": [
+    24,
+    28
+  ],
+  "mapRightCounts": [
+    9,
+    9
+  ],
+  "mapTopCounts": [
+    2,
+    2
+  ],
+  "mapMoreCounts": [
+    1,
+    1
+  ],
+  "mapIconSizes": [
+    32
+  ],
+  "blindCount": 44,
+  "blindHasNoAltText": true,
+  "answersClosed": true,
+  "collapseExpandLinkedSwitch": "passed",
+  "returnToAppSwitch": "passed",
+  "pageErrors": [],
+  "date": "2026-11-05",
+  "status": "passed"
+}
