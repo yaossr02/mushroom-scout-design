@@ -30,15 +30,19 @@ if orbit_file.exists():
  for effect in orbit['assets']:
   s+=f'<div class="card"><div class="name">{effect["label"]}</div><img src="/{effect["composite_preview"]}" style="width:340px;height:340px;object-fit:contain" alt="{effect["label"]}環繞特效"><div class="status" style="color:#55735b">已核准</div></div>'
  s+='</div>'
-floatbar_manifest=ROOT/'brand/ui/v0.7-botanical/approved/floatbar-C-v2/manifest.json'
+new_floatbar=ROOT/'brand/ui/illustrated-v1/approved/batch2-floatbar/manifest.json'
+floatbar_manifest=new_floatbar if new_floatbar.exists() else ROOT/'brand/ui/v0.7-botanical/approved/floatbar-C-v2/manifest.json'
 if floatbar_manifest.exists():
  floatbar=json.loads(floatbar_manifest.read_text())
- s+='<h2>04　遊戲懸浮功能列 · 15 張 C-v2 ＋ D 插圖金盆（已核准）</h2><p>遊戲overlay專用，與App內一般圖示分開使用。直接排列核准PNG；視覺選用已核准，幾何警示與實機驗證事項仍保留。</p><div class="grid">'
- for icon in floatbar['assets']:
-  latest_gold=ROOT/'brand/ui/approved/gold-planter-illustrated-v1/approval.json'
-  selected=json.loads(latest_gold.read_text()) if icon['id']=='GoldBasin' and latest_gold.exists() else None
-  image=src(selected['path'] if selected else icon['path'])
-  s+=f'<div class="card approved"><div class="name">{html.escape(icon["label"])}</div><div class="pair"><span class="sample"><img src="{image}" alt="一般"></span><span class="sample selected"><img src="{image}" alt="選取示意"></span></div><div class="id">{icon["id"]}{' · D 插圖版' if selected else ''}</div><div class="status">已核准 · 浮列專用</div></div>'
+ if new_floatbar.exists():
+  s+='<h2>04　懸浮列插圖 · 11張新核准＋D金盆（尚缺4項）</h2><p>Feed、ReturnToApp、GameReturn、HideFloat需重畫。未與舊C-v2混搭；以下只列已核准來源，不代表全套已完成替換。</p><div class="grid">'
+  icons=[dict(floatbar['existing_approved_reference'],label='拉金盆')]+floatbar['assets']
+ else:
+  s+='<h2>04　歷史遊戲懸浮功能列 · C-v2</h2><div class="grid">'
+  icons=floatbar['assets']
+ for icon in icons:
+  image=src(icon['path'])
+  s+=f'<div class="card approved"><div class="name">{html.escape(icon["label"])}</div><div class="pair"><span class="sample"><img src="{image}" alt="一般"></span><span class="sample selected"><img src="{image}" alt="選取示意"></span></div><div class="id">{icon["id"]}</div><div class="status">已核准 · 浮列專用</div></div>'
  s+='</div>'
 illustrated_file=ROOT/'brand/ui/illustrated-v1/approved/batch1/manifest.json'
 current_file=ROOT/'brand/ui/illustrated-v1/approved/current-manifest.json'
@@ -49,6 +53,14 @@ if illustrated_file.exists():
  for icon in illustrated['assets']:
   image=src(icon['path'])
   s+=f'<div class="card approved"><div class="name">{html.escape(icon["label"])} {icon["concept"]}</div><div class="pair"><span class="sample"><img src="{image}" alt="一般示意"></span><span class="sample selected"><img src="{image}" alt="選取示意"></span></div><div class="id">{icon["id"]} · {html.escape(icon["title"])}</div><div class="status">已核准 · 插圖版</div></div>'
+ s+='</div>'
+map_extra=ROOT/'brand/ui/illustrated-v1/approved/batch3-map/manifest.json'
+if map_extra.exists():
+ batch=json.loads(map_extra.read_text())
+ s+='<h2>06　地圖其他圓鈕 · 4張已核准（尚缺3項）</h2><p>Locate B、Teleport A、Settings A、More A已核准；Collapse/Expand及Layers需重畫。40dp圓／32dp插圖，未修改App。</p><div class="grid">'
+ for item in batch['assets']:
+  image=src(item['path'])
+  s+=f'<div class="card approved"><div class="name">{html.escape(item["label"])} {item["concept"]}</div><div class="pair"><span class="sample"><img src="{image}" alt="一般示意"></span><span class="sample selected"><img src="{image}" alt="選取示意"></span></div><div class="id">{item["id"]}</div><div class="status">已核准 · 地圖32dp</div></div>'
  s+='</div>'
 s+='<p>直接排列原始 PNG，供整體檢閱，非正式輸出尺寸。深色介面採奶油承托底。舊 v0.6 Phosphor 包保留供追溯，已不列入目前總覽。</p></html>'
 OUT.mkdir(parents=True,exist_ok=True);(OUT/'all-icons-overview.html').write_text(s)

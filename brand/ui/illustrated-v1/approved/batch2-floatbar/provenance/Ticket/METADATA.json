@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "Ticket",
+  "label": "活動抽獎",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/Ticket-B-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Tasks.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Ticket-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      41,
+      1253,
+      1221
+    ],
+    "bbox_alpha128": [
+      166,
+      128,
+      1076,
+      1159
+    ],
+    "sha256": "a7e88850e63c6012beb83181919ed2a3bf079006c12e2de17ee08686718fada9"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Ticket-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      6,
+      25,
+      1254,
+      1205
+    ],
+    "bbox_alpha128": [
+      172,
+      112,
+      1082,
+      1143
+    ],
+    "sha256": "c6f82b914ac62581fab11ac3658cd919d597875fca2b58657586853290d022dc"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 1.0,
+      "offset_px": [
+        6,
+        -16
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/Ticket-B-v1/generation.json"
+}

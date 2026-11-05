@@ -1,0 +1,388 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "batch": "batch2-floatbar",
+  "status": "partially-approved",
+  "assets_status": "listed assets individually approved",
+  "assets": [
+    {
+      "id": "Dispatch",
+      "label": "自動派遣",
+      "concept": "B",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/Dispatch.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Dispatch-B-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        0,
+        8,
+        1224,
+        1240
+      ],
+      "bbox_alpha128": [
+        130,
+        111,
+        1124,
+        1144
+      ],
+      "sha256": "469c4c82d5dc39f89bbc69d4d0324d1b1a8a527580dc38ec7e3d499336825d6e"
+    },
+    {
+      "id": "LightSpeed",
+      "label": "光速移動",
+      "concept": "B",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/LightSpeed.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/LightSpeed-B-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        41,
+        45,
+        1242,
+        1216
+      ],
+      "bbox_alpha128": [
+        272,
+        100,
+        981,
+        1153
+      ],
+      "sha256": "236145a2356f69ea97e1d80a8744445e88caeebe6ca2dd9b4a4f860559ccdeb8"
+    },
+    {
+      "id": "Ticket",
+      "label": "活動抽獎",
+      "concept": "B",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/Ticket.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Ticket-B-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        6,
+        25,
+        1254,
+        1205
+      ],
+      "bbox_alpha128": [
+        172,
+        112,
+        1082,
+        1143
+      ],
+      "sha256": "c6f82b914ac62581fab11ac3658cd919d597875fca2b58657586853290d022dc"
+    },
+    {
+      "id": "FloatMenu",
+      "label": "展開功能列",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/FloatMenu.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/FloatMenu-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        16,
+        0,
+        1254,
+        1227
+      ],
+      "bbox_alpha128": [
+        155,
+        111,
+        1100,
+        1143
+      ],
+      "sha256": "492cb9263eb235b262a38453fb66b0b8dc746e4c2ae566ddfceaa920251c1225"
+    },
+    {
+      "id": "Play",
+      "label": "繼續",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/Play.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Play-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        18,
+        2,
+        1244,
+        1189
+      ],
+      "bbox_alpha128": [
+        174,
+        129,
+        1079,
+        1125
+      ],
+      "sha256": "2764a7382cd97dfb6c9371956886c8928dd7aa250cc460db30c3e78aa83f5f7e"
+    },
+    {
+      "id": "Pause",
+      "label": "暫停",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/Pause.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Pause-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        4,
+        2,
+        1252,
+        1240
+      ],
+      "bbox_alpha128": [
+        261,
+        171,
+        992,
+        1084
+      ],
+      "sha256": "bc2549584ac34df3763c6c13489ccd6003602d3355aaee6fe1b79decbf5a84c5"
+    },
+    {
+      "id": "Stop",
+      "label": "停止",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/Stop.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Stop-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        4,
+        3,
+        1224,
+        1217
+      ],
+      "bbox_alpha128": [
+        126,
+        117,
+        1128,
+        1137
+      ],
+      "sha256": "ea0483d1bf3daef5f1db2a1f6ebbf9bfc34f0c9ac0b69aeb1bfbe3789c854fee"
+    },
+    {
+      "id": "SkipBack",
+      "label": "上一株",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/SkipBack.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/SkipBack-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        19,
+        20,
+        1208,
+        1172
+      ],
+      "bbox_alpha128": [
+        100,
+        329,
+        1155,
+        927
+      ],
+      "sha256": "344942fd4ab8c8b42d4f45d8903fe7dc57ad59822d067bafc058f3aba4a742ed"
+    },
+    {
+      "id": "SkipForward",
+      "label": "下一株",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/SkipForward.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/SkipForward-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        19,
+        3,
+        1254,
+        1203
+      ],
+      "bbox_alpha128": [
+        100,
+        343,
+        1154,
+        911
+      ],
+      "sha256": "63f30e5b7c085cef0291c3ce7ae24774de01dd5c08c8a82c2732c9c40c4dcd1d"
+    },
+    {
+      "id": "Check",
+      "label": "確定完成",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/Check.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Check-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        21,
+        105,
+        1234,
+        1231
+      ],
+      "bbox_alpha128": [
+        120,
+        213,
+        1133,
+        1041
+      ],
+      "sha256": "b660174464be82fb1a36dde121f75839e86165d5a1ad3fed598fe8491cff5c9f"
+    },
+    {
+      "id": "Close",
+      "label": "關閉",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/Close.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Close-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        56,
+        8,
+        1241,
+        1213
+      ],
+      "bbox_alpha128": [
+        174,
+        176,
+        1080,
+        1078
+      ],
+      "sha256": "bccc2314b54642a7f096320a14c2a660d483fea556b6bb43de19ef5a18e022a7"
+    }
+  ],
+  "pending_redesign": [
+    "Feed",
+    "ReturnToApp",
+    "GameReturn",
+    "HideFloat"
+  ],
+  "ready_for_full_replacement": false,
+  "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+  "known_limitations": [
+    "Soft model alpha edges retained.",
+    "Preview CSS dimensions verified; no Android device tests."
+  ],
+  "display_spec": {
+    "circle_dp": 40,
+    "icon_dp": [
+      24,
+      28
+    ],
+    "background": "#FFFCF6"
+  },
+  "existing_approved_reference": {
+    "id": "GoldBasin",
+    "path": "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "sha256": "b6967fa63f1844ffc17ba55a808f3e4c5a95e49cd233b3b8e014addbfb35b1a2",
+    "approval_record": "brand/approvals/2026-11-05-gold-planter-illustrated.md"
+  },
+  "full_replacement_policy": "Do not combine D GoldBasin or these illustrations with legacy C-v2 as a new final set; four IDs are still awaiting redesign."
+}

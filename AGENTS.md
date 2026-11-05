@@ -27,3 +27,5 @@
 - 2026-11-05 Auto最新改採C「循環果實」v2，正式來源 `brand/ui/illustrated-v1/approved/auto-C-v2/approval.json`，現行整套清單 `brand/ui/illustrated-v1/approved/current-manifest.json`。首批Auto A保留歷史，其他四項與GoldBasin D維持；A/B重設計稿仍candidate。
 
 - 使用者持續授權（2026-11-05）：「之後我核准完，你就自動推送」。未來明確核准設計後，完成固定原圖與SHA-256、核准紀錄、現行清單、Claude交接與總覽檢查，再自動commit並推送本設計repo的main，不再另外要求確認。只推核准素材及必要來源／交接，不混入未選候選或無關工作；不代表授權修改App。非快轉衝突或連線失敗時先安全處理並如實回報，不強制推送。
+
+- 2026-11-05 問卷部分核准：懸浮列11張、地圖其他圓鈕4張，固定清單 `brand/ui/illustrated-v1/approved/batch2-floatbar/manifest.json` 與 `approved/batch3-map/manifest.json`。Feed、ReturnToApp、GameReturn、HideFloat、Collapse/Expand、Layers需重畫，不得視為核准；不得混舊C-v2湊成新定稿。地圖32dp插圖，懸浮列24/28dp，皆40dp暖白圓。操作符號本次選無葉A。

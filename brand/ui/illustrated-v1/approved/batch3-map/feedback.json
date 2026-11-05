@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-05",
+  "questionnaire": "call_a90d39ee2d6b4b95b7006cbcb10c2d36",
+  "approved_choices": {
+    "Dispatch": "B",
+    "LightSpeed": "B",
+    "Ticket": "B",
+    "FloatMenu": "A",
+    "Play": "A",
+    "Pause": "A",
+    "Stop": "A",
+    "SkipBack": "A",
+    "SkipForward": "A",
+    "Check": "A",
+    "Close": "A",
+    "Locate": "B",
+    "Teleport": "A",
+    "Settings": "A",
+    "More": "A"
+  },
+  "requires_redesign": {
+    "floatbar": [
+      "Feed",
+      "ReturnToApp",
+      "GameReturn",
+      "HideFloat"
+    ],
+    "map": [
+      "Collapse",
+      "Expand",
+      "Layers"
+    ]
+  },
+  "gold_reference": "D retained; not redrawn",
+  "approval_scope": "Only 15 selected unchanged PNG designs; seven semantic IDs require redesign and are not approved."
+}

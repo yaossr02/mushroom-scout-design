@@ -10,6 +10,12 @@
 
 新增、修改或停用圖示，以及變更核准狀態時，須同步更新大圖與本節說明，保留名稱、一般／選取狀態及實際審核狀態。
 
+### 懸浮列與地圖其他圓鈕 · 問卷部分核准（2026-11-05）
+
+已選定15張固定PNG：懸浮列11張、地圖4張；D金盆沿用。Feed、回到App、回到遊戲、隱藏、展開／收合、圖層還要重畫（6組、7個ID）。兩批尚未完整；不把舊C-v2混進新插圖列。未修改App。
+
+[懸浮列已選組合](brand/ui/illustrated-v1/approved/batch2-floatbar/selected-set.png) · [懸浮列固定清單](brand/ui/illustrated-v1/approved/batch2-floatbar/manifest.json) · [地圖已選組合](brand/ui/illustrated-v1/approved/batch3-map/selected-set.png) · [地圖固定清單](brand/ui/illustrated-v1/approved/batch3-map/manifest.json) · [Claude交接](brand/ui/illustrated-v1/CLAUDE-HANDOFF.md)
+
 ### Auto 重新設計 v2 · C循環果實已核准
 
 已選C循環果實作為目前Auto；A芽苗齒輪與B芽苗沙漏仍為candidate，未修改App。[Auto C核准原圖](brand/ui/illustrated-v1/approved/auto-C-v2/icon.png) · [目前組合與尺寸預覽](brand/ui/illustrated-v1/approved/current-preview.html)。
@@ -26,7 +32,7 @@
 
 [核准 PNG](brand/ui/approved/gold-planter-illustrated-v1/icon.png) · [規格與 SHA-256](brand/ui/approved/gold-planter-illustrated-v1/approval.json) · [Claude 交接](brand/ui/approved/gold-planter-illustrated-v1/CLAUDE-HANDOFF.md) · [核准紀錄](brand/approvals/2026-11-05-gold-planter-illustrated.md)
 
-### 遊戲懸浮功能列：C 金盆圓角貼紙 v2（16 張已核准）
+### 歷史懸浮功能列：C 金盆圓角貼紙 v2（16 張當時核准）
 
 以 C 金盆為唯一風格基準，其餘15項重新設計；使用者已選用完整16張。墨綠實心主體、連續奶油貼紙邊、墨綠外輪廓與單一珊瑚紅點綴，專用於遊戲畫面上的40dp圓底／20、24dp圖示。
 

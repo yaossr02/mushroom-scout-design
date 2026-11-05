@@ -1,0 +1,80 @@
+{
+  "batch": "floatbar",
+  "id": "LightSpeed",
+  "label": "光速移動",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/LightSpeed-B-v1",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "kind": "game-item",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/LightSpeed-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      35,
+      1234,
+      1238
+    ],
+    "bbox_alpha128": [
+      238,
+      91,
+      966,
+      1174
+    ],
+    "sha256": "7b4a0a8cf07527a1ee78aa3fb012582ebfe707c27204925c7e35308a9dfd84b1"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/LightSpeed-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      41,
+      45,
+      1242,
+      1216
+    ],
+    "bbox_alpha128": [
+      272,
+      100,
+      981,
+      1153
+    ],
+    "sha256": "236145a2356f69ea97e1d80a8744445e88caeebe6ca2dd9b4a4f860559ccdeb8"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "uniform resize and translate complete image onto transparent 1254px canvas",
+      "scale": 0.9732225300092336,
+      "offset_px": [
+        41,
+        11
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no morphology, recoloring, thickening, stroke, added drawing or shape edits.",
+  "generation_record": "brand/ui/illustrated-v1/candidates/LightSpeed-B-v1/generation.json"
+}

@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "batch": "batch3-map",
+  "status": "partially-approved",
+  "assets_status": "listed assets individually approved",
+  "assets": [
+    {
+      "id": "Locate",
+      "label": "目前位置",
+      "concept": "B",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/Locate.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Locate-B-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        62,
+        83,
+        1211,
+        1208
+      ],
+      "bbox_alpha128": [
+        216,
+        100,
+        1038,
+        1153
+      ],
+      "sha256": "aa8298a08157a4afb523f1f899a105c0885fddb995da48943c04e733e123fc59"
+    },
+    {
+      "id": "Teleport",
+      "label": "傳送準星",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/Teleport.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Teleport-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        31,
+        94,
+        1212,
+        1159
+      ],
+      "bbox_alpha128": [
+        212,
+        100,
+        1043,
+        1154
+      ],
+      "sha256": "a0e9682094e2ed3457f08ce813002c79528e1e2eff2ba3d22ce6a497dd2f5ebe"
+    },
+    {
+      "id": "Settings",
+      "label": "設定",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/Settings.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Settings-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        10,
+        9,
+        1237,
+        1239
+      ],
+      "bbox_alpha128": [
+        117,
+        100,
+        1138,
+        1155
+      ],
+      "sha256": "05e14f55adede28a294c094ba9ed6250ca774673236b37d7e979662fe159fed9"
+    },
+    {
+      "id": "More",
+      "label": "更多",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/More.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/More-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        71,
+        81,
+        1176,
+        1161
+      ],
+      "bbox_alpha128": [
+        101,
+        398,
+        1154,
+        856
+      ],
+      "sha256": "25ca7c5d74956a3d56405988a832596a42cf66f868d06371eb89618577c347c0"
+    }
+  ],
+  "pending_redesign": [
+    "Collapse",
+    "Expand",
+    "Layers"
+  ],
+  "ready_for_full_replacement": false,
+  "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+  "known_limitations": [
+    "Soft model alpha edges retained.",
+    "Preview CSS dimensions verified; no Android device tests."
+  ],
+  "display_spec": {
+    "circle_dp": 40,
+    "icon_dp": [
+      32
+    ],
+    "background": "#FFFCF6"
+  }
+}
