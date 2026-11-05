@@ -55,9 +55,11 @@ if illustrated_file.exists():
   s+=f'<div class="card approved"><div class="name">{html.escape(icon["label"])} {icon["concept"]}</div><div class="pair"><span class="sample"><img src="{image}" alt="一般示意"></span><span class="sample selected"><img src="{image}" alt="選取示意"></span></div><div class="id">{icon["id"]} · {html.escape(icon["title"])}</div><div class="status">已核准 · 插圖版</div></div>'
  s+='</div>'
 map_extra=ROOT/'brand/ui/illustrated-v1/approved/batch3-map/manifest.json'
+map_current=ROOT/'brand/ui/illustrated-v1/approved/batch3-map/current-manifest.json'
+if map_current.exists():map_extra=map_current
 if map_extra.exists():
  batch=json.loads(map_extra.read_text())
- s+='<h2>06　地圖其他圓鈕 · 4張已核准（尚缺3項）</h2><p>Locate B、Teleport A、Settings A、More A已核准；Collapse/Expand及Layers需重畫。40dp圓／32dp插圖，未修改App。</p><div class="grid">'
+ s+='<h2>06　地圖其他圓鈕 · 7項全部已核准</h2><p>Collapse/Expand B綠色雙尖括號、Layers B剖面地塊；Locate B、Teleport A、Settings A、More A沿用核准。40dp圓／32dp插圖，未修改App。</p><div class="grid">'
  for item in batch['assets']:
   image=src(item['path'])
   s+=f'<div class="card approved"><div class="name">{html.escape(item["label"])} {item["concept"]}</div><div class="pair"><span class="sample"><img src="{image}" alt="一般示意"></span><span class="sample selected"><img src="{image}" alt="選取示意"></span></div><div class="id">{item["id"]}</div><div class="status">已核准 · 地圖32dp</div></div>'

@@ -12,9 +12,9 @@
 
 ### 懸浮列與地圖其他圓鈕 · 問卷部分核准（2026-11-05）
 
-已選定15張固定PNG：懸浮列11張、地圖4張；D金盆沿用。Feed、回到App、回到遊戲、隱藏、展開／收合、圖層還要重畫（6組、7個ID）。兩批尚未完整；不把舊C-v2混進新插圖列。未修改App。
+目前18張新核准：懸浮列11張、地圖其他7張；D金盆沿用。地圖已齊全（收合/展開選B綠色雙尖括號、圖層選B剖面地塊）。Feed、回到App、回到遊戲、隱藏仍需重畫；懸浮列尚未完整，不把舊C-v2混進新插圖列。未修改App。
 
-[懸浮列已選組合](brand/ui/illustrated-v1/approved/batch2-floatbar/selected-set.png) · [懸浮列固定清單](brand/ui/illustrated-v1/approved/batch2-floatbar/manifest.json) · [地圖已選組合](brand/ui/illustrated-v1/approved/batch3-map/selected-set.png) · [地圖固定清單](brand/ui/illustrated-v1/approved/batch3-map/manifest.json) · [Claude交接](brand/ui/illustrated-v1/CLAUDE-HANDOFF.md)
+[懸浮列已選組合](brand/ui/illustrated-v1/approved/batch2-floatbar/selected-set.png) · [懸浮列固定清單](brand/ui/illustrated-v1/approved/batch2-floatbar/manifest.json) · [地圖已選組合](brand/ui/illustrated-v1/approved/batch3-map/current-set.png) · [地圖固定清單](brand/ui/illustrated-v1/approved/batch3-map/current-manifest.json) · [Claude交接](brand/ui/illustrated-v1/CLAUDE-HANDOFF.md)
 
 ### Auto 重新設計 v2 · C循環果實已核准
 

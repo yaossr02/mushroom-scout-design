@@ -1,0 +1,20 @@
+{
+  "batch": "map",
+  "id": "Expand",
+  "label": "展開",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/Expand-B-v2",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen source + authorized Pillow FLIP_TOP_BOTTOM",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "prompt": "Exact vertical flip of complete finalized Collapse RGBA. No redrawing or shape edits; source model prompt retained in source_model_prompt.",
+  "transparent_background": true,
+  "source_model_prompt": "A single game-item icon illustration of exactly TWO thick sage-green UP chevrons stacked vertically with a clearly open transparent gap, both apexes point TOP, rounded ends and broad strokes. Standard double-up control shape, no shaft, no leaf decoration, no curled leaf, no other objects. Straight front view. Render in exactly the same visual family as the THREE attached approved reference images: reference 1 golden planter D for matte volume and lighting, reference 2 red mushroom for softly painted 3D illustration, reference 3 related approved function icon for visual weight. References guide STYLE, do not copy their objects unless the subject explicitly calls for them.\n\nSoft matte clay-like 3D, smooth plump rounded volumes, gentle top-left key light, softly painted core shading, a faint soft highlight, crisp clean silhouette with NO outline. No texture noise. Palette: warm honey-gold #F5C55A (light #FFE7A0, shade #C98F2A), sage green, warm browns, cream #FFF1DB, coral red #F36C63 as the only high-saturation accent. Never shiny metal, chrome or plastic; no specular glare. A thick simple readable silhouette, one main object with at most one or two supporting details, no tiny decorative marks. At 96px all key parts must remain legible.\n\nCentered square canvas, 1254x1254 transparent RGBA PNG. Object fills about 84%, about 8% safe margin on EVERY side. No background, frame, enclosing circle, scene, ground plane or cast shadow outside the object; only an extremely faint contact shadow is allowed.\n\nDO NOT add faces, eyes, mouths, anthropomorphic bodies, hands, arms, feet, characters, text, letters, numbers, fake writing, sparkles, glitter, thick black outlines, sticker borders, flat vector, line-art, emoji style, glass glare or neon. Only ONE icon, never a contact sheet or comparisons. This is a NEW design after both earlier concepts were rejected. Do not recreate the old fruit basket, old mushroom-return icon, old cottage, old plain garden arch, old half-leaf button, old rolled-leaf arrows, stacked leaves or paper maps. Only the specified subject. Keep its identifying silhouette very simple.\n",
+  "authorization": "User explicitly authorized exact mechanical vertical flip for Collapse/Expand on 2026-11-05; same pair continued in v2."
+}

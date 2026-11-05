@@ -1,0 +1,7 @@
+{
+  "date": "2026-11-05",
+  "tool": "Pillow FLIP_TOP_BOTTOM; not new model generation",
+  "source_model_generation": "brand/ui/illustrated-v1/candidates/Collapse-B-v2/generation.json",
+  "authorization": "User explicitly authorized exact mechanical vertical flip for Collapse/Expand on 2026-11-05; same pair continued in v2.",
+  "raw_original_policy": "Byte-identical copy of Collapse original model output, not an independent Expand generation"
+}

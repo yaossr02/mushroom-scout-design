@@ -22,8 +22,14 @@
 ## 2026-11-05 問卷新增核准（部分完成）
 
 - [懸浮列固定清單](approved/batch2-floatbar/manifest.json)：11張新核准，另沿用D金盆。Feed、ReturnToApp、GameReturn、HideFloat還要重畫。
-- [地圖其他圓鈕固定清單](approved/batch3-map/manifest.json)：Locate B、Teleport A、Settings A、More A已核准；Collapse／Expand與Layers還要重畫。
+- [地圖其他圓鈕現行清單](approved/batch3-map/current-manifest.json)：七項均已核准；Collapse/Expand B綠色雙尖括號、Layers B剖面地塊，其餘四項維持。
 - 新核准圖都在對應批次目錄的 `<ID>.png`；不得從比較板裁切，依manifest的SHA-256取圖。
-- 本次兩批皆 `ready_for_full_replacement:false`。使用者要求整套插圖化，懸浮列不能以舊C-v2或被退回的候選補齊、宣稱全套完成；先保管已核准資產，待剩餘項核准後再做整套替換。
+- 懸浮列仍 `ready_for_full_replacement:false`；地圖其他圓鈕已齊全，見其現行manifest。使用者要求整套插圖化，懸浮列不能以舊C-v2或被退回的候選補齊、宣稱全套完成；先保管已核准資產，待剩餘項核准後再做整套替換。
 - 40dp暖白圓容器；地圖圖示32dp，懸浮列24／28dp。前五項地圖功能及Auto C仍依現行清單。未改App，未做Android實機測試。
 - 本問卷的標準操作全部選無葉A：保留清楚的Play／Pause／Stop／Skip／Check／Close形狀，不額外添加葉片或道具。
+
+## 地圖已補齊與下一輪重畫要求
+
+地圖請用batch3-map/current-manifest.json，不用舊partial manifest；[32dp完整檢閱](approved/batch3-map/current-preview.html)。Collapse／Expand的完整RGBA精確上下翻轉，不能另外重畫或變形。
+
+懸浮列尚缺Feed、ReturnToApp、GameReturn、HideFloat。使用者最新指定：餵果需有餵食動作；回App需是蘑菇程式而非書本；回遊戲需是遊戲圖示；隱藏需有眼睛看不到的概念。後續只把功能眼睛當標準符號，不在角色／蘑菇上加五官。這四項待核准，尚未提供正式替換檔。

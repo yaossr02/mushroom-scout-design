@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "batch": "batch3-map",
+  "status": "approved",
+  "assets_status": "listed assets individually approved",
+  "assets": [
+    {
+      "id": "Collapse",
+      "label": "收合",
+      "concept": "B",
+      "version": "v2",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/completion-v2/Collapse.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Collapse-B-v2",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-map-completion-v2.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        6,
+        1,
+        1254,
+        1230
+      ],
+      "bbox_alpha128": [
+        162,
+        124,
+        1092,
+        1131
+      ],
+      "sha256": "8ae4e7d25e737e1a999402798db6bfb7bd086e052a009a7e88e3bcacdeaee72c"
+    },
+    {
+      "id": "Expand",
+      "label": "展開",
+      "concept": "B",
+      "version": "v2",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/completion-v2/Expand.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Expand-B-v2",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-map-completion-v2.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        6,
+        24,
+        1254,
+        1253
+      ],
+      "bbox_alpha128": [
+        162,
+        123,
+        1092,
+        1130
+      ],
+      "sha256": "54c8922d80d4ed74954b1f69f951927fc54cd302aad3db068cd00da9275566d3"
+    },
+    {
+      "id": "Locate",
+      "label": "目前位置",
+      "concept": "B",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/Locate.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Locate-B-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        62,
+        83,
+        1211,
+        1208
+      ],
+      "bbox_alpha128": [
+        216,
+        100,
+        1038,
+        1153
+      ],
+      "sha256": "aa8298a08157a4afb523f1f899a105c0885fddb995da48943c04e733e123fc59"
+    },
+    {
+      "id": "Teleport",
+      "label": "傳送準星",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/Teleport.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Teleport-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        31,
+        94,
+        1212,
+        1159
+      ],
+      "bbox_alpha128": [
+        212,
+        100,
+        1043,
+        1154
+      ],
+      "sha256": "a0e9682094e2ed3457f08ce813002c79528e1e2eff2ba3d22ce6a497dd2f5ebe"
+    },
+    {
+      "id": "Layers",
+      "label": "圖層",
+      "concept": "B",
+      "version": "v2",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/completion-v2/Layers.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Layers-B-v2",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-map-completion-v2.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        2,
+        23,
+        1234,
+        1200
+      ],
+      "bbox_alpha128": [
+        147,
+        101,
+        1108,
+        1154
+      ],
+      "sha256": "9eab70658255f23c07cecc8a454a3793208b2141330843f5a87a095ae224004c"
+    },
+    {
+      "id": "Settings",
+      "label": "設定",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/Settings.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Settings-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        10,
+        9,
+        1237,
+        1239
+      ],
+      "bbox_alpha128": [
+        117,
+        100,
+        1138,
+        1155
+      ],
+      "sha256": "05e14f55adede28a294c094ba9ed6250ca774673236b37d7e979662fe159fed9"
+    },
+    {
+      "id": "More",
+      "label": "更多",
+      "concept": "A",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch3-map/More.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/More-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-batch2-batch3-partial.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        71,
+        81,
+        1176,
+        1161
+      ],
+      "bbox_alpha128": [
+        101,
+        398,
+        1154,
+        856
+      ],
+      "sha256": "25ca7c5d74956a3d56405988a832596a42cf66f868d06371eb89618577c347c0"
+    }
+  ],
+  "pending_redesign": [],
+  "ready_for_full_replacement": true,
+  "approval_record": "brand/approvals/2026-11-05-illustrated-map-completion-v2.md",
+  "known_limitations": [
+    "Soft model alpha edges retained.",
+    "Preview CSS dimensions verified; no Android device tests."
+  ],
+  "display_spec": {
+    "circle_dp": 40,
+    "icon_dp": [
+      32
+    ],
+    "background": "#FFFCF6"
+  },
+  "version": "batch3-map-complete-v2",
+  "base_manifest": "brand/ui/illustrated-v1/approved/batch3-map/manifest.json",
+  "approval_scope": "All seven supplementary map icons individually approved; base-five map icons retained separately. No App code or device tests."
+}

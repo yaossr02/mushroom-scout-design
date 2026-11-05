@@ -1,0 +1,71 @@
+{
+  "batch": "map",
+  "id": "Expand",
+  "label": "展開",
+  "concept": "B",
+  "status": "candidate",
+  "directory": "candidates/Expand-B-v2",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Favorites.png"
+  ],
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/Expand-B-v2/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      8,
+      1253,
+      1254
+    ],
+    "bbox_alpha128": [
+      156,
+      148,
+      1086,
+      1155
+    ],
+    "sha256": "73a0f22823b195a4e8c9bf98801a4e29956d1cf66ac1ff68fabd939eb7df8459"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/Expand-B-v2/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      6,
+      24,
+      1254,
+      1253
+    ],
+    "bbox_alpha128": [
+      162,
+      123,
+      1092,
+      1130
+    ],
+    "sha256": "54c8922d80d4ed74954b1f69f951927fc54cd302aad3db068cd00da9275566d3"
+  },
+  "mechanical_operations": [
+    "Authorized exact FLIP_TOP_BOTTOM of final Collapse RGBA"
+  ],
+  "derived_from": "brand/ui/illustrated-v1/candidates/Collapse-B-v2/icon.png"
+}
