@@ -4,17 +4,19 @@
 
 ## 全系列圖示總覽
 
-目前有效的 21 張蘑菇／植物／品牌素材，以及完整 **57 項 B 植物線條功能用途＋地圖入口**。品牌、首批六張功能原圖與「拉金盆」v6 已核准；其餘 49 張延伸原圖仍待審核，另附五種已核准的 v0.9 B 環繞流動強化特效。另有 **16 張遊戲懸浮功能列 C 金盆圓角貼紙 v2 已核准**，與 App 內圖示分開使用；其中 GoldBasin 最新採用 2026-11-05 核准的 D 蘑菇插圖版。點擊大圖可放大。
+目前有效的 21 張蘑菇／植物／品牌素材，以及完整 **57 項 B 植物線條功能用途＋地圖入口**。品牌、首批六張功能原圖與「拉金盆」v6 已核准；其餘 49 張延伸原圖仍待審核，另附五種已核准的 v0.9 B 環繞流動強化特效。最新已核准 **16項illustrated-v1懸浮列＋12項地圖插圖**，共28個語意ID；C-v2僅作歷史。點擊大圖可放大。
 
 [![全系列圖示總覽](brand/reviews/overview/all-icons-overview.png)](brand/reviews/overview/all-icons-overview.png)
 
 新增、修改或停用圖示，以及變更核准狀態時，須同步更新大圖與本節說明，保留名稱、一般／選取狀態及實際審核狀態。
 
-### 懸浮列與地圖其他圓鈕 · 問卷部分核准（2026-11-05）
+### illustrated-v1 · 懸浮列與地圖全部已核准（2026-11-05）
 
-目前19張新核准：懸浮列12張、地圖其他7張；D金盆沿用。地圖已齊全（收合/展開選B綠色雙尖括號、圖層選B剖面地塊）。隱藏已選睜眼＋斜線A v3；Feed、回到App、回到遊戲仍需改稿；懸浮列尚未完整，不把舊C-v2混進新插圖列。未修改App。
+完整懸浮列16項（含原D金盆）、地圖主要5項與其他7項，共28個語意ID已逐項選定。Feed是自動循環＋咬一口蘋果；回App／回遊戲同金框綠底與黃色返回箭頭，中央分別為蘑菇／手把；隱藏為睜眼＋斜線。沒有修改App，尚未做實機測試。
 
-[懸浮列已選組合](brand/ui/illustrated-v1/approved/batch2-floatbar/current-set.png) · [懸浮列固定清單](brand/ui/illustrated-v1/approved/batch2-floatbar/current-manifest.json) · [地圖已選組合](brand/ui/illustrated-v1/approved/batch3-map/current-set.png) · [地圖固定清單](brand/ui/illustrated-v1/approved/batch3-map/current-manifest.json) · [Claude交接](brand/ui/illustrated-v1/CLAUDE-HANDOFF.md)
+[正式全系列索引](brand/ui/illustrated-v1/approved/active-sets.json) · [全部核准組合](brand/ui/illustrated-v1/approved/complete-set-v1.png) · [浮列完整16項](brand/ui/illustrated-v1/approved/batch2-floatbar/completion-v4/manifest.json) · [浮列尺寸檢閱](brand/ui/illustrated-v1/approved/batch2-floatbar/completion-v4/index.html) · [地圖其他7項](brand/ui/illustrated-v1/approved/batch3-map/current-manifest.json) · [Claude交接](brand/ui/illustrated-v1/CLAUDE-HANDOFF.md)
+
+舊partial manifest與C-v2保留作歷史；目前選用以active-sets.json為準，不混入未選候選。新延伸圖仍須個別核准。
 
 ### Auto 重新設計 v2 · C循環果實已核准
 
@@ -28,7 +30,7 @@
 
 ### 拉金盆最新選用 · D 蘑菇插圖版（2026-11-05 已核准）
 
-使用者已選 D：雙葉、圓腹金盆與粗下箭頭，改用 v0.5 地圖蘑菇的霧面立體插圖畫法。僅 GoldBasin 改採此版，取代下列 v6／C-v2 的金盆選用；其他圖示未重新核准。原始核准檔保留，沒有修改 App。
+使用者已選 D：雙葉、圓腹金盆與粗下箭頭，改用 v0.5 地圖蘑菇的霧面立體插圖畫法。GoldBasin沿用此版；浮列與地圖其餘選用見上方完整illustrated-v1正式索引。原始核准檔保留，沒有修改 App。
 
 [核准 PNG](brand/ui/approved/gold-planter-illustrated-v1/icon.png) · [規格與 SHA-256](brand/ui/approved/gold-planter-illustrated-v1/approval.json) · [Claude 交接](brand/ui/approved/gold-planter-illustrated-v1/CLAUDE-HANDOFF.md) · [核准紀錄](brand/approvals/2026-11-05-gold-planter-illustrated.md)
 

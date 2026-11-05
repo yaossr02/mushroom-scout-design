@@ -33,3 +33,5 @@
 - 2026-11-05 地圖七項已補齊：最新 `brand/ui/illustrated-v1/approved/batch3-map/current-manifest.json`；收合/展開選B綠色雙尖括號、圖層B剖面地塊。四個懸浮待重畫：餵食動作、蘑菇程式、遊戲圖示、功能性隱藏眼睛；功能眼睛是使用者明確要求，並非擬人化角色五官。
 
 - 2026-11-05 HideFloat已核准A v3睜眼＋斜線；浮列最新清單 `brand/ui/illustrated-v1/approved/batch2-floatbar/current-manifest.json`（12張＋D金盆，尚缺Feed/ReturnToApp/GameReturn）。三項最新方向：循環自動＋咬一口蘋果；ReturnToApp用B主體配A黃返回箭頭；GameReturn同款把蘑菇換手把。新改稿仍待核准。
+
+- 2026-11-05 illustrated-v1完整28個ID已核准：正式入口 `brand/ui/illustrated-v1/approved/active-sets.json`。浮列16項用 `approved/batch2-floatbar/completion-v4/manifest.json`，地圖主要5項用approved/current-manifest.json，其他7項用batch3-map/current-manifest.json。Feed為循環箭頭＋咬一口蘋果；ReturnToApp/GameReturn同金框綠底與黃色彎曲返回箭頭，中央分別蘑菇/手把。不得用舊partial或混C-v2。未改App；核准後自動推送授權維持。

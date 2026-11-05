@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "id": "GameReturn",
+  "label": "回到遊戲",
+  "concept": "A",
+  "version": "v4",
+  "status": "candidate",
+  "tool": "image_gen",
+  "directory": "candidates/GameReturn-A-v4",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png",
+    "brand/ui/illustrated-v1/approved/batch1/Scan.png",
+    "brand/ui/illustrated-v1/candidates/ReturnToApp-A-v4/generated-original.png"
+  ],
+  "transparent_background": true,
+  "original": {
+    "path": "brand/ui/illustrated-v1/candidates/GameReturn-A-v4/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      32,
+      21,
+      1236,
+      1191
+    ],
+    "bbox_alpha128": [
+      83,
+      105,
+      1163,
+      1188
+    ],
+    "sha256": "a765cf3366062fc51907ef2c0b6b75bd26e643dcd09419bdc4b30b593ec5d7d0"
+  },
+  "final": {
+    "path": "brand/ui/illustrated-v1/candidates/GameReturn-A-v4/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      52,
+      18,
+      1224,
+      1157
+    ],
+    "bbox_alpha128": [
+      102,
+      100,
+      1152,
+      1154
+    ],
+    "sha256": "8c289e4a837dc0462aa2055fed6e1b1cb97fc2d74bb3760f3afdbdb862740321"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale/transparent canvas translation only; no drawing or shape edits",
+      "scale": 0.9732225300092336,
+      "offset_px": [
+        21,
+        -2
+      ]
+    }
+  ]
+}

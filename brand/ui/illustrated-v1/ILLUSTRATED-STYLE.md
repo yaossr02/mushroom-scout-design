@@ -1,3 +1,5 @@
+> 最終核准 · 2026-11-05：懸浮列16項與地圖12項共28個ID已齊。現行來源以 [active-sets.json](approved/active-sets.json) 與 [Claude交接](CLAUDE-HANDOFF.md) 為準。下列早期方向／待選說明保留歷史；新延伸圖仍逐張核准。
+
 > 最新選用 · 2026-11-05：Auto已改採C循環果實v2。其餘四項與GoldBasin D維持。正式來源見 [現行清單](approved/current-manifest.json)；下方首批說明為歷史。
 
 > 最新核准 · 2026-11-05：Auto A、Tasks A、Records A、Favorites B、Scan A；GoldBasin沿用D。其餘五張仍candidate。以下首稿與方向確認說明保留審閱歷史，正式來源見 [核准manifest](approved/batch1/manifest.json)，程式交接見 [CLAUDE-HANDOFF.md](CLAUDE-HANDOFF.md)。

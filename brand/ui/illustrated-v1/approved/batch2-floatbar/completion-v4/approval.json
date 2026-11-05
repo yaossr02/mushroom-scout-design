@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-05",
+  "status": "approved",
+  "user_confirmation": "好, 就確定這些。推上去。",
+  "assets": [
+    {
+      "id": "Feed",
+      "label": "自動餵果",
+      "concept": "A",
+      "version": "v4",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/completion-v4/Feed.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Feed-A-v4",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-floatbar-complete-v4.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        1,
+        5,
+        1219,
+        1223
+      ],
+      "bbox_alpha128": [
+        110,
+        101,
+        1144,
+        1153
+      ],
+      "sha256": "d01308e64bc08f0241bb9ceeab35214f9ebfff82c375efd975233ea88808581a"
+    },
+    {
+      "id": "ReturnToApp",
+      "label": "回到App",
+      "concept": "A",
+      "version": "v4",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/completion-v4/ReturnToApp.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/ReturnToApp-A-v4",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-floatbar-complete-v4.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        19,
+        29,
+        1237,
+        1221
+      ],
+      "bbox_alpha128": [
+        102,
+        101,
+        1152,
+        1154
+      ],
+      "sha256": "62af767c75dc5249d9b9e3e239a21f2929998d759e8c97a5e11f388f9bab2c91"
+    },
+    {
+      "id": "GameReturn",
+      "label": "回到遊戲",
+      "concept": "A",
+      "version": "v4",
+      "status": "approved",
+      "date": "2026-11-05",
+      "path": "brand/ui/illustrated-v1/approved/batch2-floatbar/completion-v4/GameReturn.png",
+      "source_candidate": "brand/ui/illustrated-v1/candidates/GameReturn-A-v4",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-floatbar-complete-v4.md",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        52,
+        18,
+        1224,
+        1157
+      ],
+      "bbox_alpha128": [
+        102,
+        100,
+        1152,
+        1154
+      ],
+      "sha256": "8c289e4a837dc0462aa2055fed6e1b1cb97fc2d74bb3760f3afdbdb862740321"
+    }
+  ],
+  "approval_record": "brand/approvals/2026-11-05-illustrated-floatbar-complete-v4.md",
+  "scope": "Exact three final v4 PNGs; combined with previous approvals completes16 floating-bar IDs."
+}

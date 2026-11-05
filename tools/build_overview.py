@@ -33,12 +33,14 @@ if orbit_file.exists():
 new_floatbar=ROOT/'brand/ui/illustrated-v1/approved/batch2-floatbar/manifest.json'
 float_current=ROOT/'brand/ui/illustrated-v1/approved/batch2-floatbar/current-manifest.json'
 if float_current.exists():new_floatbar=float_current
+float_complete=ROOT/'brand/ui/illustrated-v1/approved/batch2-floatbar/completion-v4/manifest.json'
+if float_complete.exists():new_floatbar=float_complete
 floatbar_manifest=new_floatbar if new_floatbar.exists() else ROOT/'brand/ui/v0.7-botanical/approved/floatbar-C-v2/manifest.json'
 if floatbar_manifest.exists():
  floatbar=json.loads(floatbar_manifest.read_text())
  if new_floatbar.exists():
-  s+='<h2>04　懸浮列插圖 · 12張新核准＋D金盆（尚缺3項）</h2><p>HideFloat已選睜眼＋斜線A；Feed、ReturnToApp、GameReturn仍待改稿核准。未與舊C-v2混搭；以下只列已核准來源，不代表全套已完成替換。</p><div class="grid">'
-  icons=[dict(floatbar['existing_approved_reference'],label='拉金盆')]+floatbar['assets']
+  s+='<h2>04　懸浮列插圖 · 16項全部已核准</h2><p>Feed自動＋咬一口蘋果；回App與回遊戲採同金框綠底及黃色返回箭頭；HideFloat睜眼斜線。全套插圖設計已齊，不混舊C-v2，尚未修改App。</p><div class="grid">'
+  icons=floatbar['assets'] if any(i['id']=='GoldBasin' for i in floatbar['assets']) else [dict(floatbar['existing_approved_reference'],label='拉金盆')]+floatbar['assets']
  else:
   s+='<h2>04　歷史遊戲懸浮功能列 · C-v2</h2><div class="grid">'
   icons=floatbar['assets']
