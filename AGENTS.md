@@ -19,3 +19,7 @@
 - 核准的五種元素特效包含大型火舌／浪頭／分岔電弧／毒霧旋渦／晶片；圖層與合成圖 hash 綁定於 `brand/effects/v0.9-orbit-bold/approval.json`，新改稿不能繼承核准。此 B 與功能圖示 B「植物線條」分開；本次核准不擴及其他功能圖示，沒有執行時動畫或 App 整合。
 
 - 懸浮功能列已核准方向（2026-11-04）：遊戲 overlay 專用「C 金盆圓角貼紙 v2」，核准16張，固定交付在 `brand/ui/v0.7-botanical/approved/floatbar-C-v2/manifest.json`。新增／改浮列圖示先讀 `brand/ui/v0.7-botanical/FLOATBAR-STYLE.md`，附上核准 `GoldBasin.png` 與同套用途圖作image_gen參考；墨綠實心、連續奶油貼紙邊、墨綠外keyline、單一珊瑚紅重點。App內一般圖示仍沿既有植物線條方向；不得混用。整套視覺核准不代表線寬警示或實機測試已通過；新變體仍須另行核准。Claude匯入交接見 `FLOATBAR-CLAUDE-HANDOFF.md`。
+
+- 2026-11-05 GoldBasin 最新選用：使用者「我選D」核准蘑菇插圖畫法 D（雙葉、粗下箭頭），正式來源 `brand/ui/approved/gold-planter-illustrated-v1/approval.json`。僅 GoldBasin 取代 v6／C-v2 選用；其他圖示不繼承核准。後續以 v0.5 紅菇／火菇霧面立體插圖作畫法參考，不對這張沿用貼紙規則。核准範圍與Claude交接見正式目錄，尚未接App。
+
+- 2026-11-05 插圖風功能首批已逐項核准：Auto A、Tasks A、Records A、Favorites B、Scan A，正式來源 `brand/ui/illustrated-v1/approved/batch1/manifest.json`；GoldBasin沿用D。後續門面插圖依 `ILLUSTRATED-STYLE.md`，每次附核准D金盆與v0.5紅菇；新功能不繼承核准，16dp小符號不在本系列。App交接 `brand/ui/illustrated-v1/CLAUDE-HANDOFF.md`，本repo不改App。

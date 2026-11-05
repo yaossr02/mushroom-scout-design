@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-05",
+  "id": "GoldBasin",
+  "variant": "D-bold-arrow",
+  "status": "approved",
+  "approval_scope": "visual design of this exact PNG only; not App integration, not other icons or variants",
+  "user_confirmation": "我選D",
+  "path": "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+  "sha256": "b6967fa63f1844ffc17ba55a808f3e4c5a95e49cd233b3b8e014addbfb35b1a2",
+  "dimensions_px": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha_extrema": [
+    0,
+    255
+  ],
+  "bbox_alpha128": [
+    97,
+    148,
+    1158,
+    1137
+  ],
+  "source_candidate": "brand/ui/candidates/gold-planter-illustrated-v1/D-bold-arrow",
+  "approval_record": "brand/approvals/2026-11-05-gold-planter-illustrated.md",
+  "known_limitations": [
+    "Low-alpha model edge pixels retained.",
+    "20dp merges fine details; no Android overlay device test performed."
+  ],
+  "supersedes_for_GoldBasin": [
+    "brand/ui/v0.7-botanical/approved/floatbar-C-v2/GoldBasin.png",
+    "brand/ui/v0.7-botanical/candidates/gold-planter-swipe-down-v6/icon.png"
+  ]
+}

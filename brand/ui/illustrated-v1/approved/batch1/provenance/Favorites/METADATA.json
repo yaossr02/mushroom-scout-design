@@ -1,0 +1,81 @@
+{
+  "id": "Favorites",
+  "concept": "B",
+  "label": "常用地點",
+  "title": "金色星花",
+  "subject": "a small five-pointed honey-gold star-shaped flower with plump softly rounded petals and a tiny warm coral-red circular flower center, growing on one short thick sage-green stem with a single broad leaf. The star flower is the large main object, no other flowers, no sparkle, not a metallic star badge, no face",
+  "directory": "candidates/Favorites-B-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Favorites-B-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      24,
+      1240,
+      1232
+    ],
+    "bbox_alpha128": [
+      155,
+      68,
+      1050,
+      1189
+    ],
+    "sha256": "ff08f31389372943cefd7c7d7c8650f348d7a7dd92bf6ce28e2aa982e4b226de"
+  },
+  "final": {
+    "path": "candidates/Favorites-B-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      61,
+      58,
+      1227,
+      1194
+    ],
+    "bbox_alpha128": [
+      207,
+      100,
+      1048,
+      1154
+    ],
+    "sha256": "6b64bf4f172edff1ddf6ef07f4a9525d9b1a31c8b983e21cf583912abdd5ed45"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 0.9402319357716324,
+      "offset_px": [
+        61,
+        36
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}

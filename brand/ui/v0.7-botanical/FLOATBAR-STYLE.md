@@ -1,3 +1,5 @@
+> 2026-11-05 更新：GoldBasin 已另選 D 蘑菇插圖版；此文件的 C-v2 金盆規則不再適用於新版 GoldBasin。正式來源與匯入規格見 [D 交接](../approved/gold-planter-illustrated-v1/CLAUDE-HANDOFF.md)。其餘圖示未重新設計。
+
 # 懸浮功能列設計方式 · C 金盆圓角貼紙 v2
 
 使用者於 2026-11-04 選用並核准整套 C-v2，要求保存此設計方式並交由 Claude 修改 App。

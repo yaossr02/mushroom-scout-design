@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "version": "illustrated-v1-batch1",
+  "status": "approved",
+  "approval_scope": "Exact five selected PNG visual designs only; no App import or device validation",
+  "user_confirmation": [
+    "Annotated image circles Auto A, Tasks A, Records A, Favorites B, Scan A and existing D GoldBasin",
+    "Assistant restated the six-item selection; user replied: 對！舊照這個繼續"
+  ],
+  "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md",
+  "assets": [
+    {
+      "id": "Auto",
+      "label": "自動",
+      "concept": "A",
+      "title": "循環金盆",
+      "status": "approved",
+      "path": "brand/ui/illustrated-v1/approved/batch1/Auto.png",
+      "sha256": "1ca80d316222a3a9ad973c2d7e1676cd1963f82f2f5dbae808e3817c333097e9",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        11,
+        14,
+        1210,
+        1227
+      ],
+      "bbox_alpha128": [
+        99,
+        143,
+        1154,
+        1112
+      ],
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Auto-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    },
+    {
+      "id": "Tasks",
+      "label": "任務清單",
+      "concept": "A",
+      "title": "緞帶紙卷",
+      "status": "approved",
+      "path": "brand/ui/illustrated-v1/approved/batch1/Tasks.png",
+      "sha256": "d189b6551fda328cee38ce309857c6bb664da059ad1736a42efbac41756645b1",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        47,
+        26,
+        1188,
+        1203
+      ],
+      "bbox_alpha128": [
+        139,
+        100,
+        1116,
+        1154
+      ],
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Tasks-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    },
+    {
+      "id": "Records",
+      "label": "蘑菇紀錄",
+      "concept": "A",
+      "title": "紅菇圖鑑",
+      "status": "approved",
+      "path": "brand/ui/illustrated-v1/approved/batch1/Records.png",
+      "sha256": "85ac880e34209ee1d0844cb1cb1927e81a0e5dbec45115001f9142952897a50a",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        77,
+        85,
+        1167,
+        1169
+      ],
+      "bbox_alpha128": [
+        100,
+        193,
+        1154,
+        1060
+      ],
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Records-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    },
+    {
+      "id": "Favorites",
+      "label": "常用地點",
+      "concept": "B",
+      "title": "金色星花",
+      "status": "approved",
+      "path": "brand/ui/illustrated-v1/approved/batch1/Favorites.png",
+      "sha256": "6b64bf4f172edff1ddf6ef07f4a9525d9b1a31c8b983e21cf583912abdd5ed45",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        61,
+        58,
+        1227,
+        1194
+      ],
+      "bbox_alpha128": [
+        207,
+        100,
+        1048,
+        1154
+      ],
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Favorites-B-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    },
+    {
+      "id": "Scan",
+      "label": "掃描找蘑菇",
+      "concept": "A",
+      "title": "放大鏡紅菇",
+      "status": "approved",
+      "path": "brand/ui/illustrated-v1/approved/batch1/Scan.png",
+      "sha256": "330305068cbb1292dc04c5d350d5d010af828d4d60c6d3d4d0ad666e608628c9",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bbox_alpha_nonzero": [
+        31,
+        24,
+        1218,
+        1184
+      ],
+      "bbox_alpha128": [
+        143,
+        100,
+        1111,
+        1154
+      ],
+      "source_candidate": "brand/ui/illustrated-v1/candidates/Scan-A-v1",
+      "approval_record": "brand/approvals/2026-11-05-illustrated-v1-batch1.md"
+    }
+  ],
+  "existing_approved_reference": {
+    "id": "GoldBasin",
+    "path": "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "sha256": "b6967fa63f1844ffc17ba55a808f3e4c5a95e49cd233b3b8e014addbfb35b1a2",
+    "approval_record": "brand/approvals/2026-11-05-gold-planter-illustrated.md"
+  },
+  "known_limitations": [
+    "20dp merges fine details; device overlay/map tests pending.",
+    "Faint model alpha edge pixels retained."
+  ],
+  "not_approved": [
+    "Auto-B",
+    "Tasks-B",
+    "Records-B",
+    "Favorites-A",
+    "Scan-B"
+  ]
+}

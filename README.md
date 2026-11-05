@@ -4,11 +4,23 @@
 
 ## 全系列圖示總覽
 
-目前有效的 21 張蘑菇／植物／品牌素材，以及完整 **57 項 B 植物線條功能用途＋地圖入口**。品牌、首批六張功能原圖與「拉金盆」v6 已核准；其餘 49 張延伸原圖仍待審核，另附五種已核准的 v0.9 B 環繞流動強化特效。另有 **16 張遊戲懸浮功能列 C 金盆圓角貼紙 v2 已核准**，與 App 內圖示分開使用。點擊大圖可放大。
+目前有效的 21 張蘑菇／植物／品牌素材，以及完整 **57 項 B 植物線條功能用途＋地圖入口**。品牌、首批六張功能原圖與「拉金盆」v6 已核准；其餘 49 張延伸原圖仍待審核，另附五種已核准的 v0.9 B 環繞流動強化特效。另有 **16 張遊戲懸浮功能列 C 金盆圓角貼紙 v2 已核准**，與 App 內圖示分開使用；其中 GoldBasin 最新採用 2026-11-05 核准的 D 蘑菇插圖版。點擊大圖可放大。
 
 [![全系列圖示總覽](brand/reviews/overview/all-icons-overview.png)](brand/reviews/overview/all-icons-overview.png)
 
 新增、修改或停用圖示，以及變更核准狀態時，須同步更新大圖與本節說明，保留名稱、一般／選取狀態及實際審核狀態。
+
+### 插圖風功能圖示 · 第一批5張已核准（2026-11-05）
+
+新系列以核准 D 金盆與 v0.5 紅菇的霧面立體插圖為樣板。地圖右側 Auto／Tasks／Records／Favorites／Scan 各 A、B 兩個概念；現已逐項核准 Auto A、Tasks A、Records A、Favorites B、Scan A，另五張仍為candidate。GoldBasin沿用D；未修改 App 或既有核准檔。
+
+[已核准組合](brand/ui/illustrated-v1/approved/batch1/selected-set.png) · [Claude交接](brand/ui/illustrated-v1/CLAUDE-HANDOFF.md) · [系列規範](brand/ui/illustrated-v1/ILLUSTRATED-STYLE.md) · [已選直排與尺寸檢閱](brand/ui/illustrated-v1/approved/batch1/index.html) · [固定核准清單](brand/ui/illustrated-v1/approved/batch1/manifest.json)
+
+### 拉金盆最新選用 · D 蘑菇插圖版（2026-11-05 已核准）
+
+使用者已選 D：雙葉、圓腹金盆與粗下箭頭，改用 v0.5 地圖蘑菇的霧面立體插圖畫法。僅 GoldBasin 改採此版，取代下列 v6／C-v2 的金盆選用；其他圖示未重新核准。原始核准檔保留，沒有修改 App。
+
+[核准 PNG](brand/ui/approved/gold-planter-illustrated-v1/icon.png) · [規格與 SHA-256](brand/ui/approved/gold-planter-illustrated-v1/approval.json) · [Claude 交接](brand/ui/approved/gold-planter-illustrated-v1/CLAUDE-HANDOFF.md) · [核准紀錄](brand/approvals/2026-11-05-gold-planter-illustrated.md)
 
 ### 遊戲懸浮功能列：C 金盆圓角貼紙 v2（16 張已核准）
 

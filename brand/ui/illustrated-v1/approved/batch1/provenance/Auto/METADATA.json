@@ -1,0 +1,81 @@
+{
+  "id": "Auto",
+  "concept": "A",
+  "label": "自動",
+  "title": "循環金盆",
+  "subject": "a small round-bellied honey-gold planter with a fresh sprout in brown soil, with one thick coral-red circular cycling arrow curving around beside the planter. The arrow is a simple chunky looping clay form with a clearly readable arrowhead. Keep the pot shape from the gold reference but replace its downward arrow with this looping arrow",
+  "directory": "candidates/Auto-A-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Auto-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      9,
+      1230,
+      1254
+    ],
+    "bbox_alpha128": [
+      91,
+      141,
+      1173,
+      1136
+    ],
+    "sha256": "322c0b4011e9f0db247a7a90f08ddfec95a619886ef99f1090668a33a53cafe1"
+  },
+  "final": {
+    "path": "candidates/Auto-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      11,
+      14,
+      1210,
+      1227
+    ],
+    "bbox_alpha128": [
+      99,
+      143,
+      1154,
+      1112
+    ],
+    "sha256": "1ca80d316222a3a9ad973c2d7e1676cd1963f82f2f5dbae808e3817c333097e9"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 0.9741219963031423,
+      "offset_px": [
+        11,
+        5
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "D-bold-arrow",
+  "status": "candidate",
+  "original": {
+    "path": "D-bold-arrow/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1234,
+      1254
+    ],
+    "bbox_alpha128": [
+      97,
+      148,
+      1158,
+      1137
+    ],
+    "sha256": "9a6e150c7c6133e3793ef0cf1569297cbb180a9a058da18077075ce840779ca3"
+  },
+  "final": {
+    "path": "D-bold-arrow/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      0,
+      1234,
+      1254
+    ],
+    "bbox_alpha128": [
+      97,
+      148,
+      1158,
+      1137
+    ],
+    "sha256": "b6967fa63f1844ffc17ba55a808f3e4c5a95e49cd233b3b8e014addbfb35b1a2"
+  },
+  "mechanical_operations": [],
+  "limitations": [
+    "Soft shaded illustration; visual selection pending.",
+    "Model alpha edges retained, including faint edge pixels. No shape correction or outline added."
+  ]
+}

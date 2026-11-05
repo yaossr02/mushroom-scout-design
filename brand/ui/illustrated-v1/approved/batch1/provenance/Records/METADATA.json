@@ -1,0 +1,81 @@
+{
+  "id": "Records",
+  "concept": "A",
+  "label": "蘑菇紀錄",
+  "title": "紅菇圖鑑",
+  "subject": "a small open cream field-guide book with a warm brown rounded cover, its inner page showing one large simple coral-red mushroom illustration with cream stem and spots. One broad sage-green leaf bookmark at the spine. No writing, no page lines, no letters; thick simple rounded pages and one bold mushroom illustration",
+  "directory": "candidates/Records-A-v1",
+  "status": "candidate",
+  "date": "2026-11-05",
+  "timezone": "Asia/Taipei",
+  "tool": "image_gen",
+  "reference": [
+    "brand/ui/approved/gold-planter-illustrated-v1/icon.png",
+    "brand/approved/v0.5/red-mushroom.png"
+  ],
+  "original": {
+    "path": "candidates/Records-A-v1/generated-original.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      0,
+      33,
+      1228,
+      1254
+    ],
+    "bbox_alpha128": [
+      26,
+      155,
+      1213,
+      1131
+    ],
+    "sha256": "5fa091ee3fcf614d4d815692e536d839a0f613ec3da9d7bab754f8ccd82f38f7"
+  },
+  "final": {
+    "path": "candidates/Records-A-v1/icon.png",
+    "dimensions_px": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bbox_alpha_nonzero": [
+      77,
+      85,
+      1167,
+      1169
+    ],
+    "bbox_alpha128": [
+      100,
+      193,
+      1154,
+      1060
+    ],
+    "sha256": "85ac880e34209ee1d0844cb1cb1927e81a0e5dbec45115001f9142952897a50a"
+  },
+  "mechanical_operations": [
+    {
+      "operation": "Uniform scale and translate complete RGBA image to center alpha128 body with about 8% safe margin; no shape edits",
+      "scale": 0.8879528222409435,
+      "offset_px": [
+        77,
+        56
+      ]
+    }
+  ],
+  "alpha_policy": "Original alpha retained; no shape edits, morphological filters, recoloring, thickening or outline added.",
+  "limitations": [
+    "Generated soft shading and edge alpha require visual review.",
+    "20dp/24dp browser mockups are not Android device tests."
+  ]
+}
